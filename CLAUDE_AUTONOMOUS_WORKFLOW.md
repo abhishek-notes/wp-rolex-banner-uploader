@@ -194,36 +194,54 @@ Rolex-at-Palladio-the-art-of-watchmaking-Mobile-Banner.jpg
 
 #### Extended Blog Banners (4 variants - Homepage + Discover Page)
 ```
-Rolex-at-Palladio-{title}-{Desktop/Mobile}-Banner.jpg
-Rolex-at-Palladio-{title}-Discover-Page-{Desktop/Mobile}-Banner.jpg
+Rolex-at-Palladio-{title}-Blog-{Desktop/Mobile}-Banner.jpg
+Rolex-at-Palladio-{title}-Blog-Discover-Page-{Desktop/Mobile}-Banner.jpg
 ```
 
 **Variants Generated (4 total):**
-1. `Desktop` (Homepage Desktop)
-2. `Mobile` (Homepage Mobile)
-3. `Discover-Page-Desktop` (Discover Page Desktop)
-4. `Discover-Page-Mobile` (Discover Page Mobile)
+1. `Blog-Desktop` (Homepage Desktop - 4000x1840)
+2. `Blog-Mobile` (Homepage Mobile - 1280x1760)
+3. `Blog-Discover-Page-Desktop` (Discover Page Desktop - 3360x840)
+4. `Blog-Discover-Page-Mobile` (Discover Page Mobile - 1280x1760)
 
 **Example Output (Endurance blog):**
 ```
-Rolex-at-Palladio-Endurance-Desktop-Banner.jpg
-Rolex-at-Palladio-Endurance-Mobile-Banner.jpg
-Rolex-at-Palladio-Endurance-Discover-Page-Desktop-Banner.jpg
-Rolex-at-Palladio-Endurance-Discover-Page-Mobile-Banner.jpg
+Rolex-at-Palladio-Endurance-Blog-Desktop-Banner.jpg
+Rolex-at-Palladio-Endurance-Blog-Mobile-Banner.jpg
+Rolex-at-Palladio-Endurance-Blog-Discover-Page-Desktop-Banner.jpg
+Rolex-at-Palladio-Endurance-Blog-Discover-Page-Mobile-Banner.jpg
 ```
 
 ---
 
 ## 🎯 METADATA GENERATION PATTERNS
 
-### Title Pattern
+### Title Patterns
+
+#### Monthly Banners
 ```
 Rolex at Palladio Jewellers in Vancouver - Official Rolex Retailer - {Collection} {ModelNumber} - {Month} {Variant} Banner {DeviceType}
 ```
 
-### Alt Text Pattern
+#### Blog Banners
+```
+{BlogTitle} Blog - {Context} Banner - Rolex at Palladio Jewellers in Vancouver - Official Rolex Retailer
+```
+
+**Examples:**
+- `Endurance Blog - Desktop Banner - Rolex at Palladio Jewellers in Vancouver - Official Rolex Retailer`
+- `Endurance Blog - Discover Page Mobile Banner - Rolex at Palladio Jewellers in Vancouver - Official Rolex Retailer`
+
+### Alt Text Patterns
+
+#### Monthly Banners
 ```
 Rolex at Palladio Jewellers - {Collection} - {Month} {Variant} Banner {DeviceType}
+```
+
+#### Blog Banners
+```
+Rolex at Palladio Jewellers - {BlogTitle} Blog - {Context} Banner
 ```
 
 ### Caption Pattern
@@ -263,7 +281,8 @@ A {devicetype} banner for the blog post "{Title}" at Palladio Jewellers, an Offi
 - **Fallback Mobile:** 1280x1920 (ratio: 0.67) - Standard mobile banner
 
 ### Blog Banner Dimensions
-- **Desktop Blog:** 4000x1840 (ratio: 2.17) - Current blog desktop format
+- **Homepage Desktop:** 4000x1840 (ratio: 2.17) - Current blog homepage desktop
+- **Discover Page Desktop:** 3360x840 (ratio: 4.0) - Blog discover page desktop
 - **Mobile Blog:** 1280x1760 (ratio: 0.73) - Current blog mobile format
 - **Legacy Desktop:** 5760x2100 (ratio: 2.74) - Previous blog desktop format
 - **Legacy Mobile:** 780x1050 (ratio: 0.74) - Previous blog mobile format
@@ -273,8 +292,9 @@ A {devicetype} banner for the blog post "{Title}" at Palladio Jewellers, an Offi
 /(\d{3,4})x(\d{3,4})/
 ```
 Examples:
-- `M126234_image_3360x840.jpg` → Desktop (3360x840, ratio: 4.0)
-- `RBA_Endurance_Banner_4000x1840.jpg` → Desktop (4000x1840, ratio: 2.17) - **Blog Desktop**
+- `M126234_image_3360x840.jpg` → Desktop (3360x840, ratio: 4.0) - **Monthly/Blog Discover Page Desktop**
+- `RBA_Endurance_Banner_4000x1840.jpg` → Desktop (4000x1840, ratio: 2.17) - **Blog Homepage Desktop**
+- `RBA_Endurance_Banner_3360x840.jpg` → Desktop (3360x840, ratio: 4.0) - **Blog Discover Page Desktop**
 - `M126234_image_1440x2560.jpg` → Mobile (1440x2560, ratio: 0.56) - **Preferred for Discover Page Mobile**
 - `RBA_Endurance_Banner_1280x1760.jpg` → Mobile (1280x1760, ratio: 0.73) - **Blog Mobile**
 - `M126234_image_1280x1280.jpg` → Mobile (1280x1280, ratio: 1.0)
