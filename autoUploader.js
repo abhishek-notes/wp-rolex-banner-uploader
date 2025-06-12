@@ -24,26 +24,23 @@ const axios = require("axios");
 const FormData = require("form-data");
 const yargs = require("yargs/yargs");
 const { hideBin } = require("yargs/helpers");
-const Anthropic = require("@anthropic-ai/sdk");
-const imageSize = require("image-size");
+const { imageSize } = require("image-size");
 require("dotenv").config();
 
 // --- 1. Configuration & Setup ---
-const { WP_USER, APP_PASSWORD, WP_URL, ANTHROPIC_API_KEY } = process.env;
+const { WP_USER, APP_PASSWORD, WP_URL } = process.env;
 const SOURCE_DIR = "source-images";
 const PROCESSED_DIR = "processed-images";
 
-if (!WP_USER || !APP_PASSWORD || !WP_URL || !ANTHROPIC_API_KEY) {
+if (!WP_USER || !APP_PASSWORD || !WP_URL) {
     console.error("❌ Fatal: A required variable in your .env file is missing.");
-    console.error("Required: WP_USER, APP_PASSWORD, WP_URL, ANTHROPIC_API_KEY");
+    console.error("Required: WP_USER, APP_PASSWORD, WP_URL");
     process.exit(1);
 }
 if (!fs.existsSync(SOURCE_DIR)) {
     console.log(`📂 Creating source directory: ./${SOURCE_DIR}`);
     fs.mkdirSync(SOURCE_DIR);
 }
-
-const anthropic = new Anthropic({ apiKey: ANTHROPIC_API_KEY });
 
 // --- 2. File Intelligence: Identify Source Files ---
 function findAndIdentifySourceFiles() {
@@ -61,26 +58,38 @@ function findAndIdentifySourceFiles() {
 
     for (const file of files) {
         const filePath = path.join(SOURCE_DIR, file);
-        try {
-            const dims = imageSize(filePath);
-            // Heuristic: Desktop banners are significantly wider than they are tall.
-            if ((dims.width / dims.height) > 2 && !desktopFile) {
-                desktopFile = { path: filePath, name: file };
-                console.log(`   - Identified Desktop: ${file} (${dims.width}x${dims.height})`);
-            } else if (!mobileFile) {
-                mobileFile = { path: filePath, name: file };
-                console.log(`   - Identified Mobile:  ${file} (${dims.width}x${dims.height})`);
+        // Extract dimensions from filename if available (e.g. 3360x840)
+        const dimensionMatch = file.match(/(\d{3,4})x(\d{3,4})/);
+        let dims = null;
+        
+        if (dimensionMatch) {
+            dims = { width: parseInt(dimensionMatch[1]), height: parseInt(dimensionMatch[2]) };
+            console.log(`   - Reading: ${file} (${dims.width}x${dims.height})`);
+        } else {
+            // Try to read with image-size as fallback
+            try {
+                dims = imageSize(filePath);
+                console.log(`   - Reading: ${file} (${dims.width}x${dims.height})`);
+            } catch (e) {
+                console.warn(`Could not read dimensions for ${file}. Error:`, e.message);
+                continue;
             }
+        }
+        
+        // Heuristic: Desktop banners are significantly wider than they are tall.
+        if ((dims.width / dims.height) > 2 && !desktopFile) {
+            desktopFile = { path: filePath, name: file };
+            console.log(`   - Identified Desktop: ${file} (${dims.width}x${dims.height})`);
+        } else if (!mobileFile) {
+            mobileFile = { path: filePath, name: file };
+            console.log(`   - Identified Mobile:  ${file} (${dims.width}x${dims.height})`);
+        }
 
-            // Extract model number (e.g., M126518LN-0014) from filename
-            const match = file.match(/(M\d{5,}[A-Z\d-]*)/i);
-            if (match && !modelNumber) {
-                modelNumber = match[0];
-                console.log(`   - Extracted Model #:  ${modelNumber}`);
-            }
-
-        } catch (e) {
-            console.warn(`Could not read dimensions for ${file}. Skipping.`);
+        // Extract model number (e.g., M126518LN-0014) from filename
+        const match = file.match(/(M\d{5,}[A-Z\d-]*)/i);
+        if (match && !modelNumber) {
+            modelNumber = match[0];
+            console.log(`   - Extracted Model #:  ${modelNumber}`);
         }
     }
 
@@ -92,24 +101,64 @@ function findAndIdentifySourceFiles() {
 }
 
 
-// --- 3. AI Interaction & Upload Logic ---
-async function runAiAndUpload(prompt) {
-    console.log(`\n🤖 Asking AI to generate metadata...`);
-    let metadataBatch;
-    try {
-        const msg = await anthropic.messages.create({
-            model: "claude-3-5-sonnet-20241022",
-            max_tokens: 2048,
-            messages: [{ role: "user", content: prompt }],
+// --- 3. Metadata Generation & Upload Logic ---
+function generateMetadata(type, options) {
+    console.log(`\n🤖 Generating metadata for ${type} banners...`);
+    let metadataBatch = [];
+
+    if (type === 'monthly') {
+        const { month, collection, modelNumber, desktopFile, mobileFile } = options;
+        const collectionHyphenated = collection.replace(/\s+/g, '-');
+        
+        // Generate 4 variants for monthly banners
+        const variants = [
+            { variant: 'Desktop', type: 'Monthly', source: desktopFile },
+            { variant: 'Mobile', type: 'Monthly', source: mobileFile },
+            { variant: 'Discover-Page-Desktop', type: 'Discover Page', source: desktopFile },
+            { variant: 'Discover-Page-Mobile', type: 'Discover Page', source: mobileFile }
+        ];
+
+        variants.forEach(v => {
+            const isDiscover = v.variant.includes('Discover');
+            const deviceType = v.variant.includes('Desktop') ? 'Desktop' : 'Mobile';
+            
+            metadataBatch.push({
+                originalPath: v.source.path,
+                newFilename: `Rolex-at-Palladio-${month}-${v.variant}-Banner-${collectionHyphenated}_${modelNumber}.jpg`,
+                title: `Rolex at Palladio Jewellers in Vancouver - Official Rolex Retailer - ${collection} ${modelNumber} - ${month} ${v.type} Banner ${deviceType}`,
+                alt: `Rolex at Palladio Jewellers - ${collection} - ${month} ${v.type} Banner ${deviceType}`,
+                caption: `Palladio Jewellers - Official Rolex Retailer - Vancouver - ${month} ${v.variant.replace('-', ' ')} Banner - ${collection} ${modelNumber}`,
+                description: isDiscover 
+                    ? `Discover-page ${deviceType.toLowerCase()} banner for the ${month} Rolex ${collection} feature at Palladio Jewellers, Official Rolex Retailer in Vancouver.`
+                    : `${deviceType} banner for the ${month} "Watch of the Month," the Rolex ${collection}, at Palladio Jewellers, Official Rolex Retailer in Vancouver.`
+            });
         });
-        const jsonResponse = msg.content[0].text;
-        metadataBatch = JSON.parse(jsonResponse);
-        console.log("✅ AI responded successfully. Received metadata for " + metadataBatch.length + " items.");
-    } catch (error) {
-        console.error("❌ Fatal: Error calling AI API:", error.message);
-        process.exit(1);
+    } else if (type === 'blog') {
+        const { title, hyphenatedTitle, desktopFile, mobileFile } = options;
+        
+        // Generate 2 variants for blog banners
+        const variants = [
+            { variant: 'Desktop', source: desktopFile },
+            { variant: 'Mobile', source: mobileFile }
+        ];
+
+        variants.forEach(v => {
+            metadataBatch.push({
+                originalPath: v.source.path,
+                newFilename: `Rolex-at-Palladio-${hyphenatedTitle}-${v.variant}-Banner.jpg`,
+                title: `${title} - Official Rolex Retailer in Vancouver - Palladio Jewellers`,
+                alt: `${title} - Banner at Palladio Jewellers - ${v.variant}`,
+                caption: `Palladio Jewellers - Official Rolex Retailer - Vancouver - ${title} Banner`,
+                description: `A ${v.variant.toLowerCase()} banner for the blog post "${title}" at Palladio Jewellers, an Official Rolex Retailer in Vancouver.`
+            });
+        });
     }
-    
+
+    console.log("✅ Generated metadata for " + metadataBatch.length + " items.");
+    return metadataBatch;
+}
+
+async function processAndUpload(metadataBatch) {
     // Process and upload the batch
     if (!fs.existsSync(PROCESSED_DIR)) fs.mkdirSync(PROCESSED_DIR);
     
@@ -176,29 +225,15 @@ yargs(hideBin(process.argv))
             throw new Error("Could not automatically extract a model number (e.g., M12345-0001) from the filenames in './source-images'.");
         }
         
-        const prompt = `
-            You are a WordPress assistant for "Palladio Jewellers."
-            Generate metadata for a monthly banner for 4 variants (Homepage Desktop/Mobile, Discover Page Desktop/Mobile).
-            
-            --- DETAILS ---
-            - Month: ${argv.month}
-            - Collection Name: ${argv.collection}
-            - Model Number: ${modelNumber}
-            - Source for Desktop variants: ${desktopFile.path}
-            - Source for Mobile variants: ${mobileFile.path}
-
-            --- PATTERNS ---
-            - Filename: Rolex-at-Palladio-{Month}-{Homepage/Discover-Page}-{Desktop/Mobile}-Banner-{CollectionName-Hyphenated}_{ModelNumber}.jpg
-            - Alt Text: Rolex at Palladio Jewellers - {Collection Name} - {Month} {Monthly/Discover Page} Banner {Desktop/Mobile}
-            - Title: Rolex at Palladio Jewellers in Vancouver - Official Rolex Retailer - {Collection Name} {ModelNumber} - {Month} {Monthly/Discover Page} Banner {Desktop/Mobile}
-            - Caption: Palladio Jewellers - Official Rolex Retailer - Vancouver - {Month} {Desktop/Mobile/Discover Page Desktop/Discover Page Mobile} Banner - {Collection Name} {ModelNumber}
-            - Description (Homepage): {Desktop/Mobile} banner for the {Month} "Watch of the Month," the Rolex {Collection Name}, at Palladio Jewellers, Official Rolex Retailer in Vancouver.
-            - Description (Discover Page): Discover-page {desktop/mobile} banner for the {Month} Rolex {Collection Name} feature at Palladio Jewellers, Official Rolex Retailer in Vancouver.
-            
-            --- OUTPUT ---
-            Respond with ONLY a valid JSON array of 4 objects. Each object must contain: originalPath, newFilename, title, alt, caption, description. Use the correct source path for desktop vs. mobile.
-        `;
-        await runAiAndUpload(prompt);
+        const metadataBatch = generateMetadata('monthly', {
+            month: argv.month,
+            collection: argv.collection,
+            modelNumber,
+            desktopFile,
+            mobileFile
+        });
+        
+        await processAndUpload(metadataBatch);
     })
     .command('blog', 'Generate and upload a banner for a blog post', (yargs) => {
         return yargs.option('title', {
@@ -210,27 +245,14 @@ yargs(hideBin(process.argv))
         const { desktopFile, mobileFile } = findAndIdentifySourceFiles();
         const hyphenatedTitle = argv.title.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
 
-        const prompt = `
-            You are a WordPress assistant for "Palladio Jewellers."
-            Generate metadata for a blog post banner for 2 variants (Desktop/Mobile).
-
-            --- DETAILS ---
-            - Blog Title: ${argv.title}
-            - Hyphenated Title for Filename: ${hyphenatedTitle}
-            - Source for Desktop variant: ${desktopFile.path}
-            - Source for Mobile variant: ${mobileFile.path}
-
-            --- PATTERNS ---
-            - Filename: Rolex-at-Palladio-${hyphenatedTitle}-{Desktop/Mobile}-Banner.jpg
-            - Alt Text: ${argv.title} - Banner at Palladio Jewellers - {Desktop/Mobile}
-            - Title: ${argv.title} - Official Rolex Retailer in Vancouver - Palladio Jewellers
-            - Caption: Palladio Jewellers - Official Rolex Retailer - Vancouver - ${argv.title} Banner
-            - Description: A {desktop/mobile} banner for the blog post "${argv.title}" at Palladio Jewellers, an Official Rolex Retailer in Vancouver.
-            
-            --- OUTPUT ---
-            Respond with ONLY a valid JSON array of 2 objects. Each object must contain: originalPath, newFilename, title, alt, caption, description. Use the correct source path for desktop vs. mobile.
-        `;
-        await runAiAndUpload(prompt);
+        const metadataBatch = generateMetadata('blog', {
+            title: argv.title,
+            hyphenatedTitle,
+            desktopFile,
+            mobileFile
+        });
+        
+        await processAndUpload(metadataBatch);
     })
     .demandCommand(1, "You must specify a command: 'monthly' or 'blog'.")
     .help()
