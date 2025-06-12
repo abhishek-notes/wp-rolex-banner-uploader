@@ -175,7 +175,9 @@ Rolex-at-Palladio-July-Discover-Page-Desktop-Banner-Datejust_M126234-0015.jpg
 Rolex-at-Palladio-July-Discover-Page-Mobile-Banner-Datejust_M126234-0015.jpg
 ```
 
-### Blog Banner Naming Pattern
+### Blog Banner Naming Patterns
+
+#### Standard Blog Banners (2 variants)
 ```
 Rolex-at-Palladio-{hyphenated-title}-{Desktop/Mobile}-Banner.jpg
 ```
@@ -188,6 +190,26 @@ Rolex-at-Palladio-{hyphenated-title}-{Desktop/Mobile}-Banner.jpg
 ```
 Rolex-at-Palladio-the-art-of-watchmaking-Desktop-Banner.jpg
 Rolex-at-Palladio-the-art-of-watchmaking-Mobile-Banner.jpg
+```
+
+#### Extended Blog Banners (4 variants - Homepage + Discover Page)
+```
+Rolex-at-Palladio-{title}-{Desktop/Mobile}-Banner.jpg
+Rolex-at-Palladio-{title}-Discover-Page-{Desktop/Mobile}-Banner.jpg
+```
+
+**Variants Generated (4 total):**
+1. `Desktop` (Homepage Desktop)
+2. `Mobile` (Homepage Mobile)
+3. `Discover-Page-Desktop` (Discover Page Desktop)
+4. `Discover-Page-Mobile` (Discover Page Mobile)
+
+**Example Output (Endurance blog):**
+```
+Rolex-at-Palladio-Endurance-Desktop-Banner.jpg
+Rolex-at-Palladio-Endurance-Mobile-Banner.jpg
+Rolex-at-Palladio-Endurance-Discover-Page-Desktop-Banner.jpg
+Rolex-at-Palladio-Endurance-Discover-Page-Mobile-Banner.jpg
 ```
 
 ---
@@ -236,8 +258,15 @@ A {devicetype} banner for the blog post "{Title}" at Palladio Jewellers, an Offi
 
 ### Preferred Mobile Dimensions
 - **Primary Mobile:** 1440x2560 (ratio: 0.56) - Preferred for Discover Page Mobile
+- **Blog Mobile:** 1280x1760 (ratio: 0.73) - Blog banner mobile format
 - **Secondary Mobile:** 1280x1280 (ratio: 1.0) - Square format
 - **Fallback Mobile:** 1280x1920 (ratio: 0.67) - Standard mobile banner
+
+### Blog Banner Dimensions
+- **Desktop Blog:** 4000x1840 (ratio: 2.17) - Current blog desktop format
+- **Mobile Blog:** 1280x1760 (ratio: 0.73) - Current blog mobile format
+- **Legacy Desktop:** 5760x2100 (ratio: 2.74) - Previous blog desktop format
+- **Legacy Mobile:** 780x1050 (ratio: 0.74) - Previous blog mobile format
 
 ### Filename Dimension Extraction
 ```regex
@@ -245,7 +274,9 @@ A {devicetype} banner for the blog post "{Title}" at Palladio Jewellers, an Offi
 ```
 Examples:
 - `M126234_image_3360x840.jpg` → Desktop (3360x840, ratio: 4.0)
+- `RBA_Endurance_Banner_4000x1840.jpg` → Desktop (4000x1840, ratio: 2.17) - **Blog Desktop**
 - `M126234_image_1440x2560.jpg` → Mobile (1440x2560, ratio: 0.56) - **Preferred for Discover Page Mobile**
+- `RBA_Endurance_Banner_1280x1760.jpg` → Mobile (1280x1760, ratio: 0.73) - **Blog Mobile**
 - `M126234_image_1280x1280.jpg` → Mobile (1280x1280, ratio: 1.0)
 - `M126234_image_1280x1920.jpg` → Mobile (1280x1920, ratio: 0.67)
 

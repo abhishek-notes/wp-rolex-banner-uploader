@@ -55,13 +55,19 @@ January, February, March, April, May, June, July, August, September, October, No
 
 ## 📱 Preferred Mobile Dimensions
 - 1440x2560 (Discover Page Mobile - Preferred)
+- 1280x1760 (Blog Mobile - Current)
 - 1280x1280 (Square format)
 - 1280x1920 (Standard mobile)
+
+## 📰 Blog Banner Dimensions
+- Desktop: 4000x1840 (Current) or 5760x2100 (Legacy)
+- Mobile: 1280x1760 (Current) or 780x1050 (Legacy)
 
 ## 🎯 Output Pattern
 ```
 Monthly: Rolex-at-Palladio-{Month}-{Variant}-Banner-{Collection}_{Model}.jpg
-Blog: Rolex-at-Palladio-{hyphenated-title}-{Desktop/Mobile}-Banner.jpg
+Blog (Standard): Rolex-at-Palladio-{hyphenated-title}-{Desktop/Mobile}-Banner.jpg
+Blog (Extended): Rolex-at-Palladio-{title}-{Discover-Page-}?{Desktop/Mobile}-Banner.jpg
 ```
 
 **ALWAYS USE CLAUDE_AUTONOMOUS_WORKFLOW.md FOR COMPLETE INSTRUCTIONS**
