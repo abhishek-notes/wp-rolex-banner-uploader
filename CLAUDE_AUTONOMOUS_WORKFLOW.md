@@ -92,10 +92,18 @@ ls -la images/
 ls -la source-images/
 ```
 
-6. **Copy images from images/ to source-images/:**
+6. **Copy images from images/ to source-images/ (excluding archived folder):**
 ```bash
-cp images/*.jpg source-images/ 2>/dev/null || cp images/*.jpeg source-images/ 2>/dev/null || cp images/*.png source-images/
+# Copy all images except those in archived/ignored folders
+find images/ -maxdepth 1 -name "*.jpg" -exec cp {} source-images/ \; 2>/dev/null
+find images/ -maxdepth 1 -name "*.jpeg" -exec cp {} source-images/ \; 2>/dev/null  
+find images/ -maxdepth 1 -name "*.png" -exec cp {} source-images/ \; 2>/dev/null
+
+# Alternative single command (excludes subdirectories automatically):
+cp images/*.{jpg,jpeg,png} source-images/ 2>/dev/null
 ```
+
+**Important:** Always exclude archived folders like `images/Archived - Ignore Images/`
 
 7. **Verify copy success:**
 ```bash
@@ -226,13 +234,20 @@ A {devicetype} banner for the blog post "{Title}" at Palladio Jewellers, an Offi
 - **Desktop Images:** Width/Height ratio > 2.0 (significantly wider than tall)
 - **Mobile Images:** Width/Height ratio ≤ 2.0 (square or tall)
 
+### Preferred Mobile Dimensions
+- **Primary Mobile:** 1440x2560 (ratio: 0.56) - Preferred for Discover Page Mobile
+- **Secondary Mobile:** 1280x1280 (ratio: 1.0) - Square format
+- **Fallback Mobile:** 1280x1920 (ratio: 0.67) - Standard mobile banner
+
 ### Filename Dimension Extraction
 ```regex
 /(\d{3,4})x(\d{3,4})/
 ```
 Examples:
 - `M126234_image_3360x840.jpg` → Desktop (3360x840, ratio: 4.0)
+- `M126234_image_1440x2560.jpg` → Mobile (1440x2560, ratio: 0.56) - **Preferred for Discover Page Mobile**
 - `M126234_image_1280x1280.jpg` → Mobile (1280x1280, ratio: 1.0)
+- `M126234_image_1280x1920.jpg` → Mobile (1280x1920, ratio: 0.67)
 
 ### Model Number Extraction
 ```regex
@@ -269,10 +284,11 @@ Examples:
 
 **No images found in source-images/:**
 ```bash
-# Check if images exist in images/ directory first
+# Check if images exist in images/ directory first (excluding archived folders)
 ls -la images/
-# Copy them manually if needed
-cp images/*.jpg source-images/
+# Copy them manually if needed (exclude archived subdirectories)
+cp images/*.jpg source-images/ 2>/dev/null
+# DO NOT copy from archived folders like "images/Archived - Ignore Images/"
 ```
 
 **Cannot read image dimensions:**

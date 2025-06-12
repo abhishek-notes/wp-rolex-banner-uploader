@@ -7,8 +7,8 @@
 
 ### Execute This:
 ```bash
-# 1. Copy images
-cp images/*.jpg source-images/
+# 1. Copy images (exclude archived folders)
+cp images/*.jpg source-images/ 2>/dev/null
 
 # 2. Run command  
 node autoUploader.js monthly --collection "[Collection]" --month "[Month]"
@@ -21,8 +21,8 @@ node autoUploader.js monthly --collection "[Collection]" --month "[Month]"
 
 ### Execute This:
 ```bash
-# 1. Copy images
-cp images/*.jpg source-images/
+# 1. Copy images (exclude archived folders)
+cp images/*.jpg source-images/ 2>/dev/null
 
 # 2. Run command
 node autoUploader.js blog --title "[Title]"
@@ -51,6 +51,12 @@ January, February, March, April, May, June, July, August, September, October, No
 - Blog: 2/2 uploads  
 - WordPress IDs returned
 - Files cleaned up
+- Exclude archived folders (e.g., "Archived - Ignore Images")
+
+## 📱 Preferred Mobile Dimensions
+- 1440x2560 (Discover Page Mobile - Preferred)
+- 1280x1280 (Square format)
+- 1280x1920 (Standard mobile)
 
 ## 🎯 Output Pattern
 ```
