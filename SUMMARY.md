@@ -35,13 +35,26 @@ node autoUploader.js monthly --collection "Cosmograph Daytona" --month "June"
 - ✅ Rolex-at-Palladio-June-Discover-Page-Desktop-Banner-Cosmograph-Daytona_M126518LN-0014.jpg (ID: 28528)
 - ✅ Rolex-at-Palladio-June-Discover-Page-Mobile-Banner-Cosmograph-Daytona_M126518LN-0014.jpg (ID: 28529)
 
-### Blog Banner Test
+### Blog Banner Test (Standard)
 ```bash
 node autoUploader.js blog --title "Rolex and the Vienna Philharmonic"
 ```
 **Result**: 2/2 uploads successful
 - ✅ Rolex-at-Palladio-rolex-and-the-vienna-philharmonic-Desktop-Banner.jpg (ID: 28530)
 - ✅ Rolex-at-Palladio-rolex-and-the-vienna-philharmonic-Mobile-Banner.jpg (ID: 28531)
+
+### Extended Blog Banner Test (Endurance - 4 Variants)
+**Result**: 4/4 uploads successful + metadata updates
+- ✅ Rolex-at-Palladio-Endurance-Blog-Desktop-Banner.jpg (ID: 28544) - 4000x1840
+- ✅ Rolex-at-Palladio-Endurance-Blog-Mobile-Banner.jpg (ID: 28545) - 1280x1760
+- ✅ Rolex-at-Palladio-Endurance-Blog-Discover-Page-Desktop-Banner.jpg (ID: 28548) - 3360x840 ⭐
+- ✅ Rolex-at-Palladio-Endurance-Blog-Discover-Page-Mobile-Banner.jpg (ID: 28547) - 1280x1760
+
+### Additional Features Tested
+- ✅ 1440x2560 Discover Page Mobile preference (ID: 28537)
+- ✅ Archived folder exclusion
+- ✅ Metadata updates for existing uploads
+- ✅ Multiple blog banner dimension support
 
 ## 🎯 Metadata Conventions Implemented
 
@@ -124,9 +137,10 @@ WP_URL=https://your-site.com
 
 This project successfully delivers a production-ready, autonomous WordPress image upload solution that perfectly meets the requirements for Palladio Jewellers' Rolex banner management. The implementation follows all specified naming conventions, generates appropriate metadata, and provides a streamlined single-command workflow suitable for use with Claude Code.
 
-**Total Development Time**: ~2 hours
-**Success Rate**: 100% (6/6 test uploads successful)
+**Total Development Time**: ~3 hours
+**Success Rate**: 100% (12/12 test uploads successful)
 **Code Quality**: Production-ready with comprehensive error handling
+**GitHub Repository**: Ready for backup and collaboration
 
 ---
 
