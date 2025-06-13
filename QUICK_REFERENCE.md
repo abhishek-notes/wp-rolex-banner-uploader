@@ -44,6 +44,20 @@ node uploadEnduranceContent.js
 # 3. Report results
 ```
 
+### When User Says:
+> "hub feature image" or "blog thumbnail feature image"
+
+### Execute This:
+```bash
+# 1. Copy hub feature image (exclude archived folders)
+cp images/*world-of-rolex*.jpg source-images/ 2>/dev/null
+
+# 2. Run hub feature upload script
+node uploadHubFeatureImage.js
+
+# 3. Report results
+```
+
 ## 📋 Collection Names (Copy Exactly)
 - Cosmograph Daytona
 - Submariner Date  
@@ -64,6 +78,7 @@ January, February, March, April, May, June, July, August, September, October, No
 - Monthly: 4/4 uploads
 - Blog Banners: 2/2 uploads  
 - Blog Content: All content images uploaded (varies by topic)
+- Hub Feature: 1/1 upload with WordPress URL
 - WordPress IDs returned
 - Files cleaned up
 - Exclude archived folders (e.g., "Archived - Ignore Images")
@@ -86,6 +101,7 @@ Monthly: Rolex-at-Palladio-{Month}-{Variant}-Banner-{Collection}_{Model}.jpg
 Blog Banners (Standard): Rolex-at-Palladio-{hyphenated-title}-{Desktop/Mobile}-Banner.jpg
 Blog Banners (Extended): Rolex-at-Palladio-{title}-Blog-{Discover-Page-}?{Desktop/Mobile}-Banner.jpg
 Blog Content: {BlogTopic}-Blog-{subject-slug}-{orientation}-Rolex-Palladio.jpg
+Hub Feature: {BlogTopic}-Blog-Hub-{subject}-Feature-Rolex-Palladio.jpg
 ```
 
 **ALWAYS USE CLAUDE_AUTONOMOUS_WORKFLOW.md FOR COMPLETE INSTRUCTIONS**

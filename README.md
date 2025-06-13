@@ -70,6 +70,19 @@ node uploadEnduranceContent.js
 
 This handles multiple content images with subject-specific naming and metadata.
 
+### Hub Feature Images
+
+For blog hub/thumbnail feature images:
+
+1. Place your hub feature image in the `source-images` folder
+2. Run the hub feature uploader:
+
+```bash
+node uploadHubFeatureImage.js
+```
+
+This handles single hub feature images for blog category thumbnails.
+
 ## How It Works
 
 1. **File Detection**: Scans `source-images` directory for image files
@@ -105,11 +118,20 @@ Examples:
 - `Endurance-Blog-jamie-chadwick-landscape-Rolex-Palladio.jpg`
 - `Endurance-Blog-le-mans-24-hours-portrait-Rolex-Palladio.jpg`
 
+### Hub Feature Images
+```
+{BlogTopic}-Blog-Hub-{subject}-Feature-Rolex-Palladio.jpg
+```
+
+Examples:
+- `Endurance-Blog-Hub-Le-Mans-24hr-Feature-Rolex-Palladio.jpg`
+
 ## Project Structure
 
 ```
 ├── autoUploader.js             # Main autonomous script (banners)
 ├── uploadEnduranceContent.js   # Blog content image uploader
+├── uploadHubFeatureImage.js    # Hub feature image uploader
 ├── source-images/             # Drop source images here
 ├── processed-images/          # Processed files (auto-created)
 ├── uploadMedia.js            # Legacy upload script

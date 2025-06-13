@@ -8,7 +8,7 @@ This guide covers uploading **blog content images** (images that appear within b
 
 ## 🔍 IDENTIFYING BLOG CONTENT IMAGES
 
-### Blog Content Images vs Blog Banners
+### Blog Content Images vs Blog Banners vs Hub Feature Images
 
 **Blog Content Images:**
 - Individual photos for specific blog sections
@@ -22,6 +22,12 @@ This guide covers uploading **blog content images** (images that appear within b
 - Fewer variants (typically 2-4 per blog)
 - Named with "Banner" in the title
 
+**Hub Feature Images:**
+- Single thumbnail/feature image for blog hub/category
+- Typically wide format (e.g., 2400x800)
+- Named with blog topic and "world-of-rolex" or similar hub identifiers
+- Used for blog section navigation and social previews
+
 ---
 
 ## 🚀 WORKFLOW FOR BLOG CONTENT IMAGES
@@ -31,18 +37,29 @@ Look for files with descriptive subject names rather than banner dimensions:
 ```
 ✅ Blog Content: rolex-endurance-jamie-chadwick-landscape.jpg
 ✅ Blog Content: rolex-endurance-lemans-circuit-portrait.jpg
+✅ Hub Feature: Endurance-24hr_Le_Mans-world-of-rolex-at-Palladio-Jewellers.jpg
 ❌ Blog Banner: RBA_Endurance_Website_Banner_4000x1840.jpg
 ```
 
-### Step 2: Use Custom Upload Script
-For blog content images, use the specialized `uploadEnduranceContent.js` script instead of the main `autoUploader.js`:
+### Step 2: Use Appropriate Upload Script
+Choose the correct script based on image type:
 
+**For Blog Content Images:**
 ```bash
 # Copy content images to source-images/
 cp images/rolex-[blog-topic]-*.jpg source-images/
 
 # Run the blog content upload script
 node uploadEnduranceContent.js
+```
+
+**For Hub Feature Images:**
+```bash
+# Copy hub feature image to source-images/
+cp images/*world-of-rolex*.jpg source-images/
+
+# Run the hub feature upload script
+node uploadHubFeatureImage.js
 ```
 
 ### Step 3: Content Classification
@@ -70,24 +87,49 @@ Endurance-Blog-{subject-slug}-{orientation}-Rolex-Palladio.jpg
 - `Endurance-Blog-le-mans-24-hours-portrait-Rolex-Palladio.jpg`
 - `Endurance-Blog-cosmograph-daytona-collection-landscape-Rolex-Palladio.jpg`
 
-### Metadata Pattern
+### Hub Feature Images
+```
+{BlogTopic}-Blog-Hub-{subject}-Feature-Rolex-Palladio.jpg
+```
+
+### Examples
+- `Endurance-Blog-Hub-Le-Mans-24hr-Feature-Rolex-Palladio.jpg`
+
+### Metadata Patterns
+
+#### Blog Content Images
 - **Title**: `Endurance Blog - {Subject} - {Orientation} - Rolex at Palladio Jewellers`
 - **Alt Text**: `Rolex at Palladio Jewellers - Endurance Blog - {Subject} {Orientation}`
 - **Caption**: `{Subject} - Endurance Blog - Palladio Jewellers Official Rolex Retailer`
 - **Description**: `{Orientation} image of {description} for the Endurance blog at Palladio Jewellers, Official Rolex Retailer in Vancouver.`
 
+#### Hub Feature Images
+- **Title**: `{BlogTopic} Blog Hub - {Subject} Feature Image - Rolex at Palladio Jewellers - Official Rolex Retailer`
+- **Alt Text**: `Rolex at Palladio Jewellers - {BlogTopic} Blog Hub - {Subject} Feature`
+- **Caption**: `{BlogTopic} Blog Hub Feature - {Subject} - Palladio Jewellers Official Rolex Retailer Vancouver`
+- **Description**: `Hub feature image for the {BlogTopic} blog showcasing {subject description} at Palladio Jewellers, Official Rolex Retailer in Vancouver.`
+
 ---
 
 ## 🛠 TECHNICAL IMPLEMENTATION
 
-### uploadEnduranceContent.js Features
+### Upload Script Features
 
+#### uploadEnduranceContent.js (Blog Content)
 1. **Content Mapping**: Maps filename patterns to subjects and descriptions
 2. **Intelligent Naming**: Generates SEO-friendly filenames
 3. **Orientation Detection**: Automatically detects landscape vs portrait
 4. **Metadata Generation**: Creates appropriate titles, alt text, captions, descriptions
 5. **WordPress Upload**: Uses REST API with proper authentication
 6. **Cleanup**: Removes source files after successful upload
+
+#### uploadHubFeatureImage.js (Hub Features)
+1. **Hub Detection**: Identifies hub feature images by filename patterns
+2. **Specialized Naming**: Generates hub-specific filenames
+3. **Feature Metadata**: Creates hub-appropriate metadata
+4. **Thumbnail Optimization**: Handles typical hub image dimensions (e.g., 2400x800)
+5. **WordPress Upload**: Uses REST API with proper authentication
+6. **URL Reporting**: Returns WordPress URL for immediate use
 
 ### Key Functions
 
@@ -155,6 +197,14 @@ node uploadEnduranceContent.js
 # Results: Multiple content images organized by subject
 ```
 
+### Hub Feature Image Workflow
+```bash
+# For blog hub/thumbnail feature images
+cp images/*world-of-rolex*.jpg source-images/
+node uploadHubFeatureImage.js
+# Results: Single hub feature image with thumbnail metadata
+```
+
 ---
 
 ## 📚 EXTENDING FOR OTHER BLOGS
@@ -199,6 +249,12 @@ const contentMapping = {
 - Various image dimensions
 - Content-specific naming and metadata
 
+**Use `uploadHubFeatureImage.js`** for:
+- Blog hub/category thumbnail images
+- Single feature image per blog topic
+- Hub navigation thumbnails
+- Social media preview images
+
 ### File Organization
 ```
 Blog Structure:
@@ -207,11 +263,13 @@ Blog Structure:
 │   ├── Homepage Mobile (1280x1760)
 │   ├── Discover Page Desktop (3360x840)
 │   └── Discover Page Mobile (1280x1760)
-└── Blog Content Images (uploadEnduranceContent.js)
-    ├── Subject 1 (landscape + portrait)
-    ├── Subject 2 (landscape + portrait)
-    ├── Subject 3 (landscape + portrait)
-    └── ...
+├── Blog Content Images (uploadEnduranceContent.js)
+│   ├── Subject 1 (landscape + portrait)
+│   ├── Subject 2 (landscape + portrait)
+│   ├── Subject 3 (landscape + portrait)
+│   └── ...
+└── Hub Feature Image (uploadHubFeatureImage.js)
+    └── Blog Hub Thumbnail (2400x800 or similar)
 ```
 
 ---

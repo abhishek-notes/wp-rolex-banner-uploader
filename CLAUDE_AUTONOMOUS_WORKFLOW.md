@@ -24,6 +24,13 @@ This document provides step-by-step instructions for any LLM (including future C
 - "these are content images, not banners"
 - Files named with subjects rather than banner dimensions
 
+**Hub Feature Images Trigger Phrases:**
+- "hub feature image" or "blog thumbnail"
+- "there needs to be a hub feature image"
+- "blog thumbnail feature image"
+- Files named with "world-of-rolex" or hub identifiers
+- Single wide-format image for blog category/hub
+
 **Example Task:**
 > "my images files for rolex monthly banners are added in images folder for july monthly banner of datejust collection - do the thing"
 
@@ -137,6 +144,12 @@ node uploadEnduranceContent.js
 # (or create custom script for other blog topics)
 ```
 
+**For HUB FEATURE IMAGES, execute:**
+```bash
+node uploadHubFeatureImage.js
+# (for blog hub/thumbnail feature images)
+```
+
 10. **Update TODO:** Mark steps 2-3 as completed based on execution success
 
 ### PHASE 4: VERIFICATION & CLEANUP (5 minutes)
@@ -239,6 +252,16 @@ Endurance-Blog-jamie-chadwick-portrait-Rolex-Palladio.jpg
 Endurance-Blog-le-mans-24-hours-landscape-Rolex-Palladio.jpg
 Endurance-Blog-le-mans-24-hours-portrait-Rolex-Palladio.jpg
 Endurance-Blog-cosmograph-daytona-collection-landscape-Rolex-Palladio.jpg
+```
+
+#### Hub Feature Images (Blog Thumbnails)
+```
+{BlogTopic}-Blog-Hub-{subject}-Feature-Rolex-Palladio.jpg
+```
+
+**Example Output (Endurance blog hub):**
+```
+Endurance-Blog-Hub-Le-Mans-24hr-Feature-Rolex-Palladio.jpg
 ```
 
 ---
