@@ -30,6 +30,20 @@ node autoUploader.js blog --title "[Title]"
 # 3. Report results
 ```
 
+### When User Says:
+> "these are image files for the blog, that will go on blog pages" or "upload blog content images"
+
+### Execute This:
+```bash
+# 1. Copy content images (exclude archived folders)
+cp images/rolex-[topic]-*.jpg source-images/ 2>/dev/null
+
+# 2. Run content upload script
+node uploadEnduranceContent.js
+
+# 3. Report results
+```
+
 ## 📋 Collection Names (Copy Exactly)
 - Cosmograph Daytona
 - Submariner Date  
@@ -48,7 +62,8 @@ January, February, March, April, May, June, July, August, September, October, No
 
 ## ✅ Success Criteria
 - Monthly: 4/4 uploads
-- Blog: 2/2 uploads  
+- Blog Banners: 2/2 uploads  
+- Blog Content: All content images uploaded (varies by topic)
 - WordPress IDs returned
 - Files cleaned up
 - Exclude archived folders (e.g., "Archived - Ignore Images")
@@ -68,8 +83,9 @@ January, February, March, April, May, June, July, August, September, October, No
 ## 🎯 Output Pattern
 ```
 Monthly: Rolex-at-Palladio-{Month}-{Variant}-Banner-{Collection}_{Model}.jpg
-Blog (Standard): Rolex-at-Palladio-{hyphenated-title}-{Desktop/Mobile}-Banner.jpg
-Blog (Extended): Rolex-at-Palladio-{title}-Blog-{Discover-Page-}?{Desktop/Mobile}-Banner.jpg
+Blog Banners (Standard): Rolex-at-Palladio-{hyphenated-title}-{Desktop/Mobile}-Banner.jpg
+Blog Banners (Extended): Rolex-at-Palladio-{title}-Blog-{Discover-Page-}?{Desktop/Mobile}-Banner.jpg
+Blog Content: {BlogTopic}-Blog-{subject-slug}-{orientation}-Rolex-Palladio.jpg
 ```
 
 **ALWAYS USE CLAUDE_AUTONOMOUS_WORKFLOW.md FOR COMPLETE INSTRUCTIONS**

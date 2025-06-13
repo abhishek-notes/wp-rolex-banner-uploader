@@ -1,6 +1,6 @@
 # WordPress Image Upload Script with AI
 
-An autonomous WordPress media upload script that uses AI to generate proper metadata and filenames for Rolex banner images at Palladio Jewellers.
+An autonomous WordPress media upload script that uses AI to generate proper metadata and filenames for Rolex images at Palladio Jewellers. Supports both banner images and blog content images.
 
 ## Features
 
@@ -57,6 +57,19 @@ For blog post banners:
 node autoUploader.js blog --title "Rolex and the Vienna Philharmonic"
 ```
 
+### Blog Content Images
+
+For individual blog content images (photos within blog posts):
+
+1. Place your content images in the `source-images` folder
+2. Run the specialized content uploader:
+
+```bash
+node uploadEnduranceContent.js
+```
+
+This handles multiple content images with subject-specific naming and metadata.
+
 ## How It Works
 
 1. **File Detection**: Scans `source-images` directory for image files
@@ -83,17 +96,28 @@ Examples:
 Rolex-at-Palladio-{hyphenated-title}-{Desktop/Mobile}-Banner.jpg
 ```
 
+### Blog Content Images
+```
+{BlogTopic}-Blog-{subject-slug}-{orientation}-Rolex-Palladio.jpg
+```
+
+Examples:
+- `Endurance-Blog-jamie-chadwick-landscape-Rolex-Palladio.jpg`
+- `Endurance-Blog-le-mans-24-hours-portrait-Rolex-Palladio.jpg`
+
 ## Project Structure
 
 ```
-├── autoUploader.js           # Main autonomous script
-├── source-images/           # Drop source images here
-├── processed-images/        # Processed files (auto-created)
-├── uploadMedia.js          # Legacy upload script
-├── export_wp_media.js      # Media export utility
-├── package.json            # Dependencies
-├── .env.example           # Environment template
-└── README.md              # This file
+├── autoUploader.js             # Main autonomous script (banners)
+├── uploadEnduranceContent.js   # Blog content image uploader
+├── source-images/             # Drop source images here
+├── processed-images/          # Processed files (auto-created)
+├── uploadMedia.js            # Legacy upload script
+├── export_wp_media.js        # Media export utility
+├── package.json              # Dependencies
+├── .env.example             # Environment template
+├── BLOG_CONTENT_IMAGES_GUIDE.md # Blog content images guide
+└── README.md                # This file
 ```
 
 ## Requirements

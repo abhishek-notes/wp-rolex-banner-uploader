@@ -24,7 +24,7 @@ const APP_PASSWORD = process.env.APP_PASSWORD
 const WP_URL = process.env.WP_URL
 
 const PER_PAGE = 100 // WP max
-const MAX_ITEMS = 500 // adjust if you want more/less
+const MAX_ITEMS = 1000 // adjust if you want more/less
 
 // ────────────────────────────────────
 // 2. Helpers

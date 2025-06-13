@@ -10,12 +10,19 @@ This document provides step-by-step instructions for any LLM (including future C
 
 ### When to Execute This Workflow
 
-**Trigger Phrases:**
+**Blog Banner Trigger Phrases:**
 - "my images files for rolex [monthly/blog] banners are added in images folder"
 - "do the rolex upload thing"
 - "process the rolex banners for [month] [collection]"
 - "upload the rolex images"
 - Any mention of: `rolex + images + [monthly/blog] + [collection/title]`
+
+**Blog Content Images Trigger Phrases:**
+- "these are image files for the blog, that will go on blog pages"
+- "upload blog content images for [topic]"
+- "process the individual blog images"
+- "these are content images, not banners"
+- Files named with subjects rather than banner dimensions
 
 **Example Task:**
 > "my images files for rolex monthly banners are added in images folder for july monthly banner of datejust collection - do the thing"
@@ -124,6 +131,12 @@ node autoUploader.js monthly --collection "[Collection]" --month "[Month]"
 node autoUploader.js blog --title "[Full Title]"
 ```
 
+**For BLOG CONTENT IMAGES, execute:**
+```bash
+node uploadEnduranceContent.js
+# (or create custom script for other blog topics)
+```
+
 10. **Update TODO:** Mark steps 2-3 as completed based on execution success
 
 ### PHASE 4: VERIFICATION & CLEANUP (5 minutes)
@@ -210,6 +223,22 @@ Rolex-at-Palladio-Endurance-Blog-Desktop-Banner.jpg
 Rolex-at-Palladio-Endurance-Blog-Mobile-Banner.jpg
 Rolex-at-Palladio-Endurance-Blog-Discover-Page-Desktop-Banner.jpg
 Rolex-at-Palladio-Endurance-Blog-Discover-Page-Mobile-Banner.jpg
+```
+
+### Blog Content Image Naming Patterns
+
+#### Blog Content Images (Individual Photos)
+```
+{BlogTopic}-Blog-{subject-slug}-{orientation}-Rolex-Palladio.jpg
+```
+
+**Example Output (Endurance blog content):**
+```
+Endurance-Blog-jamie-chadwick-landscape-Rolex-Palladio.jpg
+Endurance-Blog-jamie-chadwick-portrait-Rolex-Palladio.jpg
+Endurance-Blog-le-mans-24-hours-landscape-Rolex-Palladio.jpg
+Endurance-Blog-le-mans-24-hours-portrait-Rolex-Palladio.jpg
+Endurance-Blog-cosmograph-daytona-collection-landscape-Rolex-Palladio.jpg
 ```
 
 ---
