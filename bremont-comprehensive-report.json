@@ -1,0 +1,394 @@
+{
+  "summary": {
+    "totalWordPressProducts": 31,
+    "totalReferenceProducts": 29,
+    "timestamp": "2025-06-19T05:57:05.724Z"
+  },
+  "issues": [
+    {
+      "id": 28689,
+      "name": "Terra Nova 40.5 Date",
+      "issues": [
+        "Missing SKU (should be the reference number)"
+      ],
+      "fixes": {
+        "sku": "TN40-DT-SS-BK-B"
+      },
+      "imageRef": "TN40-DT-SS-BK-B"
+    },
+    {
+      "id": 28687,
+      "name": "Terra Nova 40.5 Jumping Hour",
+      "issues": [
+        "Missing SKU (should be the reference number)"
+      ],
+      "fixes": {
+        "sku": "TN40-JH-SS-BK-B"
+      },
+      "imageRef": "TN40-JH-SS-BK-B"
+    },
+    {
+      "id": 28685,
+      "name": "Terra Nova 40.5 Turning Bezel Power Reserve Black",
+      "issues": [
+        "Image reference TN40-PWR-SS-BK-L not found in reference document",
+        "Image has duplicate suffix, should use primary image",
+        "Missing SKU (should be the reference number)"
+      ],
+      "fixes": {
+        "removeImageSuffix": true,
+        "sku": "TN40-PWR-SS-BK-L"
+      },
+      "imageRef": "TN40-PWR-SS-BK-L"
+    },
+    {
+      "id": 28683,
+      "name": "Terra Nova 40.5 Turning Bezel Power Reserve",
+      "issues": [
+        "Image has duplicate suffix, should use primary image",
+        "Missing SKU (should be the reference number)"
+      ],
+      "fixes": {
+        "removeImageSuffix": true,
+        "sku": "TN40-PWR-SS-BL-B"
+      },
+      "imageRef": "TN40-PWR-SS-BL-B"
+    },
+    {
+      "id": 28681,
+      "name": "Terra Nova 40.5 Turning Bezel Power Reserve Black",
+      "issues": [
+        "Image reference TN40-PWR-SS-BK-L not found in reference document",
+        "Missing SKU (should be the reference number)"
+      ],
+      "fixes": {
+        "sku": "TN40-PWR-SS-BK-L"
+      },
+      "imageRef": "TN40-PWR-SS-BK-L"
+    },
+    {
+      "id": 28679,
+      "name": "Terra Nova 40.5 Turning Bezel Power Reserve",
+      "issues": [
+        "Missing SKU (should be the reference number)"
+      ],
+      "fixes": {
+        "sku": "TN40-PWR-SS-BL-B"
+      },
+      "imageRef": "TN40-PWR-SS-BL-B"
+    },
+    {
+      "id": 28674,
+      "name": "Altitude 39, Silver Leather Strap",
+      "issues": [
+        "Image reference ALT39-DT-SS-SI-L not found in reference document",
+        "Missing SKU (should be the reference number)"
+      ],
+      "fixes": {
+        "sku": "ALT39-DT-SS-SI-L"
+      },
+      "imageRef": "ALT39-DT-SS-SI-L"
+    },
+    {
+      "id": 28673,
+      "name": "Altitude 39, Steel Bracelet",
+      "issues": [
+        "Title mismatch: Current=\"Altitude 39, Steel Bracelet\", Should be=\"Altitude 39 Date, Black Dial, Steel Bracelet\"",
+        "Product-Image mismatch: Image ALT39-DT-SS-BK-B belongs to \"Altitude 39 Date, Black Dial, Steel Bracelet\"",
+        "Missing SKU (should be the reference number)"
+      ],
+      "fixes": {
+        "title": "Altitude 39 Date, Black Dial, Steel Bracelet",
+        "correctProduct": "Altitude 39 Date, Black Dial, Steel Bracelet",
+        "sku": "ALT39-DT-SS-BK-B"
+      },
+      "imageRef": "ALT39-DT-SS-BK-B"
+    },
+    {
+      "id": 28672,
+      "name": "Altitude 39, Black Leather Strap",
+      "issues": [
+        "Image reference ALT39-DT-SS-BK-L not found in reference document",
+        "Missing SKU (should be the reference number)"
+      ],
+      "fixes": {
+        "sku": "ALT39-DT-SS-BK-L"
+      },
+      "imageRef": "ALT39-DT-SS-BK-L"
+    },
+    {
+      "id": 28670,
+      "name": "Altitude Meteor, Silver Leather Strap",
+      "issues": [
+        "Image reference ALT42-MT-TI-BKBK-L not found in reference document",
+        "Image has duplicate suffix, should use primary image",
+        "Missing SKU (should be the reference number)"
+      ],
+      "fixes": {
+        "removeImageSuffix": true,
+        "sku": "ALT42-MT-TI-BKBK-L"
+      },
+      "imageRef": "ALT42-MT-TI-BKBK-L"
+    },
+    {
+      "id": 28668,
+      "name": "Altitude Meteor, Black Leather Strap",
+      "issues": [
+        "Image reference ALT42-MT-TI-BKBK-L not found in reference document",
+        "Missing SKU (should be the reference number)"
+      ],
+      "fixes": {
+        "sku": "ALT42-MT-TI-BKBK-L"
+      },
+      "imageRef": "ALT42-MT-TI-BKBK-L"
+    },
+    {
+      "id": 28666,
+      "name": "Altitude Meteor, Black Titanium",
+      "issues": [
+        "Image reference ALT42-MT-TI-BKBK-L not found in reference document",
+        "Missing SKU (should be the reference number)"
+      ],
+      "fixes": {
+        "sku": "ALT42-MT-TI-BKBK-L"
+      },
+      "imageRef": "ALT42-MT-TI-BKBK-L"
+    },
+    {
+      "id": 28664,
+      "name": "Altitude GMT, Silver",
+      "issues": [
+        "Image reference ALT42-CHR-G-SS-SI not found in reference document",
+        "Missing SKU (should be the reference number)"
+      ],
+      "fixes": {
+        "sku": "ALT42-CHR-G-SS-SI"
+      },
+      "imageRef": "ALT42-CHR-G-SS-SI"
+    },
+    {
+      "id": 28662,
+      "name": "Altitude GMT, Black",
+      "issues": [
+        "Image reference ALT42-CHR-G-SS-BK not found in reference document",
+        "Missing SKU (should be the reference number)"
+      ],
+      "fixes": {
+        "sku": "ALT42-CHR-G-SS-BK"
+      },
+      "imageRef": "ALT42-CHR-G-SS-BK"
+    },
+    {
+      "id": 28660,
+      "name": "Altitude Chronograph GMT",
+      "issues": [
+        "Image reference ALT42-CHR-G-SS-BK not found in reference document",
+        "Missing SKU (should be the reference number)"
+      ],
+      "fixes": {
+        "sku": "ALT42-CHR-G-SS-BK"
+      },
+      "imageRef": "ALT42-CHR-G-SS-BK"
+    },
+    {
+      "id": 28658,
+      "name": "Supermarine 300M Date, Blue Bracelet",
+      "issues": [
+        "Title mismatch: Current=\"Supermarine 300M Date, Blue Bracelet\", Should be=\"Supermarine 300M, Blue Dial, Bracelet\"",
+        "Product-Image mismatch: Image SM40-ND-SS-BL-S belongs to \"Supermarine 300M, Blue Dial, Bracelet\"",
+        "Missing SKU (should be the reference number)"
+      ],
+      "fixes": {
+        "title": "Supermarine 300M, Blue Dial, Bracelet",
+        "correctProduct": "Supermarine 300M, Blue Dial, Bracelet",
+        "sku": "SM40-ND-SS-BL-S"
+      },
+      "imageRef": "SM40-ND-SS-BL-S"
+    },
+    {
+      "id": 28656,
+      "name": "Supermarine 300M Date, Black Rubber Strap",
+      "issues": [
+        "Image reference SM40-DT-SS-BK-R not found in reference document",
+        "Missing SKU (should be the reference number)"
+      ],
+      "fixes": {
+        "sku": "SM40-DT-SS-BK-R"
+      },
+      "imageRef": "SM40-DT-SS-BK-R"
+    },
+    {
+      "id": 28654,
+      "name": "Supermarine 300M Date, Black Bracelet",
+      "issues": [
+        "Title mismatch: Current=\"Supermarine 300M Date, Black Bracelet\", Should be=\"Supermarine 300M Date, Black Dial, Bracelet\"",
+        "Product-Image mismatch: Image SM40-DT-SS-BK-B belongs to \"Supermarine 300M Date, Black Dial, Bracelet\"",
+        "Missing SKU (should be the reference number)"
+      ],
+      "fixes": {
+        "title": "Supermarine 300M Date, Black Dial, Bracelet",
+        "correctProduct": "Supermarine 300M Date, Black Dial, Bracelet",
+        "sku": "SM40-DT-SS-BK-B"
+      },
+      "imageRef": "SM40-DT-SS-BK-B"
+    },
+    {
+      "id": 28652,
+      "name": "Supermarine 300M Date, Bi-Colour, Leather Strap",
+      "issues": [
+        "Title mismatch: Current=\"Supermarine 300M Date, Bi-Colour, Leather Strap\", Should be=\"Supermarine 300M, Blue Dial, Bracelet\"",
+        "Product-Image mismatch: Image SM40-ND-SS-BL-S belongs to \"Supermarine 300M, Blue Dial, Bracelet\"",
+        "Missing SKU (should be the reference number)"
+      ],
+      "fixes": {
+        "title": "Supermarine 300M, Blue Dial, Bracelet",
+        "correctProduct": "Supermarine 300M, Blue Dial, Bracelet",
+        "sku": "SM40-ND-SS-BL-S"
+      },
+      "imageRef": "SM40-ND-SS-BL-S"
+    },
+    {
+      "id": 28650,
+      "name": "Supermarine 500m, Black Rubber Strap",
+      "issues": [
+        "Image reference SM43-DT-SS-BK-R not found in reference document",
+        "Missing SKU (should be the reference number)"
+      ],
+      "fixes": {
+        "sku": "SM43-DT-SS-BK-R"
+      },
+      "imageRef": "SM43-DT-SS-BK-R"
+    },
+    {
+      "id": 28648,
+      "name": "Supermarine 500m",
+      "issues": [
+        "Missing SKU (should be the reference number)"
+      ],
+      "fixes": {
+        "sku": "SM43-DT-SS-BK-B"
+      },
+      "imageRef": "SM43-DT-SS-BK-B"
+    },
+    {
+      "id": 28646,
+      "name": "Supermarine Full Ceramic Tactical Black, NATO Strap",
+      "issues": [
+        "Image reference SM43-DT-BKCER-BK-N not found in reference document",
+        "Missing SKU (should be the reference number)"
+      ],
+      "fixes": {
+        "sku": "SM43-DT-BKCER-BK-N"
+      },
+      "imageRef": "SM43-DT-BKCER-BK-N"
+    },
+    {
+      "id": 28644,
+      "name": "Terra Nova 38 Pink",
+      "issues": [
+        "Title mismatch: Current=\"Terra Nova 38 Pink\", Should be=\"Terra Nova 38 'Pink'\"",
+        "Product-Image mismatch: Image TN38-ND-SS-PK-B belongs to \"Terra Nova 38 'Pink'\"",
+        "Missing SKU (should be the reference number)"
+      ],
+      "fixes": {
+        "title": "Terra Nova 38 'Pink'",
+        "correctProduct": "Terra Nova 38 'Pink'",
+        "sku": "TN38-ND-SS-PK-B"
+      },
+      "imageRef": "TN38-ND-SS-PK-B"
+    },
+    {
+      "id": 28642,
+      "name": "Terra Nova 40.5 Date, Green Dial",
+      "issues": [
+        "Image reference TN40-DT-SS-GN-L not found in reference document",
+        "Missing SKU (should be the reference number)"
+      ],
+      "fixes": {
+        "sku": "TN40-DT-SS-GN-L"
+      },
+      "imageRef": "TN40-DT-SS-GN-L"
+    },
+    {
+      "id": 28640,
+      "name": "Terra Nova 40.5 Date",
+      "issues": [
+        "Missing SKU (should be the reference number)"
+      ],
+      "fixes": {
+        "sku": "TN40-DT-SS-BK-B"
+      },
+      "imageRef": "TN40-DT-SS-BK-B"
+    },
+    {
+      "id": 28638,
+      "name": "Terra Nova 40.5 Jumping Hour",
+      "issues": [
+        "Missing SKU (should be the reference number)"
+      ],
+      "fixes": {
+        "sku": "TN40-JH-SS-BK-B"
+      },
+      "imageRef": "TN40-JH-SS-BK-B"
+    },
+    {
+      "id": 28636,
+      "name": "Terra Nova 40.5 Turning Bezel Power Reserve Black",
+      "issues": [
+        "Image reference TN40-PWR-SS-BK-L not found in reference document",
+        "Missing SKU (should be the reference number)"
+      ],
+      "fixes": {
+        "sku": "TN40-PWR-SS-BK-L"
+      },
+      "imageRef": "TN40-PWR-SS-BK-L"
+    },
+    {
+      "id": 28634,
+      "name": "Terra Nova 40.5 Turning Bezel Power Reserve",
+      "issues": [
+        "Missing SKU (should be the reference number)"
+      ],
+      "fixes": {
+        "sku": "TN40-PWR-SS-BL-B"
+      },
+      "imageRef": "TN40-PWR-SS-BL-B"
+    },
+    {
+      "id": 28632,
+      "name": "Terra Nova 42.5 Chronograph, Leather Strap",
+      "issues": [
+        "Image reference TN42-CHR-SS-BK-L not found in reference document",
+        "Missing SKU (should be the reference number)"
+      ],
+      "fixes": {
+        "sku": "TN42-CHR-SS-BK-L"
+      },
+      "imageRef": "TN42-CHR-SS-BK-L"
+    },
+    {
+      "id": 28629,
+      "name": "Terra Nova 42.5 Chronograph Bronze",
+      "issues": [
+        "Image reference TN42-CHR-BZ-GN-L not found in reference document",
+        "Missing SKU (should be the reference number)"
+      ],
+      "fixes": {
+        "sku": "TN42-CHR-BZ-GN-L"
+      },
+      "imageRef": "TN42-CHR-BZ-GN-L"
+    },
+    {
+      "id": 28624,
+      "name": "Terra Nova 42.5 Chronograph, Bracelet",
+      "issues": [
+        "Missing SKU (should be the reference number)"
+      ],
+      "fixes": {
+        "sku": "TN42-CHR-SS-BK-B"
+      },
+      "imageRef": "TN42-CHR-SS-BK-B"
+    }
+  ],
+  "fixes": []
+}

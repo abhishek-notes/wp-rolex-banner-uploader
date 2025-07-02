@@ -1,0 +1,454 @@
+{
+  "timestamp": "2025-06-19T10:54:50.056Z",
+  "totalProducts": 29,
+  "targetAchieved": true,
+  "verification": {
+    "uniqueReferences": 29,
+    "duplicateReferences": [],
+    "withSKUs": 22,
+    "withImages": 29,
+    "withAltText": 29
+  },
+  "collections": {
+    "terraNova": 9,
+    "altitude": 10,
+    "supermarine": 10
+  },
+  "products": [
+    {
+      "id": 28673,
+      "name": "Altitude 39 Date, Black Dial, Steel Bracelet",
+      "slug": "altitude-39-steel-bracelet",
+      "sku": "ALT39-DT-SS-BK-B",
+      "referenceNumber": "ALT39-DT-SS-BK-B",
+      "categories": [
+        "Altitude",
+        "Bremont",
+        "Watch"
+      ],
+      "hasImage": true,
+      "imageAlt": "Bremont Altitude 39 Date, Black Dial, Steel Bracelet at Palladio Jewellers",
+      "dateCreated": "2025-06-15T12:33:12"
+    },
+    {
+      "id": 28672,
+      "name": "Altitude 39 Date, Black Dial, Leather Strap",
+      "slug": "altitude-39-black-leather-strap",
+      "sku": "Not set",
+      "referenceNumber": "ALT39-DT-SS-BK-L-S",
+      "categories": [
+        "Altitude",
+        "Bremont",
+        "Watch"
+      ],
+      "hasImage": true,
+      "imageAlt": "Bremont Altitude 39 Date, Black Dial, Leather Strap at Palladio Jewellers",
+      "dateCreated": "2025-06-15T12:32:20"
+    },
+    {
+      "id": 28674,
+      "name": "Altitude 39 Date, Silver Dial, Leather Strap",
+      "slug": "altitude-39-silver-leather-strap",
+      "sku": "ALT39-DT-SS-SI-L-S",
+      "referenceNumber": "ALT39-DT-SS-SI-L-S",
+      "categories": [
+        "Altitude",
+        "Bremont",
+        "Watch"
+      ],
+      "hasImage": true,
+      "imageAlt": "Bremont Altitude 39 Date, Silver Dial, Leather Strap at Palladio Jewellers",
+      "dateCreated": "2025-06-15T12:34:05"
+    },
+    {
+      "id": 28660,
+      "name": "Altitude Chronograph GMT",
+      "slug": "altitude-chronograph-gmt",
+      "sku": "Not set",
+      "referenceNumber": "ALT42-CHR-G-SS-BK-B",
+      "categories": [
+        "Altitude",
+        "Bremont",
+        "Watch"
+      ],
+      "hasImage": true,
+      "imageAlt": "Bremont Altitude Chronograph GMT at Palladio Jewellers",
+      "dateCreated": "2025-06-15T12:26:15"
+    },
+    {
+      "id": 28662,
+      "name": "Altitude Chronograph GMT, Black Dial, Leather Strap",
+      "slug": "altitude-chronograph-gmt-black-leather",
+      "sku": "ALT42-CHR-G-SS-BK-L-S",
+      "referenceNumber": "ALT42-CHR-G-SS-BK-L-S",
+      "categories": [
+        "Altitude",
+        "Bremont",
+        "Watch"
+      ],
+      "hasImage": true,
+      "imageAlt": "Bremont Altitude Chronograph GMT at Palladio Jewellers",
+      "dateCreated": "2025-06-15T12:27:21"
+    },
+    {
+      "id": 28664,
+      "name": "Altitude Chronograph GMT, Silver Dial, Steel Bracelet",
+      "slug": "altitude-gmt-silver",
+      "sku": "Not set",
+      "referenceNumber": "ALT42-CHR-G-SS-SI-B",
+      "categories": [
+        "Altitude",
+        "Bremont",
+        "Watch"
+      ],
+      "hasImage": true,
+      "imageAlt": "Bremont Altitude Chronograph GMT, Silver Dial, Steel Bracelet at Palladio Jewellers",
+      "dateCreated": "2025-06-15T12:28:29"
+    },
+    {
+      "id": 28801,
+      "name": "Altitude MB Meteor, Black Dial, Ti Bracelet",
+      "slug": "altitude-mb-meteor-black-dial-ti-bracelet",
+      "sku": "ALT42-MT-TI-BKBK-B",
+      "referenceNumber": "ALT42-MT-TI-BKBK-B",
+      "categories": [
+        "Altitude",
+        "Bremont",
+        "Watch"
+      ],
+      "hasImage": true,
+      "imageAlt": "Bremont Altitude MB Meteor, Black Dial, Ti Bracelet at Palladio Jewellers",
+      "dateCreated": "2025-06-19T02:08:36"
+    },
+    {
+      "id": 28802,
+      "name": "Altitude MB Meteor, Black Dial, Leather Strap",
+      "slug": "altitude-mb-meteor-black-dial-leather-strap",
+      "sku": "ALT42-MT-TI-BKBK-L-S",
+      "referenceNumber": "ALT42-MT-TI-BKBK-L-S",
+      "categories": [
+        "Altitude",
+        "Bremont",
+        "Watch"
+      ],
+      "hasImage": true,
+      "imageAlt": "Bremont Altitude MB Meteor, Black Dial, Leather Strap at Palladio Jewellers",
+      "dateCreated": "2025-06-19T02:08:53"
+    },
+    {
+      "id": 28803,
+      "name": "Altitude MB Meteor, Silver Dial, Ti Bracelet",
+      "slug": "altitude-mb-meteor-silver-dial-ti-bracelet",
+      "sku": "ALT42-MT-TI-SITI-B",
+      "referenceNumber": "ALT42-MT-TI-SITI-B",
+      "categories": [
+        "Altitude",
+        "Bremont",
+        "Watch"
+      ],
+      "hasImage": true,
+      "imageAlt": "Bremont Altitude MB Meteor, Silver Dial, Ti Bracelet at Palladio Jewellers",
+      "dateCreated": "2025-06-19T02:10:36"
+    },
+    {
+      "id": 28804,
+      "name": "Altitude MB Meteor, Silver Dial, Leather Strap",
+      "slug": "altitude-mb-meteor-silver-dial-leather-strap",
+      "sku": "ALT42-MT-TI-SITI-L-S",
+      "referenceNumber": "ALT42-MT-TI-SITI-L-S",
+      "categories": [
+        "Altitude",
+        "Bremont",
+        "Watch"
+      ],
+      "hasImage": true,
+      "imageAlt": "Bremont Altitude MB Meteor, Silver Dial, Leather Strap at Palladio Jewellers",
+      "dateCreated": "2025-06-19T02:10:53"
+    },
+    {
+      "id": 28808,
+      "name": "Supermarine 300M Date Bi-Colour, Bracelet",
+      "slug": "supermarine-300m-date-bi-colour-bracelet",
+      "sku": "SM40-DT-BI-BR-B",
+      "referenceNumber": "SM40-DT-BI-BR-B",
+      "categories": [
+        "Bremont",
+        "Supermarine",
+        "Watch"
+      ],
+      "hasImage": true,
+      "imageAlt": "Bremont Supermarine 300M Date Bi-Colour, Bracelet at Palladio Jewellers",
+      "dateCreated": "2025-06-19T02:12:06"
+    },
+    {
+      "id": 28654,
+      "name": "Supermarine 300M Date, Black Dial, Bracelet",
+      "slug": "supermarine-300m-date-black-bracelet",
+      "sku": "Not set",
+      "referenceNumber": "SM40-DT-SS-BK-B",
+      "categories": [
+        "Bremont",
+        "Supermarine",
+        "Watch"
+      ],
+      "hasImage": true,
+      "imageAlt": "Bremont Bremont at Palladio Jewellers",
+      "dateCreated": "2025-06-15T12:23:20"
+    },
+    {
+      "id": 28656,
+      "name": "Supermarine 300M Date, Black Dial, Rubber Strap",
+      "slug": "supermarine-300m-date-black-rubber-strap",
+      "sku": "SM40-DT-SS-BK-R-S",
+      "referenceNumber": "SM40-DT-SS-BK-R-S",
+      "categories": [
+        "Bremont",
+        "Supermarine",
+        "Watch"
+      ],
+      "hasImage": true,
+      "imageAlt": "Bremont Bremont at Palladio Jewellers",
+      "dateCreated": "2025-06-15T12:24:09"
+    },
+    {
+      "id": 28806,
+      "name": "Supermarine 300M GMT \"Glacier\" Blue",
+      "slug": "supermarine-300m-gmt-glacier-blue",
+      "sku": "SM40-GMT-SS-BLBK-B",
+      "referenceNumber": "SM40-GMT-SS-BLBK-B",
+      "categories": [
+        "Bremont",
+        "Supermarine",
+        "Watch"
+      ],
+      "hasImage": true,
+      "imageAlt": "Bremont Supermarine 300M GMT \"Glacier\" Blue at Palladio Jewellers",
+      "dateCreated": "2025-06-19T02:11:33"
+    },
+    {
+      "id": 28805,
+      "name": "Supermarine 300M GMT \"Tundra\" Green",
+      "slug": "supermarine-300m-gmt-tundra-green",
+      "sku": "SM40-GMT-SS-GNBK-G",
+      "referenceNumber": "SM40-GMT-SS-GNBK-G",
+      "categories": [
+        "Bremont",
+        "Supermarine",
+        "Watch"
+      ],
+      "hasImage": true,
+      "imageAlt": "Bremont Supermarine 300M GMT \"Tundra\" Green at Palladio Jewellers",
+      "dateCreated": "2025-06-19T02:11:11"
+    },
+    {
+      "id": 28658,
+      "name": "Supermarine 300M, Blue Dial, Bracelet",
+      "slug": "supermarine-300m-blue-bracelet",
+      "sku": "SM40-ND-SS-BL-B",
+      "referenceNumber": "SM40-ND-SS-BL-B",
+      "categories": [
+        "Bremont",
+        "Supermarine",
+        "Watch"
+      ],
+      "hasImage": true,
+      "imageAlt": "Bremont Supermarine 300M at Palladio Jewellers",
+      "dateCreated": "2025-06-15T12:25:09"
+    },
+    {
+      "id": 28807,
+      "name": "Supermarine 300M, Green Dial, Bracelet",
+      "slug": "supermarine-300m-green-dial-bracelet",
+      "sku": "SM40-ND-SS-GN-B",
+      "referenceNumber": "SM40-ND-SS-GN-B",
+      "categories": [
+        "Bremont",
+        "Supermarine",
+        "Watch"
+      ],
+      "hasImage": true,
+      "imageAlt": "Bremont Supermarine 300M, Green Dial, Bracelet at Palladio Jewellers",
+      "dateCreated": "2025-06-19T02:11:48"
+    },
+    {
+      "id": 28646,
+      "name": "Supermarine Full Ceramic Tactical Black, NATO Strap",
+      "slug": "supermarine-full-ceramic-tactical-black-nato-strap",
+      "sku": "SM43-DT-BKCER-BK-N-S",
+      "referenceNumber": "SM43-DT-BKCER-BK-N-S",
+      "categories": [
+        "Bremont",
+        "Supermarine",
+        "Watch"
+      ],
+      "hasImage": true,
+      "imageAlt": "Bremont Bremont at Palladio Jewellers",
+      "dateCreated": "2025-06-15T12:07:21"
+    },
+    {
+      "id": 28648,
+      "name": "Supermarine 500m",
+      "slug": "supermarine-500m",
+      "sku": "Not set",
+      "referenceNumber": "SM43-DT-SS-BK-B",
+      "categories": [
+        "Bremont",
+        "Supermarine",
+        "Watch"
+      ],
+      "hasImage": true,
+      "imageAlt": "Bremont Bremont at Palladio Jewellers",
+      "dateCreated": "2025-06-15T12:08:52"
+    },
+    {
+      "id": 28650,
+      "name": "Supermarine 500m, Black Rubber Strap",
+      "slug": "supermarine-500m-black-rubber-strap",
+      "sku": "SM43-DT-SS-BK-R-S",
+      "referenceNumber": "SM43-DT-SS-BK-R-S",
+      "categories": [
+        "Bremont",
+        "Supermarine",
+        "Watch"
+      ],
+      "hasImage": true,
+      "imageAlt": "Bremont Bremont at Palladio Jewellers",
+      "dateCreated": "2025-06-15T12:09:55"
+    },
+    {
+      "id": 28644,
+      "name": "Terra Nova 38 'Pink'",
+      "slug": "terra-nova-38-pink",
+      "sku": "Not set",
+      "referenceNumber": "TN38-ND-SS-PK-B",
+      "categories": [
+        "Bremont",
+        "Terra Nova",
+        "Watch"
+      ],
+      "hasImage": true,
+      "imageAlt": "Bremont Bremont at Palladio Jewellers",
+      "dateCreated": "2025-06-15T12:06:25"
+    },
+    {
+      "id": 28689,
+      "name": "Terra Nova 40.5 Date",
+      "slug": "terra-nova-40-5-date-2",
+      "sku": "TN40-DT-SS-BK-B",
+      "referenceNumber": "TN40-DT-SS-BK-B",
+      "categories": [
+        "Bremont",
+        "Terra Nova",
+        "Watch"
+      ],
+      "hasImage": true,
+      "imageAlt": "Bremont Terra Nova at Palladio Jewellers",
+      "dateCreated": "2025-06-15T13:11:05"
+    },
+    {
+      "id": 28642,
+      "name": "Terra Nova 40.5 Date, Green Dial",
+      "slug": "terra-nova-40-5-date-green-dial",
+      "sku": "TN40-DT-SS-GN-L-S",
+      "referenceNumber": "TN40-DT-SS-GN-L-S",
+      "categories": [
+        "Bremont",
+        "Terra Nova",
+        "Watch"
+      ],
+      "hasImage": true,
+      "imageAlt": "Bremont Bremont at Palladio Jewellers",
+      "dateCreated": "2025-06-15T12:02:42"
+    },
+    {
+      "id": 28687,
+      "name": "Terra Nova 40.5 Jumping Hour",
+      "slug": "terra-nova-40-5-jumping-hour-2",
+      "sku": "TN40-JH-SS-BK-B",
+      "referenceNumber": "TN40-JH-SS-BK-B",
+      "categories": [
+        "Bremont",
+        "Terra Nova",
+        "Watch"
+      ],
+      "hasImage": true,
+      "imageAlt": "Bremont Terra Nova at Palladio Jewellers",
+      "dateCreated": "2025-06-15T13:10:09"
+    },
+    {
+      "id": 28685,
+      "name": "Terra Nova 40.5 Turning Bezel Power Reserve Black",
+      "slug": "terra-nova-40-5-turning-bezel-power-reserve-black",
+      "sku": "TN40-PWR-SS-BK-L-S",
+      "referenceNumber": "TN40-PWR-SS-BK-L-S",
+      "categories": [
+        "Bremont",
+        "Terra Nova",
+        "Watch"
+      ],
+      "hasImage": true,
+      "imageAlt": "Bremont Terra Nova at Palladio Jewellers",
+      "dateCreated": "2025-06-15T13:09:14"
+    },
+    {
+      "id": 28683,
+      "name": "Terra Nova 40.5 Turning Bezel Power Reserve",
+      "slug": "terra-nova-40-5-turning-bezel-power-reserve",
+      "sku": "TN40-PWR-SS-BL-B",
+      "referenceNumber": "TN40-PWR-SS-BL-B",
+      "categories": [
+        "Bremont",
+        "Terra Nova",
+        "Watch"
+      ],
+      "hasImage": true,
+      "imageAlt": "Bremont Terra Nova at Palladio Jewellers",
+      "dateCreated": "2025-06-15T13:08:14"
+    },
+    {
+      "id": 28629,
+      "name": "Terra Nova 42.5 Chronograph Bronze",
+      "slug": "terra-nova-42-5-chronograph-bronze",
+      "sku": "TN42-CHR-BZ-GN-L-S",
+      "referenceNumber": "TN42-CHR-BZ-GN-L-S",
+      "categories": [
+        "Bremont",
+        "Terra Nova",
+        "Watch"
+      ],
+      "hasImage": true,
+      "imageAlt": "Bremont Bremont at Palladio Jewellers",
+      "dateCreated": "2025-06-15T10:29:02"
+    },
+    {
+      "id": 28624,
+      "name": "Terra Nova 42.5 Chronograph, Bracelet",
+      "slug": "terra-nova-42-5-chronograph-bracelet",
+      "sku": "Not set",
+      "referenceNumber": "TN42-CHR-SS-BK-B",
+      "categories": [
+        "Bremont",
+        "Terra Nova",
+        "Watch"
+      ],
+      "hasImage": true,
+      "imageAlt": "Bremont Bremont at Palladio Jewellers",
+      "dateCreated": "2025-06-15T10:04:22"
+    },
+    {
+      "id": 28632,
+      "name": "Terra Nova 42.5 Chronograph, Leather Strap",
+      "slug": "terra-nova-42-5-chronograph-leather-strap",
+      "sku": "TN42-CHR-SS-BK-L-S",
+      "referenceNumber": "TN42-CHR-SS-BK-L-S",
+      "categories": [
+        "Bremont",
+        "Terra Nova",
+        "Watch"
+      ],
+      "hasImage": true,
+      "imageAlt": "Bremont Bremont at Palladio Jewellers",
+      "dateCreated": "2025-06-15T11:37:15"
+    }
+  ]
+}

@@ -1,0 +1,411 @@
+{
+  "woocommerce": {
+    "id": 28624,
+    "name": "Terra Nova 42.5 Chronograph, Bracelet",
+    "slug": "terra-nova-42-5-chronograph-bracelet",
+    "permalink": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/terra-nova/terra-nova-42-5-chronograph-bracelet/",
+    "date_created": "2025-06-15T10:04:22",
+    "date_created_gmt": "2025-06-15T17:04:22",
+    "date_modified": "2025-06-15T10:04:22",
+    "date_modified_gmt": "2025-06-15T17:04:22",
+    "type": "simple",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "<p>Inspired by the rugged elegance of early 20th-century military pocket watches, Bremont’s Terra Nova field watch collection pays homage to classic design while embracing modern craftsmanship. Every detail reflects the brand’s commitment to functionality, durability, and timeless style.</p>\n<p>The Terra Nova features a distinctive 42.5mm geometric cushion case crafted from premium 904L stainless steel, finished with a refined mix of brushed and polished textures. The bold dial showcases oversized numerals rendered in full-block Super-LumiNova® for exceptional legibility in low-light conditions, complemented by vintage-inspired hands and a broken railroad minute track.</p>\n<p>A standout detail is the engraved closed case back, featuring a world map motif and the inscription ‘Terra Nova’—a tribute to global exploration. The oversized crown, designed for use even with gloved hands, references heritage field watches and is adorned with Bremont’s new ‘Wayfinder’ logo, underscoring the brand’s adventurous spirit.</p>\n<p>This two-counter chronograph includes a polished ceramic bi-directional compass bezel and is presented on a robust 904L stainless steel quick-release bracelet, merging versatility with rugged refinement.</p>\n<p>Explore a watch built for the modern explorer—crafted to perform, styled to endure.</p>\n<p><b>Functions</b></p>\n<p>Central Hour/Minute</p>\n<p>Chronograph centre sweep seconds hand</p>\n<p>Small seconds counter at 9 o'clock</p>\n<p>Chronograph 30 minutes counter at 3 o'clock</p>\n<p>Date at 6 o'clock</p>\n<p><b>Movement</b></p>\n<p>Calibre: Modified Calibre 13 1/4’’' BE-50AV</p>\n<p>No of Jewels: 27 Jewels</p>\n<p>Glucydur balance wheel</p>\n<p>Anachron balance spring</p>\n<p>Nivaflex mainspring</p>\n<p>Frequency: 28,800bph (4Hz)</p>\n<p>Power reserve: 56-hour</p>\n<p><b>Case specifications</b></p>\n<p>Satin and polished two-piece stainless steel case</p>\n<p>Bi-directional steel bezel with a ceramic insert</p>\n<p>Push-in crown</p>\n<p>Case Diameter: 42.5mm</p>\n<p>Case Length: 48.8 mm</p>\n<p>Case Depth: 14.8mm</p>\n<p>Lug width: 22mm</p>\n<p>Case back: Decorated stainless steel case back</p>\n<p><b>Dial and Hands specifications</b></p>\n<p>Black anthrecite metal dial with 3D vintage Super-LumiNova® (Green emission) blocks</p>\n<p>Polished Rhodium Hour and minute hands with vintage Super-LumiNova® (Green emission)</p>\n<p>Rose Gold plated Chrono hand</p>\n<p>Gloss white counter hands</p>\n<p><b>Crystal</b></p>\n<p>Domed anti-reflective, scratch resistant sapphire crystal</p>\n<p><b>Water Resistance</b></p>\n<p>10 ATM, 100 metres</p>\n<p><strong>Strap</strong></p>\n<p>904L stainless steel quick release bracelet</p>\n<p><b>Weight</b></p>\n<p>106g (watch head only)</p>\n<p><span style=\"display: none;\">Tags : Ref No: TN42-CHR-SS-BK-B</span></p>\n",
+    "short_description": "",
+    "sku": "",
+    "price": "",
+    "regular_price": "",
+    "sale_price": "",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "on_sale": false,
+    "purchasable": false,
+    "total_sales": 0,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "low_stock_amount": null,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": false,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 748,
+        "name": "Bremont",
+        "slug": "bremont"
+      },
+      {
+        "id": 749,
+        "name": "Terra Nova",
+        "slug": "terra-nova"
+      },
+      {
+        "id": 42,
+        "name": "Watch",
+        "slug": "watch"
+      }
+    ],
+    "tags": [],
+    "images": [
+      {
+        "id": 28626,
+        "date_created": "2025-06-15T03:01:12",
+        "date_created_gmt": "2025-06-15T17:01:12",
+        "date_modified": "2025-06-15T03:01:12",
+        "date_modified_gmt": "2025-06-15T17:01:12",
+        "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_Terranova_TN42-CHR-SS-BK-B.webp",
+        "name": "Bremont_Terranova_TN42-CHR-SS-BK-B",
+        "alt": ""
+      }
+    ],
+    "attributes": [],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 1,
+    "price_html": "",
+    "related_ids": [
+      2467,
+      2470,
+      3318,
+      2462,
+      3317
+    ],
+    "meta_data": [
+      {
+        "id": 390966,
+        "key": "ae_post_template",
+        "value": "global"
+      },
+      {
+        "id": 390967,
+        "key": "site-sidebar-layout",
+        "value": "default"
+      },
+      {
+        "id": 390968,
+        "key": "site-content-layout",
+        "value": "default"
+      },
+      {
+        "id": 390969,
+        "key": "theme-transparent-header-meta",
+        "value": "default"
+      },
+      {
+        "id": 390970,
+        "key": "brand",
+        "value": "Bremont"
+      },
+      {
+        "id": 390971,
+        "key": "product_subline",
+        "value": ""
+      },
+      {
+        "id": 390972,
+        "key": "_yoast_wpseo_primary_product_cat",
+        "value": "748"
+      },
+      {
+        "id": 390973,
+        "key": "_yoast_wpseo_content_score",
+        "value": "30"
+      },
+      {
+        "id": 390974,
+        "key": "_yoast_wpseo_estimated-reading-time-minutes",
+        "value": "2"
+      },
+      {
+        "id": 390975,
+        "key": "_yoast_wpseo_wordproof_timestamp",
+        "value": ""
+      },
+      {
+        "id": 390976,
+        "key": "_wp_old_date",
+        "value": "2023-02-21"
+      },
+      {
+        "id": 390979,
+        "key": "_elementor_page_assets",
+        "value": []
+      },
+      {
+        "id": 390980,
+        "key": "_elementor_css",
+        "value": {
+          "0": "",
+          "time": 1749934262,
+          "fonts": [],
+          "icons": [],
+          "dynamic_elements_ids": [],
+          "status": "empty",
+          "css": ""
+        }
+      }
+    ],
+    "stock_status": "instock",
+    "has_options": false,
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.5 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Palladio Jewellers</title>\n<!-- Admin only notice: this page does not show a meta description because it does not have one, either write it for this page specifically or go into the [Yoast SEO - Settings] menu and set up a template. -->\n<meta name=\"robots\" content=\"noindex, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Terra Nova 42.5 Chronograph, Bracelet - Palladio Jewellers\" />\n<meta property=\"og:description\" content=\"Inspired by the rugged elegance of early 20th-century military pocket watches, Bremont’s Terra Nova field watch collection pays homage to classic design while embracing modern craftsmanship. Every detail reflects the brand’s commitment to functionality, durability, and timeless style. The Terra Nova features a distinctive 42.5mm geometric cushion case crafted from premium 904L stainless steel, finished &hellip;  Read More &raquo;\" />\n<meta property=\"og:url\" content=\"https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/terra-nova/terra-nova-42-5-chronograph-bracelet/\" />\n<meta property=\"og:site_name\" content=\"Palladio Jewellers\" />\n<meta property=\"og:image\" content=\"https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_Terranova_TN42-CHR-SS-BK-B.webp\" />\n\t<meta property=\"og:image:width\" content=\"901\" />\n\t<meta property=\"og:image:height\" content=\"1201\" />\n\t<meta property=\"og:image:type\" content=\"image/webp\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"2 minutes\" />\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "Palladio Jewellers",
+      "robots": {
+        "index": "noindex",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "og_locale": "en_US",
+      "og_type": "article",
+      "og_title": "Terra Nova 42.5 Chronograph, Bracelet - Palladio Jewellers",
+      "og_description": "Inspired by the rugged elegance of early 20th-century military pocket watches, Bremont’s Terra Nova field watch collection pays homage to classic design while embracing modern craftsmanship. Every detail reflects the brand’s commitment to functionality, durability, and timeless style. The Terra Nova features a distinctive 42.5mm geometric cushion case crafted from premium 904L stainless steel, finished &hellip;  Read More &raquo;",
+      "og_url": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/terra-nova/terra-nova-42-5-chronograph-bracelet/",
+      "og_site_name": "Palladio Jewellers",
+      "og_image": [
+        {
+          "width": 901,
+          "height": 1201,
+          "url": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_Terranova_TN42-CHR-SS-BK-B.webp",
+          "type": "image/webp"
+        }
+      ],
+      "twitter_card": "summary_large_image",
+      "twitter_misc": {
+        "Est. reading time": "2 minutes"
+      },
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/terra-nova/terra-nova-42-5-chronograph-bracelet/",
+            "url": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/terra-nova/terra-nova-42-5-chronograph-bracelet/",
+            "name": "Terra Nova 42.5 Chronograph, Bracelet - Palladio Jewellers",
+            "isPartOf": {
+              "@id": "https://staging-palladiocanadacom-staging.kinsta.cloud/#website"
+            },
+            "datePublished": "2025-06-15T17:04:22+00:00",
+            "dateModified": "2025-06-15T17:04:22+00:00",
+            "breadcrumb": {
+              "@id": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/terra-nova/terra-nova-42-5-chronograph-bracelet/#breadcrumb"
+            },
+            "inLanguage": "en-CA",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/terra-nova/terra-nova-42-5-chronograph-bracelet/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/terra-nova/terra-nova-42-5-chronograph-bracelet/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://staging-palladiocanadacom-staging.kinsta.cloud/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Products",
+                "item": "https://staging-palladiocanadacom-staging.kinsta.cloud/shop/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Terra Nova 42.5 Chronograph, Bracelet"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://staging-palladiocanadacom-staging.kinsta.cloud/#website",
+            "url": "https://staging-palladiocanadacom-staging.kinsta.cloud/",
+            "name": "Palladio Jewellers",
+            "description": "",
+            "publisher": {
+              "@id": "https://staging-palladiocanadacom-staging.kinsta.cloud/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://staging-palladiocanadacom-staging.kinsta.cloud/?s={search_term_string}"
+                },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": "en-CA"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://staging-palladiocanadacom-staging.kinsta.cloud/#organization",
+            "name": "Palladio Jewellers",
+            "url": "https://staging-palladiocanadacom-staging.kinsta.cloud/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-CA",
+              "@id": "https://staging-palladiocanadacom-staging.kinsta.cloud/#/schema/logo/image/",
+              "url": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2018/06/Palladio_ICONLOGO.svg",
+              "contentUrl": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2018/06/Palladio_ICONLOGO.svg",
+              "width": 1,
+              "height": 1,
+              "caption": "Palladio Jewellers"
+            },
+            "image": {
+              "@id": "https://staging-palladiocanadacom-staging.kinsta.cloud/#/schema/logo/image/"
+            }
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-json/wc/v3/products/28624"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-json/wc/v3/products"
+        }
+      ]
+    }
+  },
+  "wordpress": {},
+  "categories": [
+    {
+      "id": 748,
+      "name": "Bremont",
+      "slug": "bremont"
+    },
+    {
+      "id": 749,
+      "name": "Terra Nova",
+      "slug": "terra-nova"
+    },
+    {
+      "id": 42,
+      "name": "Watch",
+      "slug": "watch"
+    }
+  ],
+  "tags": [],
+  "attributes": [],
+  "meta_data": [
+    {
+      "id": 390966,
+      "key": "ae_post_template",
+      "value": "global"
+    },
+    {
+      "id": 390967,
+      "key": "site-sidebar-layout",
+      "value": "default"
+    },
+    {
+      "id": 390968,
+      "key": "site-content-layout",
+      "value": "default"
+    },
+    {
+      "id": 390969,
+      "key": "theme-transparent-header-meta",
+      "value": "default"
+    },
+    {
+      "id": 390970,
+      "key": "brand",
+      "value": "Bremont"
+    },
+    {
+      "id": 390971,
+      "key": "product_subline",
+      "value": ""
+    },
+    {
+      "id": 390972,
+      "key": "_yoast_wpseo_primary_product_cat",
+      "value": "748"
+    },
+    {
+      "id": 390973,
+      "key": "_yoast_wpseo_content_score",
+      "value": "30"
+    },
+    {
+      "id": 390974,
+      "key": "_yoast_wpseo_estimated-reading-time-minutes",
+      "value": "2"
+    },
+    {
+      "id": 390975,
+      "key": "_yoast_wpseo_wordproof_timestamp",
+      "value": ""
+    },
+    {
+      "id": 390976,
+      "key": "_wp_old_date",
+      "value": "2023-02-21"
+    },
+    {
+      "id": 390979,
+      "key": "_elementor_page_assets",
+      "value": []
+    },
+    {
+      "id": 390980,
+      "key": "_elementor_css",
+      "value": {
+        "0": "",
+        "time": 1749934262,
+        "fonts": [],
+        "icons": [],
+        "dynamic_elements_ids": [],
+        "status": "empty",
+        "css": ""
+      }
+    }
+  ],
+  "acf": {},
+  "yoast": {}
+}

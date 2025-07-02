@@ -1,0 +1,329 @@
+{
+  "timestamp": "2025-06-19T10:47:17.469Z",
+  "duplicatesToRemove": [
+    {
+      "referenceNumber": "TN40-DT-SS-BK-B",
+      "duplicateIds": [
+        28689,
+        28640
+      ],
+      "action": "Keep latest (28689), delete 28640"
+    },
+    {
+      "referenceNumber": "TN40-JH-SS-BK-B",
+      "duplicateIds": [
+        28687,
+        28638
+      ],
+      "action": "Keep 28687, delete 28638"
+    },
+    {
+      "referenceNumber": "TN40-PWR-SS-BK-L",
+      "duplicateIds": [
+        28685,
+        28681,
+        28636
+      ],
+      "action": "All invalid - missing -S suffix. Fix one to TN40-PWR-SS-BK-L-S"
+    },
+    {
+      "referenceNumber": "TN40-PWR-SS-BL-B",
+      "duplicateIds": [
+        28683,
+        28679,
+        28634
+      ],
+      "action": "Keep 28683, delete others"
+    },
+    {
+      "referenceNumber": "ALT42-MT-TI-BKBK-L",
+      "duplicateIds": [
+        28670,
+        28668,
+        28666
+      ],
+      "action": "All invalid - delete all, recreate correct Meteor variants"
+    },
+    {
+      "referenceNumber": "SM40-ND-SS-BL-S",
+      "duplicateIds": [
+        28658,
+        28652
+      ],
+      "action": "Keep 28658, delete 28652"
+    }
+  ],
+  "incorrectProducts": [
+    {
+      "id": 28642,
+      "currentRef": "TN40-DT-SS-GN-L",
+      "correctRef": "TN40-DT-SS-GN-L-S",
+      "action": "Fix reference"
+    },
+    {
+      "id": 28632,
+      "currentRef": "TN42-CHR-SS-BK-L",
+      "correctRef": "TN42-CHR-SS-BK-L-S",
+      "action": "Fix reference"
+    },
+    {
+      "id": 28629,
+      "currentRef": "TN42-CHR-BZ-GN-L",
+      "correctRef": "TN42-CHR-BZ-GN-L-S",
+      "action": "Fix reference"
+    },
+    {
+      "id": 28662,
+      "currentRef": "ALT42-CHR-G-SS-BK",
+      "correctRef": "ALT42-CHR-G-SS-BK-L-S",
+      "action": "Fix reference and title"
+    },
+    {
+      "id": 28658,
+      "issue": "Wrong title",
+      "action": "Rename to \"Supermarine 300M, Blue Dial, Bracelet\""
+    },
+    {
+      "id": 28652,
+      "currentRef": "SM40-ND-SS-BL-S",
+      "correctRef": "SM40-DT-BI-BR-B",
+      "action": "Replace entirely - wrong model"
+    },
+    {
+      "id": 28656,
+      "currentRef": "SM40-DT-SS-BK-R",
+      "correctRef": "SM40-DT-SS-BK-R-S",
+      "action": "Fix reference"
+    },
+    {
+      "id": 28650,
+      "currentRef": "SM43-DT-SS-BK-R",
+      "correctRef": "SM43-DT-SS-BK-R-S",
+      "action": "Fix reference"
+    },
+    {
+      "id": 28646,
+      "currentRef": "SM43-DT-BKCER-BK-N",
+      "correctRef": "SM43-DT-BKCER-BK-N-S",
+      "action": "Fix reference"
+    }
+  ],
+  "missingProducts": [
+    {
+      "collection": "Altitude",
+      "title": "MB Meteor, Black Dial, Ti Bracelet",
+      "ref": "ALT42-MT-TI-BKBK-B"
+    },
+    {
+      "collection": "Altitude",
+      "title": "MB Meteor, Silver Dial, Ti Bracelet",
+      "ref": "ALT42-MT-TI-SITI-B"
+    },
+    {
+      "collection": "Altitude",
+      "title": "MB Meteor, Silver Dial, Leather Strap",
+      "ref": "ALT42-MT-TI-SITI-L-S"
+    },
+    {
+      "collection": "Altitude",
+      "title": "Chronograph GMT, Black Dial, Leather Strap",
+      "ref": "ALT42-CHR-G-SS-BK-L-S"
+    },
+    {
+      "collection": "Supermarine",
+      "title": "300M GMT \"Tundra\" Green",
+      "ref": "SM40-GMT-SS-GNBK-G"
+    },
+    {
+      "collection": "Supermarine",
+      "title": "300M GMT \"Glacier\" Blue",
+      "ref": "SM40-GMT-SS-BLBK-B"
+    },
+    {
+      "collection": "Supermarine",
+      "title": "300M, Green Dial, Bracelet (no-date)",
+      "ref": "SM40-ND-SS-GN-B"
+    },
+    {
+      "collection": "Supermarine",
+      "title": "300M Date Bi-Colour, Bracelet",
+      "ref": "SM40-DT-BI-BR-B"
+    }
+  ],
+  "currentProducts": [
+    {
+      "id": 28808,
+      "name": "Supermarine 300M Date Bi-Colour, Bracelet",
+      "referenceNumber": "SM40-DT-BI-BR-B",
+      "status": "current"
+    },
+    {
+      "id": 28807,
+      "name": "Supermarine 300M, Green Dial, Bracelet",
+      "referenceNumber": "SM40-ND-SS-GN-B",
+      "status": "current"
+    },
+    {
+      "id": 28806,
+      "name": "Supermarine 300M GMT \"Glacier\" Blue",
+      "referenceNumber": "SM40-GMT-SS-BLBK-B",
+      "status": "current"
+    },
+    {
+      "id": 28805,
+      "name": "Supermarine 300M GMT \"Tundra\" Green",
+      "referenceNumber": "SM40-GMT-SS-GNBK-G",
+      "status": "current"
+    },
+    {
+      "id": 28804,
+      "name": "Altitude MB Meteor, Silver Dial, Leather Strap",
+      "referenceNumber": "ALT42-MT-TI-SITI-L-S",
+      "status": "current"
+    },
+    {
+      "id": 28803,
+      "name": "Altitude MB Meteor, Silver Dial, Ti Bracelet",
+      "referenceNumber": "ALT42-MT-TI-SITI-B",
+      "status": "current"
+    },
+    {
+      "id": 28802,
+      "name": "Altitude MB Meteor, Black Dial, Leather Strap",
+      "referenceNumber": "ALT42-MT-TI-BKBK-L-S",
+      "status": "current"
+    },
+    {
+      "id": 28801,
+      "name": "Altitude MB Meteor, Black Dial, Ti Bracelet",
+      "referenceNumber": "ALT42-MT-TI-BKBK-B",
+      "status": "current"
+    },
+    {
+      "id": 28689,
+      "name": "Terra Nova 40.5 Date",
+      "referenceNumber": "TN40-DT-SS-BK-B",
+      "status": "current"
+    },
+    {
+      "id": 28687,
+      "name": "Terra Nova 40.5 Jumping Hour",
+      "referenceNumber": "TN40-JH-SS-BK-B",
+      "status": "current"
+    },
+    {
+      "id": 28685,
+      "name": "Terra Nova 40.5 Turning Bezel Power Reserve Black",
+      "referenceNumber": "TN40-PWR-SS-BK-L-S",
+      "status": "current"
+    },
+    {
+      "id": 28683,
+      "name": "Terra Nova 40.5 Turning Bezel Power Reserve",
+      "referenceNumber": "TN40-PWR-SS-BL-B",
+      "status": "current"
+    },
+    {
+      "id": 28674,
+      "name": "Altitude 39 Date, Silver Dial, Leather Strap",
+      "referenceNumber": "ALT39-DT-SS-SI-L-S",
+      "status": "current"
+    },
+    {
+      "id": 28673,
+      "name": "Altitude 39 Date, Black Dial, Steel Bracelet",
+      "referenceNumber": "ALT39-DT-SS-BK-B",
+      "status": "current"
+    },
+    {
+      "id": 28672,
+      "name": "Altitude 39 Date, Black Dial, Leather Strap",
+      "referenceNumber": "ALT39-DT-SS-BK-L-S",
+      "status": "current"
+    },
+    {
+      "id": 28664,
+      "name": "Altitude Chronograph GMT, Silver Dial, Steel Bracelet",
+      "referenceNumber": "ALT42-CHR-G-SS-SI-B",
+      "status": "current"
+    },
+    {
+      "id": 28662,
+      "name": "Altitude Chronograph GMT, Black Dial, Leather Strap",
+      "referenceNumber": "ALT42-CHR-G-SS-BK-L-S",
+      "status": "current"
+    },
+    {
+      "id": 28660,
+      "name": "Altitude Chronograph GMT",
+      "referenceNumber": "ALT42-CHR-G-SS-BK-B",
+      "status": "current"
+    },
+    {
+      "id": 28658,
+      "name": "Supermarine 300M, Blue Dial, Bracelet",
+      "referenceNumber": "SM40-ND-SS-BL-B",
+      "status": "current"
+    },
+    {
+      "id": 28656,
+      "name": "Supermarine 300M Date, Black Dial, Rubber Strap",
+      "referenceNumber": "SM40-DT-SS-BK-R-S",
+      "status": "current"
+    },
+    {
+      "id": 28654,
+      "name": "Supermarine 300M Date, Black Dial, Bracelet",
+      "referenceNumber": "SM40-DT-SS-BK-B",
+      "status": "current"
+    },
+    {
+      "id": 28650,
+      "name": "Supermarine 500m, Black Rubber Strap",
+      "referenceNumber": "SM43-DT-SS-BK-R-S",
+      "status": "current"
+    },
+    {
+      "id": 28648,
+      "name": "Supermarine 500m",
+      "referenceNumber": "SM43-DT-SS-BK-B",
+      "status": "current"
+    },
+    {
+      "id": 28646,
+      "name": "Supermarine Full Ceramic Tactical Black, NATO Strap",
+      "referenceNumber": "SM43-DT-BKCER-BK-N-S",
+      "status": "current"
+    },
+    {
+      "id": 28644,
+      "name": "Terra Nova 38 'Pink'",
+      "referenceNumber": "TN38-ND-SS-PK-B",
+      "status": "current"
+    },
+    {
+      "id": 28642,
+      "name": "Terra Nova 40.5 Date, Green Dial",
+      "referenceNumber": "TN40-DT-SS-GN-L-S",
+      "status": "current"
+    },
+    {
+      "id": 28632,
+      "name": "Terra Nova 42.5 Chronograph, Leather Strap",
+      "referenceNumber": "TN42-CHR-SS-BK-L-S",
+      "status": "current"
+    },
+    {
+      "id": 28629,
+      "name": "Terra Nova 42.5 Chronograph Bronze",
+      "referenceNumber": "TN42-CHR-BZ-GN-L-S",
+      "status": "current"
+    },
+    {
+      "id": 28624,
+      "name": "Terra Nova 42.5 Chronograph, Bracelet",
+      "referenceNumber": "TN42-CHR-SS-BK-B",
+      "status": "current"
+    }
+  ]
+}

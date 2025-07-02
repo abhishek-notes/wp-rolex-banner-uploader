@@ -1,0 +1,58 @@
+[
+  {
+    "id": 28808,
+    "name": "Supermarine 300M Date Bi-Colour",
+    "ref": "SM40-DT-BI-BR-B",
+    "descriptionLength": 154,
+    "isNewProduct": true
+  },
+  {
+    "id": 28807,
+    "name": "Supermarine 300M, Green Dial, Bracelet",
+    "ref": "SM40-ND-SS-GN-B",
+    "descriptionLength": 153,
+    "isNewProduct": true
+  },
+  {
+    "id": 28806,
+    "name": "Supermarine 300M GMT \"Glacier\" Blue",
+    "ref": "SM40-GMT-SS-BLBK-B",
+    "descriptionLength": 156,
+    "isNewProduct": true
+  },
+  {
+    "id": 28805,
+    "name": "Supermarine 300M GMT \"Tundra\" Green",
+    "ref": "SM40-GMT-SS-GNBK-G",
+    "descriptionLength": 156,
+    "isNewProduct": true
+  },
+  {
+    "id": 28804,
+    "name": "Altitude MB Meteor, Silver Dial, Leather Strap",
+    "ref": "ALT42-MT-TI-SITI-L-S",
+    "descriptionLength": 158,
+    "isNewProduct": true
+  },
+  {
+    "id": 28803,
+    "name": "Altitude MB Meteor, Silver Dial, Titanium Bracelet",
+    "ref": "ALT42-MT-TI-SITI-B",
+    "descriptionLength": 157,
+    "isNewProduct": true
+  },
+  {
+    "id": 28802,
+    "name": "Altitude MB Meteor, Black Dial, Leather Strap",
+    "ref": "ALT42-MT-TI-BKBK-L-S",
+    "descriptionLength": 158,
+    "isNewProduct": true
+  },
+  {
+    "id": 28801,
+    "name": "Altitude MB Meteor, Black Dial, Titanium Bracelet",
+    "ref": "ALT42-MT-TI-BKBK-B",
+    "descriptionLength": 157,
+    "isNewProduct": true
+  }
+]

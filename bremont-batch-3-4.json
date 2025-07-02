@@ -1,0 +1,680 @@
+[
+  {
+    "name": "Terra Nova 40.5 Turning Bezel Power Reserve Black",
+    "refNo": "TN40-PWR-SS-BK-L-S",
+    "keyFeatures": "Field watch with power reserve complication, black dial, compass bezel, and premium nubuck leather strap",
+    "imagePaths": [
+      "images/Bremont_Processed_901x1201_WEBP_IMPROVED_TRANSPARENT/Bremont_Terranova_TN40-PWR-SS-BK-L-S.webp"
+    ],
+    "yoastSEO": {
+      "_yoast_wpseo_metadesc": "Experience the Bremont Terra Nova 40.5 Turning Bezel Power Reserve Black. Field watch with power reserve complication, black dial, compass bezel, and premium nubuck leather strap at Palladio Jewellers.",
+      "_yoast_wpseo_title": "Bremont Terra Nova 40.5 Turning Bezel Power Reserve Black - Palladio Jewellers"
+    },
+    "brand": "Bremont",
+    "description": "The Terra Nova 40.5 Turning Bezel Power Reserve Black represents exceptional Swiss craftsmanship and precision engineering. Field watch with power reserve complication, black dial, compass bezel, and premium nubuck leather strap\n\nThis timepiece embodies Bremont's commitment to quality, durability, and timeless design—crafted for those who demand excellence in every detail.\n\nExplore the complete collection at Palladio Jewellers, your Official Bremont Retailer in Vancouver.\n\n\n<span style=\"display: none;\">Tags : Ref No: TN40-PWR-SS-BK-L-S</span>",
+    "success": true,
+    "productId": 28636,
+    "productUrl": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/terra-nova/terra-nova-40-5-turning-bezel-power-reserve-black/",
+    "productSlug": "terra-nova-40-5-turning-bezel-power-reserve-black",
+    "productData": {
+      "id": 28636,
+      "name": "Terra Nova 40.5 Turning Bezel Power Reserve Black",
+      "slug": "terra-nova-40-5-turning-bezel-power-reserve-black",
+      "permalink": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/terra-nova/terra-nova-40-5-turning-bezel-power-reserve-black/",
+      "date_created": "2025-06-15T11:40:22",
+      "date_created_gmt": "2025-06-15T18:40:22",
+      "date_modified": "2025-06-15T11:40:43",
+      "date_modified_gmt": "2025-06-15T18:40:43",
+      "type": "simple",
+      "status": "publish",
+      "featured": false,
+      "catalog_visibility": "visible",
+      "description": "<p>The Terra Nova 40.5 Turning Bezel Power Reserve Black represents exceptional Swiss craftsmanship and precision engineering. Field watch with power reserve complication, black dial, compass bezel, and premium nubuck leather strap</p>\n<p>This timepiece embodies Bremont's commitment to quality, durability, and timeless design—crafted for those who demand excellence in every detail.</p>\n<p>Explore the complete collection at Palladio Jewellers, your Official Bremont Retailer in Vancouver.</p>\n<p><span style=\"display: none\">Tags : Ref No: TN40-PWR-SS-BK-L-S</span></p>\n",
+      "short_description": "",
+      "sku": "",
+      "price": "",
+      "regular_price": "",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_from_gmt": null,
+      "date_on_sale_to": null,
+      "date_on_sale_to_gmt": null,
+      "on_sale": false,
+      "purchasable": false,
+      "total_sales": 0,
+      "virtual": false,
+      "downloadable": false,
+      "downloads": [],
+      "download_limit": -1,
+      "download_expiry": -1,
+      "external_url": "",
+      "button_text": "",
+      "tax_status": "taxable",
+      "tax_class": "",
+      "manage_stock": false,
+      "stock_quantity": null,
+      "backorders": "no",
+      "backorders_allowed": false,
+      "backordered": false,
+      "low_stock_amount": null,
+      "sold_individually": false,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "shipping_required": true,
+      "shipping_taxable": true,
+      "shipping_class": "",
+      "shipping_class_id": 0,
+      "reviews_allowed": false,
+      "average_rating": "0.00",
+      "rating_count": 0,
+      "upsell_ids": [],
+      "cross_sell_ids": [],
+      "parent_id": 0,
+      "purchase_note": "",
+      "categories": [
+        {
+          "id": 748,
+          "name": "Bremont",
+          "slug": "bremont"
+        },
+        {
+          "id": 749,
+          "name": "Terra Nova",
+          "slug": "terra-nova"
+        },
+        {
+          "id": 42,
+          "name": "Watch",
+          "slug": "watch"
+        }
+      ],
+      "tags": [],
+      "images": [
+        {
+          "id": 28637,
+          "date_created": "2025-06-15T04:40:28",
+          "date_created_gmt": "2025-06-15T18:40:28",
+          "date_modified": "2025-06-15T04:40:28",
+          "date_modified_gmt": "2025-06-15T18:40:28",
+          "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_Terranova_TN40-PWR-SS-BK-L-S.webp",
+          "name": "Bremont_Terranova_TN40-PWR-SS-BK-L-S",
+          "alt": ""
+        }
+      ],
+      "attributes": [],
+      "default_attributes": [],
+      "variations": [],
+      "grouped_products": [],
+      "menu_order": 2,
+      "price_html": "",
+      "related_ids": [
+        104,
+        46,
+        2461,
+        2764,
+        2470
+      ],
+      "meta_data": [
+        {
+          "id": 391145,
+          "key": "ae_post_template",
+          "value": "global"
+        },
+        {
+          "id": 391146,
+          "key": "site-sidebar-layout",
+          "value": "default"
+        },
+        {
+          "id": 391147,
+          "key": "site-content-layout",
+          "value": "default"
+        },
+        {
+          "id": 391148,
+          "key": "theme-transparent-header-meta",
+          "value": "default"
+        },
+        {
+          "id": 391149,
+          "key": "brand",
+          "value": "Bremont"
+        },
+        {
+          "id": 391150,
+          "key": "product_subline",
+          "value": ""
+        },
+        {
+          "id": 391151,
+          "key": "_yoast_wpseo_primary_product_cat",
+          "value": "748"
+        },
+        {
+          "id": 391152,
+          "key": "_yoast_wpseo_content_score",
+          "value": "30"
+        },
+        {
+          "id": 391153,
+          "key": "_yoast_wpseo_estimated-reading-time-minutes",
+          "value": "2"
+        },
+        {
+          "id": 391154,
+          "key": "_yoast_wpseo_wordproof_timestamp",
+          "value": ""
+        },
+        {
+          "id": 391155,
+          "key": "_elementor_page_assets",
+          "value": []
+        },
+        {
+          "id": 391156,
+          "key": "_elementor_css",
+          "value": {
+            "0": "",
+            "time": 1749934262,
+            "fonts": [],
+            "icons": [],
+            "dynamic_elements_ids": [],
+            "status": "empty",
+            "css": ""
+          }
+        },
+        {
+          "id": 391157,
+          "key": "_yoast_wpseo_metadesc",
+          "value": "Experience the Bremont Terra Nova 40.5 Turning Bezel Power Reserve Black. Field watch with power reserve complication, black dial, compass bezel, and premium nubuck leather strap at Palladio Jewellers."
+        },
+        {
+          "id": 391158,
+          "key": "_yoast_wpseo_title",
+          "value": "Bremont Terra Nova 40.5 Turning Bezel Power Reserve Black - Palladio Jewellers"
+        }
+      ],
+      "stock_status": "instock",
+      "has_options": false,
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.5 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Palladio Jewellers</title>\n<meta name=\"description\" content=\"Experience the Bremont Terra Nova 40.5 Turning Bezel Power Reserve Black. Field watch with power reserve complication, black dial, compass bezel, and premium nubuck leather strap at Palladio Jewellers.\" />\n<meta name=\"robots\" content=\"noindex, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Bremont Terra Nova 40.5 Turning Bezel Power Reserve Black - Palladio Jewellers\" />\n<meta property=\"og:description\" content=\"Experience the Bremont Terra Nova 40.5 Turning Bezel Power Reserve Black. Field watch with power reserve complication, black dial, compass bezel, and premium nubuck leather strap at Palladio Jewellers.\" />\n<meta property=\"og:url\" content=\"https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/terra-nova/terra-nova-40-5-turning-bezel-power-reserve-black/\" />\n<meta property=\"og:site_name\" content=\"Palladio Jewellers\" />\n<meta property=\"article:modified_time\" content=\"2025-06-15T18:40:43+00:00\" />\n<meta property=\"og:image\" content=\"https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_Terranova_TN40-PWR-SS-BK-L-S.webp\" />\n\t<meta property=\"og:image:width\" content=\"901\" />\n\t<meta property=\"og:image:height\" content=\"1201\" />\n\t<meta property=\"og:image:type\" content=\"image/webp\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"2 minutes\" />\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head_json": {
+        "title": "Palladio Jewellers",
+        "description": "Experience the Bremont Terra Nova 40.5 Turning Bezel Power Reserve Black. Field watch with power reserve complication, black dial, compass bezel, and premium nubuck leather strap at Palladio Jewellers.",
+        "robots": {
+          "index": "noindex",
+          "follow": "follow",
+          "max-snippet": "max-snippet:-1",
+          "max-image-preview": "max-image-preview:large",
+          "max-video-preview": "max-video-preview:-1"
+        },
+        "og_locale": "en_US",
+        "og_type": "article",
+        "og_title": "Bremont Terra Nova 40.5 Turning Bezel Power Reserve Black - Palladio Jewellers",
+        "og_description": "Experience the Bremont Terra Nova 40.5 Turning Bezel Power Reserve Black. Field watch with power reserve complication, black dial, compass bezel, and premium nubuck leather strap at Palladio Jewellers.",
+        "og_url": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/terra-nova/terra-nova-40-5-turning-bezel-power-reserve-black/",
+        "og_site_name": "Palladio Jewellers",
+        "article_modified_time": "2025-06-15T18:40:43+00:00",
+        "og_image": [
+          {
+            "width": 901,
+            "height": 1201,
+            "url": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_Terranova_TN40-PWR-SS-BK-L-S.webp",
+            "type": "image/webp"
+          }
+        ],
+        "twitter_card": "summary_large_image",
+        "twitter_misc": {
+          "Est. reading time": "2 minutes"
+        },
+        "schema": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/terra-nova/terra-nova-40-5-turning-bezel-power-reserve-black/",
+              "url": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/terra-nova/terra-nova-40-5-turning-bezel-power-reserve-black/",
+              "name": "Bremont Terra Nova 40.5 Turning Bezel Power Reserve Black - Palladio Jewellers",
+              "isPartOf": {
+                "@id": "https://staging-palladiocanadacom-staging.kinsta.cloud/#website"
+              },
+              "datePublished": "2025-06-15T18:40:22+00:00",
+              "dateModified": "2025-06-15T18:40:43+00:00",
+              "description": "Experience the Bremont Terra Nova 40.5 Turning Bezel Power Reserve Black. Field watch with power reserve complication, black dial, compass bezel, and premium nubuck leather strap at Palladio Jewellers.",
+              "breadcrumb": {
+                "@id": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/terra-nova/terra-nova-40-5-turning-bezel-power-reserve-black/#breadcrumb"
+              },
+              "inLanguage": "en-CA",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/terra-nova/terra-nova-40-5-turning-bezel-power-reserve-black/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/terra-nova/terra-nova-40-5-turning-bezel-power-reserve-black/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://staging-palladiocanadacom-staging.kinsta.cloud/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Products",
+                  "item": "https://staging-palladiocanadacom-staging.kinsta.cloud/shop/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Terra Nova 40.5 Turning Bezel Power Reserve Black"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://staging-palladiocanadacom-staging.kinsta.cloud/#website",
+              "url": "https://staging-palladiocanadacom-staging.kinsta.cloud/",
+              "name": "Palladio Jewellers",
+              "description": "",
+              "publisher": {
+                "@id": "https://staging-palladiocanadacom-staging.kinsta.cloud/#organization"
+              },
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://staging-palladiocanadacom-staging.kinsta.cloud/?s={search_term_string}"
+                  },
+                  "query-input": "required name=search_term_string"
+                }
+              ],
+              "inLanguage": "en-CA"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://staging-palladiocanadacom-staging.kinsta.cloud/#organization",
+              "name": "Palladio Jewellers",
+              "url": "https://staging-palladiocanadacom-staging.kinsta.cloud/",
+              "logo": {
+                "@type": "ImageObject",
+                "inLanguage": "en-CA",
+                "@id": "https://staging-palladiocanadacom-staging.kinsta.cloud/#/schema/logo/image/",
+                "url": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2018/06/Palladio_ICONLOGO.svg",
+                "contentUrl": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2018/06/Palladio_ICONLOGO.svg",
+                "width": 1,
+                "height": 1,
+                "caption": "Palladio Jewellers"
+              },
+              "image": {
+                "@id": "https://staging-palladiocanadacom-staging.kinsta.cloud/#/schema/logo/image/"
+              }
+            }
+          ]
+        }
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-json/wc/v3/products/28636"
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-json/wc/v3/products"
+          }
+        ]
+      }
+    },
+    "status": "created"
+  },
+  {
+    "name": "Terra Nova 40.5 Jumping Hour",
+    "refNo": "TN40-JH-SS-BK-B",
+    "keyFeatures": "Rare jumping hour complication with black dial, 904L steel construction, and unique aperture time display",
+    "imagePaths": [
+      "images/Bremont_Processed_901x1201_WEBP_IMPROVED_TRANSPARENT/Bremont_TerraNova_TN40-JH-SS-BK-B.webp"
+    ],
+    "yoastSEO": {
+      "_yoast_wpseo_metadesc": "Experience the Bremont Terra Nova 40.5 Jumping Hour. Rare jumping hour complication with black dial, 904L steel construction, and unique aperture time display at Palladio Jewellers.",
+      "_yoast_wpseo_title": "Bremont Terra Nova 40.5 Jumping Hour - Palladio Jewellers"
+    },
+    "brand": "Bremont",
+    "description": "The Terra Nova 40.5 Jumping Hour represents exceptional Swiss craftsmanship and precision engineering. Rare jumping hour complication with black dial, 904L steel construction, and unique aperture time display\n\nThis timepiece embodies Bremont's commitment to quality, durability, and timeless design—crafted for those who demand excellence in every detail.\n\nExplore the complete collection at Palladio Jewellers, your Official Bremont Retailer in Vancouver.\n\n\n<span style=\"display: none;\">Tags : Ref No: TN40-JH-SS-BK-B</span>",
+    "success": true,
+    "productId": 28638,
+    "productUrl": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/terra-nova/terra-nova-40-5-jumping-hour/",
+    "productSlug": "terra-nova-40-5-jumping-hour",
+    "productData": {
+      "id": 28638,
+      "name": "Terra Nova 40.5 Jumping Hour",
+      "slug": "terra-nova-40-5-jumping-hour",
+      "permalink": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/terra-nova/terra-nova-40-5-jumping-hour/",
+      "date_created": "2025-06-15T11:41:12",
+      "date_created_gmt": "2025-06-15T18:41:12",
+      "date_modified": "2025-06-15T11:41:32",
+      "date_modified_gmt": "2025-06-15T18:41:32",
+      "type": "simple",
+      "status": "publish",
+      "featured": false,
+      "catalog_visibility": "visible",
+      "description": "<p>The Terra Nova 40.5 Jumping Hour represents exceptional Swiss craftsmanship and precision engineering. Rare jumping hour complication with black dial, 904L steel construction, and unique aperture time display</p>\n<p>This timepiece embodies Bremont's commitment to quality, durability, and timeless design—crafted for those who demand excellence in every detail.</p>\n<p>Explore the complete collection at Palladio Jewellers, your Official Bremont Retailer in Vancouver.</p>\n<p><span style=\"display: none\">Tags : Ref No: TN40-JH-SS-BK-B</span></p>\n",
+      "short_description": "",
+      "sku": "",
+      "price": "",
+      "regular_price": "",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_from_gmt": null,
+      "date_on_sale_to": null,
+      "date_on_sale_to_gmt": null,
+      "on_sale": false,
+      "purchasable": false,
+      "total_sales": 0,
+      "virtual": false,
+      "downloadable": false,
+      "downloads": [],
+      "download_limit": -1,
+      "download_expiry": -1,
+      "external_url": "",
+      "button_text": "",
+      "tax_status": "taxable",
+      "tax_class": "",
+      "manage_stock": false,
+      "stock_quantity": null,
+      "backorders": "no",
+      "backorders_allowed": false,
+      "backordered": false,
+      "low_stock_amount": null,
+      "sold_individually": false,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "shipping_required": true,
+      "shipping_taxable": true,
+      "shipping_class": "",
+      "shipping_class_id": 0,
+      "reviews_allowed": false,
+      "average_rating": "0.00",
+      "rating_count": 0,
+      "upsell_ids": [],
+      "cross_sell_ids": [],
+      "parent_id": 0,
+      "purchase_note": "",
+      "categories": [
+        {
+          "id": 748,
+          "name": "Bremont",
+          "slug": "bremont"
+        },
+        {
+          "id": 749,
+          "name": "Terra Nova",
+          "slug": "terra-nova"
+        },
+        {
+          "id": 42,
+          "name": "Watch",
+          "slug": "watch"
+        }
+      ],
+      "tags": [],
+      "images": [
+        {
+          "id": 28639,
+          "date_created": "2025-06-15T04:41:17",
+          "date_created_gmt": "2025-06-15T18:41:17",
+          "date_modified": "2025-06-15T04:41:17",
+          "date_modified_gmt": "2025-06-15T18:41:17",
+          "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_TerraNova_TN40-JH-SS-BK-B.webp",
+          "name": "Bremont_TerraNova_TN40-JH-SS-BK-B",
+          "alt": ""
+        }
+      ],
+      "attributes": [],
+      "default_attributes": [],
+      "variations": [],
+      "grouped_products": [],
+      "menu_order": 2,
+      "price_html": "",
+      "related_ids": [
+        104,
+        2451,
+        3303,
+        3204,
+        2768
+      ],
+      "meta_data": [
+        {
+          "id": 391177,
+          "key": "ae_post_template",
+          "value": "global"
+        },
+        {
+          "id": 391178,
+          "key": "site-sidebar-layout",
+          "value": "default"
+        },
+        {
+          "id": 391179,
+          "key": "site-content-layout",
+          "value": "default"
+        },
+        {
+          "id": 391180,
+          "key": "theme-transparent-header-meta",
+          "value": "default"
+        },
+        {
+          "id": 391181,
+          "key": "brand",
+          "value": "Bremont"
+        },
+        {
+          "id": 391182,
+          "key": "product_subline",
+          "value": ""
+        },
+        {
+          "id": 391183,
+          "key": "_yoast_wpseo_primary_product_cat",
+          "value": "748"
+        },
+        {
+          "id": 391184,
+          "key": "_yoast_wpseo_content_score",
+          "value": "30"
+        },
+        {
+          "id": 391185,
+          "key": "_yoast_wpseo_estimated-reading-time-minutes",
+          "value": "2"
+        },
+        {
+          "id": 391186,
+          "key": "_yoast_wpseo_wordproof_timestamp",
+          "value": ""
+        },
+        {
+          "id": 391187,
+          "key": "_elementor_page_assets",
+          "value": []
+        },
+        {
+          "id": 391188,
+          "key": "_elementor_css",
+          "value": {
+            "0": "",
+            "time": 1749934262,
+            "fonts": [],
+            "icons": [],
+            "dynamic_elements_ids": [],
+            "status": "empty",
+            "css": ""
+          }
+        },
+        {
+          "id": 391189,
+          "key": "_yoast_wpseo_metadesc",
+          "value": "Experience the Bremont Terra Nova 40.5 Jumping Hour. Rare jumping hour complication with black dial, 904L steel construction, and unique aperture time display at Palladio Jewellers."
+        },
+        {
+          "id": 391190,
+          "key": "_yoast_wpseo_title",
+          "value": "Bremont Terra Nova 40.5 Jumping Hour - Palladio Jewellers"
+        }
+      ],
+      "stock_status": "instock",
+      "has_options": false,
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.5 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Palladio Jewellers</title>\n<meta name=\"description\" content=\"Experience the Bremont Terra Nova 40.5 Jumping Hour. Rare jumping hour complication with black dial, 904L steel construction, and unique aperture time display at Palladio Jewellers.\" />\n<meta name=\"robots\" content=\"noindex, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Bremont Terra Nova 40.5 Jumping Hour - Palladio Jewellers\" />\n<meta property=\"og:description\" content=\"Experience the Bremont Terra Nova 40.5 Jumping Hour. Rare jumping hour complication with black dial, 904L steel construction, and unique aperture time display at Palladio Jewellers.\" />\n<meta property=\"og:url\" content=\"https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/terra-nova/terra-nova-40-5-jumping-hour/\" />\n<meta property=\"og:site_name\" content=\"Palladio Jewellers\" />\n<meta property=\"article:modified_time\" content=\"2025-06-15T18:41:32+00:00\" />\n<meta property=\"og:image\" content=\"https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_TerraNova_TN40-JH-SS-BK-B.webp\" />\n\t<meta property=\"og:image:width\" content=\"901\" />\n\t<meta property=\"og:image:height\" content=\"1201\" />\n\t<meta property=\"og:image:type\" content=\"image/webp\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"2 minutes\" />\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head_json": {
+        "title": "Palladio Jewellers",
+        "description": "Experience the Bremont Terra Nova 40.5 Jumping Hour. Rare jumping hour complication with black dial, 904L steel construction, and unique aperture time display at Palladio Jewellers.",
+        "robots": {
+          "index": "noindex",
+          "follow": "follow",
+          "max-snippet": "max-snippet:-1",
+          "max-image-preview": "max-image-preview:large",
+          "max-video-preview": "max-video-preview:-1"
+        },
+        "og_locale": "en_US",
+        "og_type": "article",
+        "og_title": "Bremont Terra Nova 40.5 Jumping Hour - Palladio Jewellers",
+        "og_description": "Experience the Bremont Terra Nova 40.5 Jumping Hour. Rare jumping hour complication with black dial, 904L steel construction, and unique aperture time display at Palladio Jewellers.",
+        "og_url": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/terra-nova/terra-nova-40-5-jumping-hour/",
+        "og_site_name": "Palladio Jewellers",
+        "article_modified_time": "2025-06-15T18:41:32+00:00",
+        "og_image": [
+          {
+            "width": 901,
+            "height": 1201,
+            "url": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_TerraNova_TN40-JH-SS-BK-B.webp",
+            "type": "image/webp"
+          }
+        ],
+        "twitter_card": "summary_large_image",
+        "twitter_misc": {
+          "Est. reading time": "2 minutes"
+        },
+        "schema": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/terra-nova/terra-nova-40-5-jumping-hour/",
+              "url": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/terra-nova/terra-nova-40-5-jumping-hour/",
+              "name": "Bremont Terra Nova 40.5 Jumping Hour - Palladio Jewellers",
+              "isPartOf": {
+                "@id": "https://staging-palladiocanadacom-staging.kinsta.cloud/#website"
+              },
+              "datePublished": "2025-06-15T18:41:12+00:00",
+              "dateModified": "2025-06-15T18:41:32+00:00",
+              "description": "Experience the Bremont Terra Nova 40.5 Jumping Hour. Rare jumping hour complication with black dial, 904L steel construction, and unique aperture time display at Palladio Jewellers.",
+              "breadcrumb": {
+                "@id": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/terra-nova/terra-nova-40-5-jumping-hour/#breadcrumb"
+              },
+              "inLanguage": "en-CA",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/terra-nova/terra-nova-40-5-jumping-hour/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/terra-nova/terra-nova-40-5-jumping-hour/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://staging-palladiocanadacom-staging.kinsta.cloud/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Products",
+                  "item": "https://staging-palladiocanadacom-staging.kinsta.cloud/shop/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Terra Nova 40.5 Jumping Hour"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://staging-palladiocanadacom-staging.kinsta.cloud/#website",
+              "url": "https://staging-palladiocanadacom-staging.kinsta.cloud/",
+              "name": "Palladio Jewellers",
+              "description": "",
+              "publisher": {
+                "@id": "https://staging-palladiocanadacom-staging.kinsta.cloud/#organization"
+              },
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://staging-palladiocanadacom-staging.kinsta.cloud/?s={search_term_string}"
+                  },
+                  "query-input": "required name=search_term_string"
+                }
+              ],
+              "inLanguage": "en-CA"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://staging-palladiocanadacom-staging.kinsta.cloud/#organization",
+              "name": "Palladio Jewellers",
+              "url": "https://staging-palladiocanadacom-staging.kinsta.cloud/",
+              "logo": {
+                "@type": "ImageObject",
+                "inLanguage": "en-CA",
+                "@id": "https://staging-palladiocanadacom-staging.kinsta.cloud/#/schema/logo/image/",
+                "url": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2018/06/Palladio_ICONLOGO.svg",
+                "contentUrl": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2018/06/Palladio_ICONLOGO.svg",
+                "width": 1,
+                "height": 1,
+                "caption": "Palladio Jewellers"
+              },
+              "image": {
+                "@id": "https://staging-palladiocanadacom-staging.kinsta.cloud/#/schema/logo/image/"
+              }
+            }
+          ]
+        }
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-json/wc/v3/products/28638"
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-json/wc/v3/products"
+          }
+        ]
+      }
+    },
+    "status": "created"
+  }
+]

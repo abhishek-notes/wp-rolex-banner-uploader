@@ -1,0 +1,263 @@
+{
+  "summary": {
+    "totalProducts": 28,
+    "productsWithIssues": 28,
+    "timestamp": "2025-06-19T05:54:48.919Z"
+  },
+  "issues": [
+    {
+      "id": 28689,
+      "name": "Terra Nova 40.5 Date",
+      "issues": [
+        "Image ref TN40-DT-SS-BK-B should be for product: \"Terra Nova 40.5 Date\"",
+        "Description seems too short"
+      ]
+    },
+    {
+      "id": 28687,
+      "name": "Terra Nova 40.5 Jumping Hour",
+      "issues": [
+        "Image ref TN40-JH-SS-BK-B should be for product: \"Terra Nova 40.5 Jumping Hour\"",
+        "Description seems too short"
+      ]
+    },
+    {
+      "id": 28685,
+      "name": "Terra Nova 40.5 Turning Bezel Power Reserve Black",
+      "issues": [
+        "Description seems too short",
+        "Image has suffix -2, might be duplicate"
+      ]
+    },
+    {
+      "id": 28683,
+      "name": "Terra Nova 40.5 Turning Bezel Power Reserve",
+      "issues": [
+        "Image ref TN40-PWR-SS-BL-B should be for product: \"Terra Nova 40.5 Turning Bezel Power Reserve\"",
+        "Description seems too short",
+        "Image has suffix -2, might be duplicate"
+      ]
+    },
+    {
+      "id": 28681,
+      "name": "Terra Nova 40.5 Turning Bezel Power Reserve Black",
+      "issues": [
+        "Description seems too short"
+      ]
+    },
+    {
+      "id": 28679,
+      "name": "Terra Nova 40.5 Turning Bezel Power Reserve",
+      "issues": [
+        "Image ref TN40-PWR-SS-BL-B should be for product: \"Terra Nova 40.5 Turning Bezel Power Reserve\"",
+        "Description seems too short"
+      ]
+    },
+    {
+      "id": 28674,
+      "name": "Altitude 39, Silver Leather Strap",
+      "issues": [
+        "Title may not match reference document",
+        "Description seems too short"
+      ]
+    },
+    {
+      "id": 28673,
+      "name": "Altitude 39, Steel Bracelet",
+      "issues": [
+        "Title may not match reference document",
+        "Image ref ALT39-DT-SS-BK-B should be for product: \"Altitude 39 Date, Black Dial, Steel Bracelet\"",
+        "Description seems too short"
+      ]
+    },
+    {
+      "id": 28672,
+      "name": "Altitude 39, Black Leather Strap",
+      "issues": [
+        "Title may not match reference document",
+        "Description seems too short"
+      ]
+    },
+    {
+      "id": 28670,
+      "name": "Altitude Meteor, Silver Leather Strap",
+      "issues": [
+        "Title may not match reference document",
+        "Description seems too short",
+        "Image has suffix -2, might be duplicate"
+      ]
+    },
+    {
+      "id": 28668,
+      "name": "Altitude Meteor, Black Leather Strap",
+      "issues": [
+        "Title may not match reference document",
+        "Description seems too short"
+      ]
+    },
+    {
+      "id": 28666,
+      "name": "Altitude Meteor, Black Titanium",
+      "issues": [
+        "Title may not match reference document",
+        "Description seems too short"
+      ]
+    },
+    {
+      "id": 28664,
+      "name": "Altitude GMT, Silver",
+      "issues": [
+        "Title may not match reference document",
+        "Description seems too short"
+      ]
+    },
+    {
+      "id": 28662,
+      "name": "Altitude GMT, Black",
+      "issues": [
+        "Title may not match reference document",
+        "Description seems too short"
+      ]
+    },
+    {
+      "id": 28660,
+      "name": "Altitude Chronograph GMT",
+      "issues": [
+        "Description seems too short"
+      ]
+    },
+    {
+      "id": 28658,
+      "name": "Supermarine 300M Date, Blue Bracelet",
+      "issues": [
+        "Title may not match reference document",
+        "Image ref SM40-ND-SS-BL-S should be for product: \"Supermarine 300M, Blue Dial, Bracelet\"",
+        "Description seems too short"
+      ]
+    },
+    {
+      "id": 28654,
+      "name": "Supermarine 300M Date, Black Bracelet",
+      "issues": [
+        "Title may not match reference document",
+        "Image ref SM40-DT-SS-BK-B should be for product: \"Supermarine 300M Date, Black Dial, Bracelet\"",
+        "Description seems too short"
+      ]
+    },
+    {
+      "id": 28650,
+      "name": "Supermarine 500m, Black Rubber Strap",
+      "issues": [
+        "Description seems too short"
+      ]
+    },
+    {
+      "id": 28648,
+      "name": "Supermarine 500m",
+      "issues": [
+        "Image ref SM43-DT-SS-BK-B should be for product: \"Supermarine 500m\"",
+        "Description seems too short"
+      ]
+    },
+    {
+      "id": 28646,
+      "name": "Supermarine Full Ceramic Tactical Black, NATO Strap",
+      "issues": [
+        "Description seems too short"
+      ]
+    },
+    {
+      "id": 28644,
+      "name": "Terra Nova 38 Pink",
+      "issues": [
+        "Title may not match reference document",
+        "Image ref TN38-ND-SS-PK-B should be for product: \"Terra Nova 38 'Pink'\"",
+        "Description seems too short"
+      ]
+    },
+    {
+      "id": 28642,
+      "name": "Terra Nova 40.5 Date, Green Dial",
+      "issues": [
+        "Description seems too short"
+      ]
+    },
+    {
+      "id": 28640,
+      "name": "Terra Nova 40.5 Date",
+      "issues": [
+        "Image ref TN40-DT-SS-BK-B should be for product: \"Terra Nova 40.5 Date\"",
+        "Description seems too short"
+      ]
+    },
+    {
+      "id": 28638,
+      "name": "Terra Nova 40.5 Jumping Hour",
+      "issues": [
+        "Image ref TN40-JH-SS-BK-B should be for product: \"Terra Nova 40.5 Jumping Hour\"",
+        "Description seems too short"
+      ]
+    },
+    {
+      "id": 28636,
+      "name": "Terra Nova 40.5 Turning Bezel Power Reserve Black",
+      "issues": [
+        "Description seems too short"
+      ]
+    },
+    {
+      "id": 28634,
+      "name": "Terra Nova 40.5 Turning Bezel Power Reserve",
+      "issues": [
+        "Image ref TN40-PWR-SS-BL-B should be for product: \"Terra Nova 40.5 Turning Bezel Power Reserve\"",
+        "Description seems too short"
+      ]
+    },
+    {
+      "id": 28632,
+      "name": "Terra Nova 42.5 Chronograph, Leather Strap",
+      "issues": [
+        "Description seems too short"
+      ]
+    },
+    {
+      "id": 28624,
+      "name": "Terra Nova 42.5 Chronograph, Bracelet",
+      "issues": [
+        "Image ref TN42-CHR-SS-BK-B should be for product: \"Terra Nova 42.5 Chronograph, Bracelet\"",
+        "Description seems too short"
+      ]
+    }
+  ],
+  "referenceMap": {
+    "TN42-CHR-SS-BK-B": "Terra Nova 42.5 Chronograph, Bracelet",
+    "TN42-CHR-BZ-GN-L-S": "Terra Nova 42.5 Chronograph Bronze",
+    "TN42-CHR-SS-BK-L-S": "Terra Nova 42.5 Chronograph, Leather Strap",
+    "TN40-PWR-SS-BL-B": "Terra Nova 40.5 Turning Bezel Power Reserve",
+    "TN40-PWR-SS-BK-L-S": "Terra Nova 40.5 Turning Bezel Power Reserve",
+    "TN40-JH-SS-BK-B": "Terra Nova 40.5 Jumping Hour",
+    "TN40-DT-SS-BK-B": "Terra Nova 40.5 Date",
+    "TN40-DT-SS-GN-L-S": "Terra Nova 40.5 Date, Green Dial",
+    "TN38-ND-SS-PK-B": "Terra Nova 38 'Pink'",
+    "SM43-DT-BKCER-BK-N-S": "Supermarine Full Ceramic Tactical Black, NATO Strap",
+    "SM43-DT-SS-BK-B": "Supermarine 500m",
+    "SM43-DT-SS-BK-R-S": "Supermarine 500m, Black Rubber Strap",
+    "SM40-DT-BI-BR-B": "Supermarine 300M Date, Bi-Colour",
+    "SM40-GMT-SS-GNBK-G": "Supermarine 300M GMT, 'Tundra' Green",
+    "SM40-SS-BLBK-B": "Supermarine 300M GMT, 'Glacier' Blue",
+    "SM40-DT-SS-BK-B": "Supermarine 300M Date, Black Dial, Bracelet",
+    "SM40-DT-SS-BK-R-S": "Supermarine 300M Date, Black Dial, Rubber Strap",
+    "SM40-ND-SS-BL-S": "Supermarine 300M, Blue Dial, Bracelet",
+    "SM40-ND-SS-GN-B": "Supermarine 300M, Green Dial",
+    "ALT42-CHR-G-SS-BK-B": "Altitude Chronograph GMT",
+    "ALT42-CHR-G-SS-BK-L-S": "Altitude Chronograph GMT, Black Dial",
+    "ALT42-CHR-G-SS-SI-B": "Altitude Chronograph GMT, Silver Dial, Steel Bracelet",
+    "ALT42-MT-TI-BKBK-B": "Altitude MB Meteor, Black Dial, Titanium Bracelet",
+    "ALT42-MT-TI-BKBK-L-S": "Altitude MB Meteor, Black Dial, Leather Strap",
+    "ALT42-MT-TI-SITI-B": "Altitude MB Meteor, Silver Dial, Titanium Bracelet",
+    "ALT42-MT-TI-SITI-L-S": "Altitude MB Meteor, Silver Dial, Black Leather Strap",
+    "ALT39-DT-SS-BK-L-S": "Altitude 39 Date, Black Dial, Leather Strap",
+    "ALT39-DT-SS-BK-B": "Altitude 39 Date, Black Dial, Steel Bracelet",
+    "ALT39-DT-SS-SI-L-S": "Altitude 39 Date, Silver Dial, Leather Strap"
+  }
+}

@@ -1,0 +1,1277 @@
+{
+  "timestamp": "2025-06-19T07:41:41.969Z",
+  "totalProducts": 31,
+  "products": [
+    {
+      "index": 1,
+      "id": 28689,
+      "name": "Terra Nova 40.5 Date",
+      "sku": "Not set",
+      "referenceNumber": "TN40-DT-SS-BK-B",
+      "dateCreated": "2025-06-15T13:11:05",
+      "categories": [
+        "Bremont",
+        "Terra Nova",
+        "Watch"
+      ],
+      "images": {
+        "count": 1,
+        "featured": {
+          "id": 28690,
+          "name": "Bremont_TerraNova_TN40-DT-SS-BK-B-1",
+          "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_TerraNova_TN40-DT-SS-BK-B-1.webp",
+          "alt": "Not set"
+        },
+        "allImages": [
+          {
+            "id": 28690,
+            "name": "Bremont_TerraNova_TN40-DT-SS-BK-B-1",
+            "alt": "Not set"
+          }
+        ]
+      },
+      "description": {
+        "length": 2507,
+        "preview": "<p>The Bremont Terra Nova Date is a modern reimagining of the classic field watch, infused with heritage and crafted for today's adventurer. At 40.5mm, its contemporary geometric cushion case is engin...",
+        "hasFunctions": true,
+        "hasMovement": true,
+        "hasCaseSpecs": true,
+        "hasDialSpecs": true,
+        "hasRefTag": true,
+        "fullDescription": "<p>The Bremont Terra Nova Date is a modern reimagining of the classic field watch, infused with heritage and crafted for today's adventurer. At 40.5mm, its contemporary geometric cushion case is engineered from premium 904L stainless steel, offering a sleek, low-profile silhouette with shortened lugs for a perfectly balanced fit on the wrist.</p>\n<p>Inspired by early 20th-century military pocket watches, the Terra Nova captures the essence of rugged elegance, functional simplicity, and enduring style. Its dial features oversized full-block Super-LumiNova® numerals, ensuring optimal legibility in all lighting conditions. A broken railroad minute track and vintage-style hands further evoke the timeless character of classic field instruments.</p>\n<p>The closed case back is engraved with a detailed world map and the inscription 'Terra Nova', symbolizing exploration and global reach. Enhancing usability and design, the oversized crown—modeled after traditional field watches for operation with gloved hands—is adorned with Bremont's new 'Wayfinder' logo, celebrating the spirit of discovery.</p>\n<p>Complete with a practical date display, this timepiece embodies both form and function. It's a reliable companion for everyday wear or the next great adventure.</p>\n<p><b>Functions</b></p>\n<p>Central Hour/minute/seconds</p>\n<p>Date window at 3 o'clock</p>\n<p><b>Movement</b></p>\n<p>Calibre: Modified Calibre 11 1/2''' BE-36AE</p>\n<p>No of Jewels: 26 Jewels</p>\n<p>Glucydur balance wheel</p>\n<p>Anachron balance spring</p>\n<p>Nivaflex mainspring</p>\n<p>Frequency: 28,800bph (4Hz)</p>\n<p>Power reserve: 38-hour</p>\n<p>Modified automatic winding bridge</p>\n<p><b>Case specifications</b></p>\n<p>Satin and polished two-piece stainless steel case</p>\n<p>Push-in crown</p>\n<p>Case Diameter: 40.5mm</p>\n<p>Case Length: 47mm</p>\n<p>Case Depth: 11.11mm</p>\n<p>Lug width: 22mm</p>\n<p>Case back: Decorated stainless steel case back</p>\n<p><b>Dial and Hands specifications</b></p>\n<p>Gradient anthracite and black metal with 3D vintage Super-LumiNova® (Green emission) block numerals</p>\n<p>Polished Rhodium hands with vintage Super-LumiNova® (Green emission)</p>\n<p><b>Crystal</b></p>\n<p>Domed anti-reflective, scratch resistant sapphire crystal</p>\n<p><b>Water Resistance</b></p>\n<p>10 ATM, 100 metres</p>\n<p><strong>Strap</strong></p>\n<p>904L stainless steel quick release bracelet</p>\n<p><b>Weight</b></p>\n<p>70g (watch head only)</p>\n<p><span style=\"display: none\">Tags : Ref No: TN40-DT-SS-BK-B</span></p>\n"
+      },
+      "shortDescription": "Not set",
+      "permalink": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/terra-nova/terra-nova-40-5-date-2/"
+    },
+    {
+      "index": 2,
+      "id": 28687,
+      "name": "Terra Nova 40.5 Jumping Hour",
+      "sku": "Not set",
+      "referenceNumber": "TN40-JH-SS-BK-B",
+      "dateCreated": "2025-06-15T13:10:09",
+      "categories": [
+        "Bremont",
+        "Terra Nova",
+        "Watch"
+      ],
+      "images": {
+        "count": 1,
+        "featured": {
+          "id": 28688,
+          "name": "Bremont_TerraNova_TN40-JH-SS-BK-B-1",
+          "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_TerraNova_TN40-JH-SS-BK-B-1.webp",
+          "alt": "Not set"
+        },
+        "allImages": [
+          {
+            "id": 28688,
+            "name": "Bremont_TerraNova_TN40-JH-SS-BK-B-1",
+            "alt": "Not set"
+          }
+        ]
+      },
+      "description": {
+        "length": 2785,
+        "preview": "<p>A rare complication meets modern field watch design in the Bremont Terra Nova Jumping Hour. Crafted from robust yet refined 904L stainless steel, this 40.5mm timepiece brings a contemporary edge to...",
+        "hasFunctions": true,
+        "hasMovement": true,
+        "hasCaseSpecs": true,
+        "hasDialSpecs": true,
+        "hasRefTag": true,
+        "fullDescription": "<p>A rare complication meets modern field watch design in the Bremont Terra Nova Jumping Hour. Crafted from robust yet refined 904L stainless steel, this 40.5mm timepiece brings a contemporary edge to the Terra Nova collection while paying tribute to the heritage of early military timekeeping.</p>\n<p>The cushion-shaped case features a sophisticated mix of polished and brushed finishes, framing a high-gloss black dial that showcases the unique Jumping Hour complication. A clean, offset aperture layout allows for a natural left-to-right time display, offering enhanced readability and minimalist appeal.</p>\n<p>Powering the watch is Bremont's exclusive BC634 Jumping Hour calibre, a high-torque automatic movement designed to deliver precise and instantaneous jumps of the hour disc. The central seconds hand, treated with next-generation Super-LumiNova®, ensures visibility in low-light conditions, while applied markers and a crisp minute track add further clarity and detail.</p>\n<p>Combining elegance and engineering, this standout model is offered on either a 904L stainless steel Terra Nova bracelet or a black gradient leather strap, adapting effortlessly from formal to everyday wear.</p>\n<p>Whether you're drawn to the technical rarity of the Jumping Hour or the distinctive blend of form and function, the Terra Nova Jumping Hour is a statement of mechanical sophistication and modern versatility.</p>\n<p><b>Functions</b></p>\n<p>Hour window at 9 O'clock</p>\n<p>Minute window at 9 O'clock</p>\n<p>Central running seconds hand</p>\n<p><b>Movement</b></p>\n<p>BC634AH movement</p>\n<p>No of Jewels: 29 Jewels</p>\n<p>Glucydur balance wheel</p>\n<p>Anachron balance spring</p>\n<p>Nivaflex mainspring</p>\n<p>Frequency: 28,800bph (4Hz)</p>\n<p>Power reserve: 56-hour</p>\n<p><b>Case specifications</b></p>\n<p>Satin and polished two-piece 904L stainless steel case</p>\n<p>Push-in crown</p>\n<p>Case Diameter: 40.5mm</p>\n<p>Case Length: 47mm</p>\n<p>Case Depth: 10.15mm</p>\n<p>Lug Width: 22mm</p>\n<p>Case back: Decorated 904L stainless steel case back</p>\n<p><b>Dial and Hands specifications</b></p>\n<p>Black lacquered dial with applied window border</p>\n<p>White Super-LumiNova® (Green emission) printed markers at 12, 3, 6 and 9 O'clock</p>\n<p>Silver printed minute track and hour markers</p>\n<p>Hour window with white Super-LumiNova® (Green emission) numerals</p>\n<p>Minute window with white printed numerals</p>\n<p>Centre seconds hand in full white Super-LumiNova® (Green emission)</p>\n<p><b>Crystal</b></p>\n<p>Flat anti-reflective sapphire crystal</p>\n<p><b>Water Resistance</b></p>\n<p>10 ATM, 100 metres</p>\n<p><strong>Strap</strong></p>\n<p>Quick-release 904L stainless steel bracelet with butterfly clasp</p>\n<p><span style=\"display: none\">Tags : Ref No: TN40-JH-SS-BK-B</span></p>\n"
+      },
+      "shortDescription": "Not set",
+      "permalink": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/terra-nova/terra-nova-40-5-jumping-hour-2/"
+    },
+    {
+      "index": 3,
+      "id": 28685,
+      "name": "Terra Nova 40.5 Turning Bezel Power Reserve Black",
+      "sku": "Not set",
+      "referenceNumber": "TN40-PWR-SS-BK-L",
+      "dateCreated": "2025-06-15T13:09:14",
+      "categories": [
+        "Bremont",
+        "Terra Nova",
+        "Watch"
+      ],
+      "images": {
+        "count": 1,
+        "featured": {
+          "id": 28686,
+          "name": "Bremont_Terranova_TN40-PWR-SS-BK-L-S-2",
+          "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_Terranova_TN40-PWR-SS-BK-L-S-2.webp",
+          "alt": "Not set"
+        },
+        "allImages": [
+          {
+            "id": 28686,
+            "name": "Bremont_Terranova_TN40-PWR-SS-BK-L-S-2",
+            "alt": "Not set"
+          }
+        ]
+      },
+      "description": {
+        "length": 3334,
+        "preview": "<p>The Bremont Terra Nova collection reimagines the heritage of early 20th-century military pocket watches through the lens of modern craftsmanship. Purpose-built and elegantly styled, each timepiece ...",
+        "hasFunctions": true,
+        "hasMovement": true,
+        "hasCaseSpecs": true,
+        "hasDialSpecs": true,
+        "hasRefTag": true,
+        "fullDescription": "<p>The Bremont Terra Nova collection reimagines the heritage of early 20th-century military pocket watches through the lens of modern craftsmanship. Purpose-built and elegantly styled, each timepiece embodies the essence of rugged functionality, simplicity, and timeless design—refined for today's adventurer.</p>\n<p>Crafted from corrosion-resistant 904L stainless steel, the 40.5mm cushion-shaped case features a striking mix of brushed and polished finishes, offering both durability and distinction. A bi-directional compass bezel with cardinal direction markers enhances the watch's field-ready functionality.</p>\n<p>The black dial showcases oversized, full-block Super-LumiNova® numerals for superior legibility in low light, complemented by luminous indexes and vintage-inspired hands. A small seconds sub-dial at 6 o'clock pays tribute to classic military timepieces, while the engraved case back features a world map and the inscription 'Terra Nova'—a nod to global exploration.</p>\n<p>Completing the look is a black nubuck leather strap with a pin buckle clasp, designed to comfortably fit wrists from 16.5cm to 22cm. The oversized crown, adorned with Bremont's 'Wayfinder' logo, underscores the brand's enduring spirit of adventure.</p>\n<p>A harmonious blend of heritage and innovation, the Terra Nova Power Reserve is a compelling choice for those who seek both performance and character in a field watch.</p>\n<p><b>Functions</b></p>\n<p>Central hour/minute function, utilising faceted pencil hands renowned for their vintage provenance and clear legibility</p>\n<p>Date window at 3 o'clock</p>\n<p>Running second hand at 9 o'clock</p>\n<p>Power reserve at 6 o'clock</p>\n<p>Rotating compass bezel</p>\n<p><b>Movement</b></p>\n<p>Calibre: Modified Calibre 11 1/2''' BE-79AL</p>\n<p>No of Jewels: 31 Jewels</p>\n<p>Glucydur balance wheel</p>\n<p>Anachron balance spring</p>\n<p>Nivaflex mainspring</p>\n<p>Frequency: 28,800bph (4Hz)</p>\n<p>Power reserve: 38-hour</p>\n<p><b>Case specifications</b></p>\n<p>Featuring a contemporary two-piece cushion case with a slim profile and tapered lugs reminiscent of military field watches. Elevated through the use of 904L stainless steel, utilised for its resistance to corrosion, improved lustre and greater durability. Finished with a brushed texturing for a unique and iconic wristwatch</p>\n<p>Bi-directional steel bezel engraved with the compass rose</p>\n<p>The Wayfinder, Bremont's new icon is engraved on the oversized push-in crown and features centrally on the dial</p>\n<p>Case Diameter: 40.5mm</p>\n<p>Case Length: 47 mm</p>\n<p>Case Depth: 11.91mm</p>\n<p>Lug width: 22mm</p>\n<p>Case back: Globe decorated closed case back, highly functional and beautifully inscribed</p>\n<p><b>Dial and Hands specifications</b></p>\n<p>Gradient anthracite and black metal dial with 3D vintage Super-LumiNova® (Green emission) block numerals.</p>\n<p>Polished Rhodium hands with vintage Super-LumiNova® (Green emission)</p>\n<p><b>Crystal</b></p>\n<p>Domed anti-reflective, scratch resistant sapphire crystal</p>\n<p><b>Water Resistance</b></p>\n<p>10 ATM, 100 metres</p>\n<p><strong>Strap</strong></p>\n<p>Black nubuck leather strap enhanced with boxed stitching in a shade of cream.</p>\n<p><b>Weight</b></p>\n<p>75g (watch head only)</p>\n<p><span style=\"display: none\">Tags : Ref No: TN40-PWR-SS-BK-L-S</span></p>\n"
+      },
+      "shortDescription": "Not set",
+      "permalink": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/terra-nova/terra-nova-40-5-turning-bezel-power-reserve-black-3/"
+    },
+    {
+      "index": 4,
+      "id": 28683,
+      "name": "Terra Nova 40.5 Turning Bezel Power Reserve",
+      "sku": "Not set",
+      "referenceNumber": "TN40-PWR-SS-BL-B",
+      "dateCreated": "2025-06-15T13:08:14",
+      "categories": [
+        "Bremont",
+        "Terra Nova",
+        "Watch"
+      ],
+      "images": {
+        "count": 1,
+        "featured": {
+          "id": 28684,
+          "name": "Bremont_Terranova_TN40-PWR-SS-BL-B-2",
+          "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_Terranova_TN40-PWR-SS-BL-B-2.webp",
+          "alt": "Not set"
+        },
+        "allImages": [
+          {
+            "id": 28684,
+            "name": "Bremont_Terranova_TN40-PWR-SS-BL-B-2",
+            "alt": "Not set"
+          }
+        ]
+      },
+      "description": {
+        "length": 3640,
+        "preview": "<p>Inspired by the robust utility of early 20th-century military pocket watches, Bremont introduces the Terra Nova collection—a modern tribute to classic field timepieces. Each watch in the collection...",
+        "hasFunctions": true,
+        "hasMovement": true,
+        "hasCaseSpecs": true,
+        "hasDialSpecs": true,
+        "hasRefTag": true,
+        "fullDescription": "<p>Inspired by the robust utility of early 20th-century military pocket watches, Bremont introduces the Terra Nova collection—a modern tribute to classic field timepieces. Each watch in the collection is a meticulous blend of historical design cues and contemporary innovation.</p>\n<p>The 40.5mm model features a bold, geometrical cushion-shaped case crafted from high-performance 904L stainless steel. Its brushed and polished surfaces create a refined, durable exterior designed to withstand the rigours of exploration.</p>\n<p>A bi-directional compass bezel with cardinal markers enhances navigational functionality, while the oversized crown—reminiscent of traditional field watches—ensures ease of use, even with gloved hands. Bremont's signature 'Wayfinder' logo embellishes the crown, symbolizing the brand's commitment to adventure and precision.</p>\n<p>The dial is outfitted with oversized Super-LumiNova® numerals for exceptional visibility in low light, complemented by luminous indexes and vintage-inspired hands. A small seconds sub dial and a power reserve indicator pay homage to vintage military instrumentation.</p>\n<p>The engraved case back features a detailed world map and the words 'Terra Nova', underscoring the collection's global spirit. The watch is completed with a 904L stainless steel quick-release bracelet, offering versatility and comfort.</p>\n<p>Rediscover the heritage of field watches—refined for the modern explorer.</p>\n<p><b>Functions</b></p>\n<p>Central hour/minute function, utilising faceted pencil hands renowned for their vintage provenance and clear legibility</p>\n<p>Date window at 3 o'clock</p>\n<p>Running second hand at 9 o'clock</p>\n<p>Power reserve at 6 o'clock</p>\n<p>Rotating compass bezel</p>\n<p><b>Movement</b></p>\n<p>Calibre: Modified Calibre 11 1/2''' BE-79AL</p>\n<p>No of Jewels: 31 Jewels</p>\n<p>Glucydur balance wheel</p>\n<p>Anachron balance spring</p>\n<p>Nivaflex mainspring</p>\n<p>Frequency: 28,800bph (4Hz)</p>\n<p>Power reserve: 38-hour</p>\n<p><b>Case specifications</b></p>\n<p>Featuring a contemporary two-piece cushion case with a slim profile and tapered lugs reminiscent of military field watches. Elevated through the use of 904L stainless steel, utilised for its resistance to corrosion, improved lustre and greater durability. Finished with a brushed texturing for a unique and iconic wristwatch</p>\n<p>Bi-directional steel bezel engraved with the compass rose</p>\n<p>The Wayfinder, Bremont's new icon is engraved on the oversized push-in crown and features centrally on the dial</p>\n<p>Case Diameter: 40.5mm</p>\n<p>Case Length: 47 mm</p>\n<p>Case Depth: 11.91mm</p>\n<p>Lug width: 22mm</p>\n<p>Case back: Globe decorated closed case back, highly functional and beautifully inscribed</p>\n<p><b>Dial and Hands specifications</b></p>\n<p>Gradient blue metal dial with 3D vintage Super-LumiNova® (Green emission) block numerals</p>\n<p>Polished Rhodium hands with vintage Super-LumiNova® (Green emission)</p>\n<p><b>Crystal</b></p>\n<p>Domed anti-reflective, scratch resistant sapphire crystal</p>\n<p><b>Water Resistance</b></p>\n<p>10 ATM, 100 metres</p>\n<p><strong>Strap</strong></p>\n<p>Unique to the Terra Nova collection is a quick release bracelet crafted in 904L steel and finished in a combination of brushed and polished facets, which mirror the outer radius of the Terra Nova cushion case. Curved bars are repeated through the length of the strap creating a high level of articulation which ensures enhanced fluidity and great comfort to the wearer</p>\n<p><b>Weight</b></p>\n<p>75g (watch head only)</p>\n<p><span style=\"display: none\">Tags : Ref No: TN40-PWR-SS-BL-B</span></p>\n"
+      },
+      "shortDescription": "Not set",
+      "permalink": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/terra-nova/terra-nova-40-5-turning-bezel-power-reserve-3/"
+    },
+    {
+      "index": 5,
+      "id": 28681,
+      "name": "Terra Nova 40.5 Turning Bezel Power Reserve Black",
+      "sku": "Not set",
+      "referenceNumber": "TN40-PWR-SS-BK-L",
+      "dateCreated": "2025-06-15T13:07:07",
+      "categories": [
+        "Bremont",
+        "Terra Nova",
+        "Watch"
+      ],
+      "images": {
+        "count": 1,
+        "featured": {
+          "id": 28682,
+          "name": "Bremont_Terranova_TN40-PWR-SS-BK-L-S-1",
+          "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_Terranova_TN40-PWR-SS-BK-L-S-1.webp",
+          "alt": "Not set"
+        },
+        "allImages": [
+          {
+            "id": 28682,
+            "name": "Bremont_Terranova_TN40-PWR-SS-BK-L-S-1",
+            "alt": "Not set"
+          }
+        ]
+      },
+      "description": {
+        "length": 3334,
+        "preview": "<p>The Bremont Terra Nova collection reimagines the heritage of early 20th-century military pocket watches through the lens of modern craftsmanship. Purpose-built and elegantly styled, each timepiece ...",
+        "hasFunctions": true,
+        "hasMovement": true,
+        "hasCaseSpecs": true,
+        "hasDialSpecs": true,
+        "hasRefTag": true,
+        "fullDescription": "<p>The Bremont Terra Nova collection reimagines the heritage of early 20th-century military pocket watches through the lens of modern craftsmanship. Purpose-built and elegantly styled, each timepiece embodies the essence of rugged functionality, simplicity, and timeless design—refined for today's adventurer.</p>\n<p>Crafted from corrosion-resistant 904L stainless steel, the 40.5mm cushion-shaped case features a striking mix of brushed and polished finishes, offering both durability and distinction. A bi-directional compass bezel with cardinal direction markers enhances the watch's field-ready functionality.</p>\n<p>The black dial showcases oversized, full-block Super-LumiNova® numerals for superior legibility in low light, complemented by luminous indexes and vintage-inspired hands. A small seconds sub-dial at 6 o'clock pays tribute to classic military timepieces, while the engraved case back features a world map and the inscription 'Terra Nova'—a nod to global exploration.</p>\n<p>Completing the look is a black nubuck leather strap with a pin buckle clasp, designed to comfortably fit wrists from 16.5cm to 22cm. The oversized crown, adorned with Bremont's 'Wayfinder' logo, underscores the brand's enduring spirit of adventure.</p>\n<p>A harmonious blend of heritage and innovation, the Terra Nova Power Reserve is a compelling choice for those who seek both performance and character in a field watch.</p>\n<p><b>Functions</b></p>\n<p>Central hour/minute function, utilising faceted pencil hands renowned for their vintage provenance and clear legibility</p>\n<p>Date window at 3 o'clock</p>\n<p>Running second hand at 9 o'clock</p>\n<p>Power reserve at 6 o'clock</p>\n<p>Rotating compass bezel</p>\n<p><b>Movement</b></p>\n<p>Calibre: Modified Calibre 11 1/2''' BE-79AL</p>\n<p>No of Jewels: 31 Jewels</p>\n<p>Glucydur balance wheel</p>\n<p>Anachron balance spring</p>\n<p>Nivaflex mainspring</p>\n<p>Frequency: 28,800bph (4Hz)</p>\n<p>Power reserve: 38-hour</p>\n<p><b>Case specifications</b></p>\n<p>Featuring a contemporary two-piece cushion case with a slim profile and tapered lugs reminiscent of military field watches. Elevated through the use of 904L stainless steel, utilised for its resistance to corrosion, improved lustre and greater durability. Finished with a brushed texturing for a unique and iconic wristwatch</p>\n<p>Bi-directional steel bezel engraved with the compass rose</p>\n<p>The Wayfinder, Bremont's new icon is engraved on the oversized push-in crown and features centrally on the dial</p>\n<p>Case Diameter: 40.5mm</p>\n<p>Case Length: 47 mm</p>\n<p>Case Depth: 11.91mm</p>\n<p>Lug width: 22mm</p>\n<p>Case back: Globe decorated closed case back, highly functional and beautifully inscribed</p>\n<p><b>Dial and Hands specifications</b></p>\n<p>Gradient anthracite and black metal dial with 3D vintage Super-LumiNova® (Green emission) block numerals.</p>\n<p>Polished Rhodium hands with vintage Super-LumiNova® (Green emission)</p>\n<p><b>Crystal</b></p>\n<p>Domed anti-reflective, scratch resistant sapphire crystal</p>\n<p><b>Water Resistance</b></p>\n<p>10 ATM, 100 metres</p>\n<p><strong>Strap</strong></p>\n<p>Black nubuck leather strap enhanced with boxed stitching in a shade of cream.</p>\n<p><b>Weight</b></p>\n<p>75g (watch head only)</p>\n<p><span style=\"display: none\">Tags : Ref No: TN40-PWR-SS-BK-L-S</span></p>\n"
+      },
+      "shortDescription": "Not set",
+      "permalink": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/terra-nova/terra-nova-40-5-turning-bezel-power-reserve-black-2/"
+    },
+    {
+      "index": 6,
+      "id": 28679,
+      "name": "Terra Nova 40.5 Turning Bezel Power Reserve",
+      "sku": "Not set",
+      "referenceNumber": "TN40-PWR-SS-BL-B",
+      "dateCreated": "2025-06-15T13:06:08",
+      "categories": [
+        "Bremont",
+        "Terra Nova",
+        "Watch"
+      ],
+      "images": {
+        "count": 1,
+        "featured": {
+          "id": 28680,
+          "name": "Bremont_Terranova_TN40-PWR-SS-BL-B-1",
+          "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_Terranova_TN40-PWR-SS-BL-B-1.webp",
+          "alt": "Not set"
+        },
+        "allImages": [
+          {
+            "id": 28680,
+            "name": "Bremont_Terranova_TN40-PWR-SS-BL-B-1",
+            "alt": "Not set"
+          }
+        ]
+      },
+      "description": {
+        "length": 3640,
+        "preview": "<p>Inspired by the robust utility of early 20th-century military pocket watches, Bremont introduces the Terra Nova collection—a modern tribute to classic field timepieces. Each watch in the collection...",
+        "hasFunctions": true,
+        "hasMovement": true,
+        "hasCaseSpecs": true,
+        "hasDialSpecs": true,
+        "hasRefTag": true,
+        "fullDescription": "<p>Inspired by the robust utility of early 20th-century military pocket watches, Bremont introduces the Terra Nova collection—a modern tribute to classic field timepieces. Each watch in the collection is a meticulous blend of historical design cues and contemporary innovation.</p>\n<p>The 40.5mm model features a bold, geometrical cushion-shaped case crafted from high-performance 904L stainless steel. Its brushed and polished surfaces create a refined, durable exterior designed to withstand the rigours of exploration.</p>\n<p>A bi-directional compass bezel with cardinal markers enhances navigational functionality, while the oversized crown—reminiscent of traditional field watches—ensures ease of use, even with gloved hands. Bremont's signature 'Wayfinder' logo embellishes the crown, symbolizing the brand's commitment to adventure and precision.</p>\n<p>The dial is outfitted with oversized Super-LumiNova® numerals for exceptional visibility in low light, complemented by luminous indexes and vintage-inspired hands. A small seconds sub dial and a power reserve indicator pay homage to vintage military instrumentation.</p>\n<p>The engraved case back features a detailed world map and the words 'Terra Nova', underscoring the collection's global spirit. The watch is completed with a 904L stainless steel quick-release bracelet, offering versatility and comfort.</p>\n<p>Rediscover the heritage of field watches—refined for the modern explorer.</p>\n<p><b>Functions</b></p>\n<p>Central hour/minute function, utilising faceted pencil hands renowned for their vintage provenance and clear legibility</p>\n<p>Date window at 3 o'clock</p>\n<p>Running second hand at 9 o'clock</p>\n<p>Power reserve at 6 o'clock</p>\n<p>Rotating compass bezel</p>\n<p><b>Movement</b></p>\n<p>Calibre: Modified Calibre 11 1/2''' BE-79AL</p>\n<p>No of Jewels: 31 Jewels</p>\n<p>Glucydur balance wheel</p>\n<p>Anachron balance spring</p>\n<p>Nivaflex mainspring</p>\n<p>Frequency: 28,800bph (4Hz)</p>\n<p>Power reserve: 38-hour</p>\n<p><b>Case specifications</b></p>\n<p>Featuring a contemporary two-piece cushion case with a slim profile and tapered lugs reminiscent of military field watches. Elevated through the use of 904L stainless steel, utilised for its resistance to corrosion, improved lustre and greater durability. Finished with a brushed texturing for a unique and iconic wristwatch</p>\n<p>Bi-directional steel bezel engraved with the compass rose</p>\n<p>The Wayfinder, Bremont's new icon is engraved on the oversized push-in crown and features centrally on the dial</p>\n<p>Case Diameter: 40.5mm</p>\n<p>Case Length: 47 mm</p>\n<p>Case Depth: 11.91mm</p>\n<p>Lug width: 22mm</p>\n<p>Case back: Globe decorated closed case back, highly functional and beautifully inscribed</p>\n<p><b>Dial and Hands specifications</b></p>\n<p>Gradient blue metal dial with 3D vintage Super-LumiNova® (Green emission) block numerals</p>\n<p>Polished Rhodium hands with vintage Super-LumiNova® (Green emission)</p>\n<p><b>Crystal</b></p>\n<p>Domed anti-reflective, scratch resistant sapphire crystal</p>\n<p><b>Water Resistance</b></p>\n<p>10 ATM, 100 metres</p>\n<p><strong>Strap</strong></p>\n<p>Unique to the Terra Nova collection is a quick release bracelet crafted in 904L steel and finished in a combination of brushed and polished facets, which mirror the outer radius of the Terra Nova cushion case. Curved bars are repeated through the length of the strap creating a high level of articulation which ensures enhanced fluidity and great comfort to the wearer</p>\n<p><b>Weight</b></p>\n<p>75g (watch head only)</p>\n<p><span style=\"display: none\">Tags : Ref No: TN40-PWR-SS-BL-B</span></p>\n"
+      },
+      "shortDescription": "Not set",
+      "permalink": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/terra-nova/terra-nova-40-5-turning-bezel-power-reserve-2/"
+    },
+    {
+      "index": 7,
+      "id": 28674,
+      "name": "Altitude 39 Date, Silver Dial, Leather Strap",
+      "sku": "Not set",
+      "referenceNumber": "ALT39-DT-SS-SI-L-S",
+      "dateCreated": "2025-06-15T12:34:05",
+      "categories": [
+        "Altitude",
+        "Bremont",
+        "Watch"
+      ],
+      "images": {
+        "count": 1,
+        "featured": {
+          "id": 28787,
+          "name": "Bremont at Palladio Jewellers in Vancouver &#8211; Official Bremont Retailer &#8211; Altitude 39 Date, Silver Dial, Leather Strap",
+          "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_Altitude_39DateLeather_ALT39-DT-SS-SI-L-S-1.webp",
+          "alt": "Bremont Altitude 39 Date, Silver Dial, Leather Strap at Palladio Jewellers"
+        },
+        "allImages": [
+          {
+            "id": 28787,
+            "name": "Bremont at Palladio Jewellers in Vancouver &#8211; Official Bremont Retailer &#8211; Altitude 39 Date, Silver Dial, Leather Strap",
+            "alt": "Bremont Altitude 39 Date, Silver Dial, Leather Strap at Palladio Jewellers"
+          }
+        ]
+      },
+      "description": {
+        "length": 3079,
+        "preview": "<p><strong>Bremont Altitude 39 Date - Everyday Elegance Meets Military-Grade Durability</strong></p>\n<p>The Altitude 39 Date is a sleek, resilient reinterpretation of Bremont’s signature MB design—cra...",
+        "hasFunctions": true,
+        "hasMovement": true,
+        "hasCaseSpecs": true,
+        "hasDialSpecs": true,
+        "hasRefTag": true,
+        "fullDescription": "<p><strong>Bremont Altitude 39 Date - Everyday Elegance Meets Military-Grade Durability</strong></p>\n<p>The Altitude 39 Date is a sleek, resilient reinterpretation of Bremont’s signature MB design—crafted for those who value refined aesthetics without compromising on performance.</p>\n<p>Encased in a compact 39mm Trip-Tick® case made from premium 904L stainless steel, this timepiece features a black DLC-coated center barrel and a streamlined silhouette that sits comfortably on the wrist. Designed with the same robust engineering trusted by elite pilots and military professionals, it offers superior shock resistance and anti-magnetic protection.</p>\n<p>The dial draws inspiration from classic aviation instruments—clean, uncluttered, and instantly legible. Applied Super-LumiNova® indexes ensure optimal visibility, while subtle stencilled details nod to its cockpit roots. A standout feature remains the distinctive ‘lollipop’ seconds hand, counterbalanced by Bremont’s signature looped ‘ejection’ pull handle, echoing the brand’s deep connection to aviation excellence.</p>\n<p>At the heart of the watch lies the BB14 automatic movement, boasting an impressive 68-hour power reserve. Suspended in a flexible rubber mount to dampen shock and vibration, the movement is visible through an exhibition case back, showcasing intricate Geneva Stripes and gunmetal finishing. A soft iron Faraday cage surrounds the movement, preserving anti-magnetic integrity even with the open back.</p>\n<p>The <strong>Altitude 39 Date</strong> is the perfect blend of daily wearability and technical precision—crafted to perform, built to endure.</p>\n<p><b>Functions</b></p>\n<p>Central Hour/Minute/Seconds</p>\n<p>Date at 3 O'clock</p>\n<p><b>Movement</b></p>\n<p>Calibre: BB14-AH</p>\n<p>No of Jewels: 24 Jewels</p>\n<p>Frequency: 28,800bph (4Hz)</p>\n<p>Power reserve: 68-hour</p>\n<p>Decorated Bremont rotor</p>\n<p><b>Case specifications</b></p>\n<p>Satin &amp; polished 904L Stainless Steel Trip-Tick case construction with Brushed Black DLC barrel</p>\n<p>Inner anti-magnetic movement protection ring</p>\n<p>Protective anti-shock movement mount</p>\n<p>Inner bi-directional Roto-Click bezel, operated by crown at 4 O'clock</p>\n<p>Case Diameter: 39mm</p>\n<p>Case Length: 47.17mm</p>\n<p>Case Depth: 11.19mm</p>\n<p>Lug width: 20mm</p>\n<p>Case back: Decorated 904L stainless steel open case back</p>\n<p><b>Dial and Hands specifications</b></p>\n<p>Brushed Silver Galvanic metal dial including: Applied Numerals and Indexes filled with white Super-LumiNova® (Blue emission)</p>\n<p>Gloss Black hour and minute hands with white Super-LumiNova® (Blue emission)</p>\n<p>Black Seconds hand with lollipop white tip and a monochrome pullcord tail</p>\n<p><b>Crystal</b></p>\n<p>Glass Box anti-reflective sapphire crystal</p>\n<p><b>Water Resistance</b></p>\n<p>10 ATM, 100 metres</p>\n<p><strong>Strap</strong></p>\n<p>Quick-release black nubuck leather strap with white box-stitching</p>\n<p><b>Weight</b></p>\n<p>53.76g (watch head only)</p>\n<p><span style=\"display: none\">Tags : Ref No: ALT39-DT-SS-SI-L-S</span></p>\n"
+      },
+      "shortDescription": "Not set",
+      "permalink": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/altitude/altitude-39-silver-leather-strap/"
+    },
+    {
+      "index": 8,
+      "id": 28673,
+      "name": "Altitude 39 Date, Black Dial, Steel Bracelet",
+      "sku": "Not set",
+      "referenceNumber": "ALT39-DT-SS-BK-B",
+      "dateCreated": "2025-06-15T12:33:12",
+      "categories": [
+        "Altitude",
+        "Bremont",
+        "Watch"
+      ],
+      "images": {
+        "count": 1,
+        "featured": {
+          "id": 28786,
+          "name": "Bremont at Palladio Jewellers in Vancouver &#8211; Official Bremont Retailer &#8211; Altitude 39 Date, Black Dial, Steel Bracelet",
+          "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_Altitude_39DateBracelet_ALT39-DT-SS-BK-B-1.webp",
+          "alt": "Bremont Altitude 39 Date, Black Dial, Steel Bracelet at Palladio Jewellers"
+        },
+        "allImages": [
+          {
+            "id": 28786,
+            "name": "Bremont at Palladio Jewellers in Vancouver &#8211; Official Bremont Retailer &#8211; Altitude 39 Date, Black Dial, Steel Bracelet",
+            "alt": "Bremont Altitude 39 Date, Black Dial, Steel Bracelet at Palladio Jewellers"
+          }
+        ]
+      },
+      "description": {
+        "length": 3122,
+        "preview": "<p><strong>Bremont Altitude 39 Date - Refined Form. Everyday Strength. Aviation Spirit.</strong></p>\n<p>The Altitude 39 Date is a sophisticated evolution of Bremont’s iconic MB series—crafted with pre...",
+        "hasFunctions": true,
+        "hasMovement": true,
+        "hasCaseSpecs": true,
+        "hasDialSpecs": true,
+        "hasRefTag": true,
+        "fullDescription": "<p><strong>Bremont Altitude 39 Date - Refined Form. Everyday Strength. Aviation Spirit.</strong></p>\n<p>The Altitude 39 Date is a sophisticated evolution of Bremont’s iconic MB series—crafted with precision for those who demand reliability and versatility in a more compact design.</p>\n<p>Encased in a robust 39mm Trip-Tick® case made from ultra-durable 904L stainless steel, the watch features a black DLC-coated centre barrel and a refined profile for effortless, all-day wear. Designed with the same uncompromising engineering trusted by military aviators, it provides advanced shock resistance and anti-magnetic protection.</p>\n<p>The cockpit-inspired dial offers clear readability with applied Super-LumiNova® indexes and subtle stencilled accents. Bremont’s signature ‘lollipop’ seconds hand, counterbalanced by a striped ‘ejection’ pull handle, pays tribute to the brand’s aviation heritage.</p>\n<p>At its core, the Altitude 39 Date is powered by the BB14 automatic movement, delivering a 68-hour power reserve. The movement is suspended within a flexible rubber mount to absorb impact, and is showcased through an open case-back, revealing Geneva Stripes and gunmetal finishing. A soft iron ring surrounds the movement, preserving anti-magnetic shielding using Faraday Cage principles.</p>\n<p>Complementing the case is Bremont’s newly designed bracelet in brushed 904L stainless steel. With quick-release functionality and ergonomic curved bars, it offers fluid movement, exceptional comfort, and everyday durability.</p>\n<p>The <strong>Altitude 39 Date</strong> combines classic aviation cues with refined performance—built to go wherever life takes you.</p>\n<p><b>Functions</b></p>\n<p>Central Hour/Minute/Seconds</p>\n<p>Date at 3 O'clock</p>\n<p><b>Movement</b></p>\n<p>Calibre: BB14-AH</p>\n<p>No of Jewels: 24 Jewels</p>\n<p>Frequency: 28,800bph (4Hz)</p>\n<p>Power reserve: 68-hour</p>\n<p>Decorated Bremont rotor</p>\n<p><b>Case specifications</b></p>\n<p>Satin &amp; polished 904L Stainless Steel Trip-Tick case construction with Brushed Black DLC barrel</p>\n<p>Inner anti-magnetic movement protection ring</p>\n<p>Protective anti-shock movement mount</p>\n<p>Inner bi-directional Roto-Click bezel, operated by crown at 4 O'clock</p>\n<p>Case Diameter: 39mm</p>\n<p>Case Length: 47.17mm</p>\n<p>Case Depth: 11.19mm</p>\n<p>Lug width: 20mm</p>\n<p>Case back: Decorated 904L stainless steel open case back</p>\n<p><b>Dial and Hands specifications</b></p>\n<p>Brushed Black Galvanic metal dial including: Applied Numerals and Indexes filled with white Super-LumiNova® (Blue emission)</p>\n<p>Silver Inner Roto-Click Bezel</p>\n<p>Gloss Black hour and minute hands with white Super-LumiNova® (Blue emission)</p>\n<p>Black Seconds hand with lollipop white tip and a monochrome pullcord tail</p>\n<p><b>Crystal</b></p>\n<p>Glass Box anti-reflective sapphire crystal</p>\n<p><b>Water Resistance</b></p>\n<p>10 ATM, 100 metres</p>\n<p><strong>Strap</strong></p>\n<p>Quick-release 904L stainless steel bracelet</p>\n<p><b>Weight</b></p>\n<p>53.76g (watch head only)</p>\n<p><span style=\"display: none\">Tags : Ref No: ALT39-DT-SS-BK-B</span></p>\n"
+      },
+      "shortDescription": "Not set",
+      "permalink": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/altitude/altitude-39-steel-bracelet/"
+    },
+    {
+      "index": 9,
+      "id": 28672,
+      "name": "Altitude 39 Date, Black Dial, Leather Strap",
+      "sku": "Not set",
+      "referenceNumber": "ALT39-DT-SS-BK-L-S",
+      "dateCreated": "2025-06-15T12:32:20",
+      "categories": [
+        "Altitude",
+        "Bremont",
+        "Watch"
+      ],
+      "images": {
+        "count": 1,
+        "featured": {
+          "id": 28785,
+          "name": "Bremont at Palladio Jewellers in Vancouver &#8211; Official Bremont Retailer &#8211; Altitude 39 Date, Black Dial, Leather Strap",
+          "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_Altitude_39DateLeather_ALT39-DT-SS-BK-L-S-1.webp",
+          "alt": "Bremont Altitude 39 Date, Black Dial, Leather Strap at Palladio Jewellers"
+        },
+        "allImages": [
+          {
+            "id": 28785,
+            "name": "Bremont at Palladio Jewellers in Vancouver &#8211; Official Bremont Retailer &#8211; Altitude 39 Date, Black Dial, Leather Strap",
+            "alt": "Bremont Altitude 39 Date, Black Dial, Leather Strap at Palladio Jewellers"
+          }
+        ]
+      },
+      "description": {
+        "length": 2903,
+        "preview": "<p><strong>Bremont Altitude 39 Date - Everyday Precision. Military Heritage. Compact Form.</strong><br />\nThe Bremont Altitude 39 Date brings the robust legacy of the MB series into a sleek, more vers...",
+        "hasFunctions": true,
+        "hasMovement": true,
+        "hasCaseSpecs": true,
+        "hasDialSpecs": true,
+        "hasRefTag": true,
+        "fullDescription": "<p><strong>Bremont Altitude 39 Date - Everyday Precision. Military Heritage. Compact Form.</strong><br />\nThe Bremont Altitude 39 Date brings the robust legacy of the MB series into a sleek, more versatile silhouette — perfectly suited for everyday wear.</p>\n<p>Crafted from ultra-resilient 904L stainless steel, the 39mm Trip-Tick® case features a black DLC-coated centre barrel and a streamlined profile for exceptional comfort and style. Designed with the same uncompromising durability trusted by pilots and elite military personnel, it delivers advanced shock protection and anti-magnetic shielding in a compact form.</p>\n<p>Inspired by cockpit instrumentation, the dial is crisp and highly legible, with applied Super-LumiNova® indexes and precision stencilled detailing. A signature ‘lollipop’ seconds hand, paired with the distinctive striped ‘ejection’ pull counterweight, pays homage to Bremont’s aviation roots.</p>\n<p>Powering the Altitude 39 Date is the BB14 automatic movement, offering a 68-hour power reserve. Housed within a shock-absorbing rubber mount, the movement is showcased through an open case-back with Geneva-striped finishing in gunmetal grey. A soft iron ring surrounds the movement, preserving anti-magnetic performance through Faraday Cage principles.</p>\n<p>The <strong>Altitude 39 Date</strong> is where compact design meets uncompromising engineering — ready to perform in any setting.</p>\n<p><b>Functions</b></p>\n<p>Central Hour/Minute/Seconds</p>\n<p>Date at 3 O'clock</p>\n<p><b>Movement</b></p>\n<p>Calibre: BB14-AH</p>\n<p>No of Jewels: 24 Jewels</p>\n<p>Frequency: 28,800bph (4Hz)</p>\n<p>Power reserve: 68-hour</p>\n<p>Decorated Bremont rotor</p>\n<p><b>Case specifications</b></p>\n<p>Satin &amp; polished 904L Stainless Steel Trip-Tick case construction with Brushed Black DLC barrel</p>\n<p>Inner anti-magnetic movement protection ring</p>\n<p>Protective anti-shock movement mount</p>\n<p>Inner bi-directional Roto-Click bezel, operated by crown at 4 O'clock</p>\n<p>Case Diameter: 39mm</p>\n<p>Case Length: 47.17mm</p>\n<p>Case Depth: 11.19mm</p>\n<p>Lug width: 20mm</p>\n<p>Case back: Decorated 904L stainless steel open case back</p>\n<p><b>Dial and Hands specifications</b></p>\n<p>Brushed Silver Galvanic metal dial including: Applied Numerals and Indexes filled with white Super-LumiNova® (Blue emission)</p>\n<p>Silver Inner Roto-Click Bezel</p>\n<p>Gloss Black hour and minute hands with white Super-LumiNova® (Blue emission)</p>\n<p>Black Seconds hand with lollipop white tip and a monochrome pullcord tail</p>\n<p><b>Crystal</b></p>\n<p>Glass Box anti-reflective sapphire crystal</p>\n<p><b>Water Resistance</b></p>\n<p>10 ATM, 100 metres</p>\n<p><strong>Strap</strong></p>\n<p>Quick-release black nubuck leather strap with white box-stitching</p>\n<p><b>Weight</b></p>\n<p>53.76g (watch head only)</p>\n<p><span style=\"display: none\">Tags : Ref No: ALT39-DT-SS-BK-L-S</span></p>\n"
+      },
+      "shortDescription": "Not set",
+      "permalink": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/altitude/altitude-39-black-leather-strap/"
+    },
+    {
+      "index": 10,
+      "id": 28670,
+      "name": "Altitude Meteor, Silver Leather Strap",
+      "sku": "Not set",
+      "referenceNumber": "ALT42-MT-TI-BKBK-L",
+      "dateCreated": "2025-06-15T12:31:24",
+      "categories": [
+        "Altitude",
+        "Bremont",
+        "Watch"
+      ],
+      "images": {
+        "count": 1,
+        "featured": {
+          "id": 28671,
+          "name": "Bremont_Altitude_MBMeteorLeather_ALT42-MT-TI-BKBK-L-S-2",
+          "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_Altitude_MBMeteorLeather_ALT42-MT-TI-BKBK-L-S-2.webp",
+          "alt": "Not set"
+        },
+        "allImages": [
+          {
+            "id": 28671,
+            "name": "Bremont_Altitude_MBMeteorLeather_ALT42-MT-TI-BKBK-L-S-2",
+            "alt": "Not set"
+          }
+        ]
+      },
+      "description": {
+        "length": 2829,
+        "preview": "<p>The Bremont Altitude Meteor with Silver Leather Strap presents a refined interpretation of cosmic timekeeping, combining the wonder of authentic meteorite materials with sophisticated silver accent...",
+        "hasFunctions": true,
+        "hasMovement": true,
+        "hasCaseSpecs": true,
+        "hasDialSpecs": true,
+        "hasRefTag": true,
+        "fullDescription": "<p>The Bremont Altitude Meteor with Silver Leather Strap presents a refined interpretation of cosmic timekeeping, combining the wonder of authentic meteorite materials with sophisticated silver accents and premium leather craftsmanship.</p>\n<p>The centerpiece of this extraordinary timepiece is its genuine meteorite dial, featuring natural Widmanstätten patterns that formed over millions of years in the depths of space. These intricate crystalline structures create unique patterns that ensure each watch possesses its own distinct cosmic fingerprint.</p>\n<p>The silver accents and case finishing provide an elegant contrast to the meteorite dial's natural patterns, creating a sophisticated aesthetic that honors both the material's cosmic origins and traditional watchmaking excellence. The careful balance of elements results in a timepiece that is both scientifically fascinating and visually stunning.</p>\n<p>Built around Bremont's precision automatic movement, this watch delivers the accuracy and reliability essential for aviation professionals while celebrating humanity's fascination with space exploration and discovery.</p>\n<p>The premium silver leather strap adds refined elegance to the package, making this timepiece equally suitable for professional aviation environments and sophisticated social occasions.</p>\n<p><b>Functions</b></p>\n<p>Central Hour/Minute/Second</p>\n<p>Date display</p>\n<p>Unidirectional rotating bezel</p>\n<p><b>Movement</b></p>\n<p>Precision automatic movement</p>\n<p>Anti-magnetic protection</p>\n<p>Extended power reserve</p>\n<p>Professional-grade reliability</p>\n<p><b>Case specifications</b></p>\n<p>Premium case construction with silver accents</p>\n<p>Aviation-inspired design elements</p>\n<p>Unidirectional timing bezel</p>\n<p>Screw-down crown system</p>\n<p>Refined surface finishing</p>\n<p><b>Dial and Hands specifications</b></p>\n<p>Authentic meteorite dial with Widmanstätten patterns</p>\n<p>Applied silver indexes with Super-LumiNova® (Blue emission)</p>\n<p>Precision hands with luminous filling</p>\n<p>Elegant date window integration</p>\n<p>Cosmic aesthetic with refined accents</p>\n<p><b>Crystal</b></p>\n<p>Anti-reflective sapphire crystal</p>\n<p>Scratch-resistant properties</p>\n<p>Clear meteorite dial presentation</p>\n<p><b>Water Resistance</b></p>\n<p>Professional water resistance</p>\n<p>Aviation and daily wear compatibility</p>\n<p><strong>Strap</strong></p>\n<p>Premium silver leather construction</p>\n<p>Quick-release functionality</p>\n<p>Refined stitching and finishing</p>\n<p>Sophisticated design elements</p>\n<p><b>Special Features</b></p>\n<p>Authentic meteorite dial material</p>\n<p>Unique Widmanstätten patterns</p>\n<p>Silver accent finishing</p>\n<p>Limited cosmic material availability</p>\n<p><span style=\"display: none\">Tags : Ref No: ALT1-ZT-METEOR-SL-L</span></p>\n"
+      },
+      "shortDescription": "Not set",
+      "permalink": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/altitude/altitude-meteor-silver-leather-strap/"
+    },
+    {
+      "index": 11,
+      "id": 28668,
+      "name": "Altitude Meteor, Black Leather Strap",
+      "sku": "Not set",
+      "referenceNumber": "ALT42-MT-TI-BKBK-L",
+      "dateCreated": "2025-06-15T12:30:26",
+      "categories": [
+        "Altitude",
+        "Bremont",
+        "Watch"
+      ],
+      "images": {
+        "count": 1,
+        "featured": {
+          "id": 28669,
+          "name": "Bremont_Altitude_MBMeteorLeather_ALT42-MT-TI-BKBK-L-S-1",
+          "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_Altitude_MBMeteorLeather_ALT42-MT-TI-BKBK-L-S-1.webp",
+          "alt": "Not set"
+        },
+        "allImages": [
+          {
+            "id": 28669,
+            "name": "Bremont_Altitude_MBMeteorLeather_ALT42-MT-TI-BKBK-L-S-1",
+            "alt": "Not set"
+          }
+        ]
+      },
+      "description": {
+        "length": 2843,
+        "preview": "<p>The Bremont Altitude Meteor with Black Leather Strap combines cosmic materials with classic elegance, creating a timepiece that bridges the gap between aviation functionality and sophisticated styl...",
+        "hasFunctions": true,
+        "hasMovement": true,
+        "hasCaseSpecs": true,
+        "hasDialSpecs": true,
+        "hasRefTag": true,
+        "fullDescription": "<p>The Bremont Altitude Meteor with Black Leather Strap combines cosmic materials with classic elegance, creating a timepiece that bridges the gap between aviation functionality and sophisticated style. This extraordinary watch features an authentic meteorite dial crafted from genuine extraterrestrial material.</p>\n<p>The meteorite dial showcases natural Widmanstätten patterns—unique crystalline structures formed over millions of years in the depths of space. These intricate patterns ensure that no two watches are identical, making each timepiece a truly individual expression of cosmic artistry and terrestrial craftsmanship.</p>\n<p>The robust case construction reflects Bremont's aviation heritage, engineered to withstand the demanding environments encountered in professional flight operations. Advanced materials and precision manufacturing ensure reliable performance whether navigating airways or exploring terrestrial adventures.</p>\n<p>Paired with a premium black leather strap, this configuration offers sophisticated elegance suitable for both professional and formal occasions while maintaining the technical capabilities essential for aviation use.</p>\n<p>The automatic movement provides precise timekeeping with the reliability demanded by pilots and aviation professionals, while the meteorite dial serves as a constant reminder of humanity's connection to the cosmos.</p>\n<p><b>Functions</b></p>\n<p>Central Hour/Minute/Second</p>\n<p>Date display</p>\n<p>Unidirectional rotating bezel</p>\n<p><b>Movement</b></p>\n<p>Precision automatic movement</p>\n<p>Anti-magnetic protection</p>\n<p>Extended power reserve</p>\n<p>Professional-grade accuracy</p>\n<p><b>Case specifications</b></p>\n<p>Robust case construction</p>\n<p>Aviation-inspired design</p>\n<p>Unidirectional timing bezel</p>\n<p>Screw-down crown system</p>\n<p>Premium materials and finishing</p>\n<p><b>Dial and Hands specifications</b></p>\n<p>Authentic meteorite dial with Widmanstätten patterns</p>\n<p>Applied indexes with Super-LumiNova® (Blue emission)</p>\n<p>Precision hands with luminous filling</p>\n<p>Integrated date window</p>\n<p>Unique cosmic aesthetic</p>\n<p><b>Crystal</b></p>\n<p>Anti-reflective sapphire crystal</p>\n<p>Scratch-resistant coating</p>\n<p>Optimal meteorite dial presentation</p>\n<p><b>Water Resistance</b></p>\n<p>Professional water resistance rating</p>\n<p>Suitable for aviation and daily wear</p>\n<p><strong>Strap</strong></p>\n<p>Premium black leather construction</p>\n<p>Quick-release functionality</p>\n<p>Sophisticated finishing and stitching</p>\n<p>Aviation-heritage design elements</p>\n<p><b>Special Features</b></p>\n<p>Authentic meteorite dial material</p>\n<p>Unique Widmanstätten patterns</p>\n<p>Limited availability</p>\n<p>Cosmic connection and exclusivity</p>\n<p><span style=\"display: none\">Tags : Ref No: ALT1-ZT-METEOR-BK-L</span></p>\n"
+      },
+      "shortDescription": "Not set",
+      "permalink": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/altitude/altitude-meteor-black-leather-strap/"
+    },
+    {
+      "index": 12,
+      "id": 28666,
+      "name": "Altitude Meteor, Black Titanium",
+      "sku": "Not set",
+      "referenceNumber": "ALT42-MT-TI-BKBK-L",
+      "dateCreated": "2025-06-15T12:29:27",
+      "categories": [
+        "Altitude",
+        "Bremont",
+        "Watch"
+      ],
+      "images": {
+        "count": 1,
+        "featured": {
+          "id": 28667,
+          "name": "Bremont_Altitude_MBMeteorLeather_ALT42-MT-TI-BKBK-L-S",
+          "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_Altitude_MBMeteorLeather_ALT42-MT-TI-BKBK-L-S.webp",
+          "alt": "Not set"
+        },
+        "allImages": [
+          {
+            "id": 28667,
+            "name": "Bremont_Altitude_MBMeteorLeather_ALT42-MT-TI-BKBK-L-S",
+            "alt": "Not set"
+          }
+        ]
+      },
+      "description": {
+        "length": 2875,
+        "preview": "<p>The Bremont Altitude Meteor in Black Titanium represents an extraordinary fusion of cosmic materials and aviation engineering. This exceptional timepiece features an authentic meteorite dial—crafte...",
+        "hasFunctions": true,
+        "hasMovement": true,
+        "hasCaseSpecs": true,
+        "hasDialSpecs": true,
+        "hasRefTag": true,
+        "fullDescription": "<p>The Bremont Altitude Meteor in Black Titanium represents an extraordinary fusion of cosmic materials and aviation engineering. This exceptional timepiece features an authentic meteorite dial—crafted from genuine extraterrestrial material that has traveled through space for millions of years before reaching Earth.</p>\n<p>Each meteorite dial displays unique Widmanstätten patterns—crystalline structures that formed over eons in the vacuum of space, making every watch truly one-of-a-kind. The natural metallic patterns create an otherworldly aesthetic that perfectly complements the watch's aviation heritage and advanced materials.</p>\n<p>The lightweight titanium case construction provides exceptional strength-to-weight ratio, ideal for aviation applications where every ounce matters. The black titanium treatment adds a tactical aesthetic while maintaining the material's superior corrosion resistance and hypoallergenic properties.</p>\n<p>Built around Bremont's precision automatic movement, this timepiece delivers reliable performance whether in the cockpit or exploring earthbound adventures. The robust construction and advanced materials ensure this watch can withstand the demanding environments encountered in professional aviation.</p>\n<p>This limited edition timepiece represents the intersection of cosmic wonder and earthly engineering excellence—a fitting tribute to humanity's eternal fascination with flight and exploration.</p>\n<p><b>Functions</b></p>\n<p>Central Hour/Minute/Second</p>\n<p>Date display</p>\n<p>Unidirectional rotating bezel</p>\n<p><b>Movement</b></p>\n<p>Precision automatic movement</p>\n<p>Anti-magnetic protection</p>\n<p>Extended power reserve</p>\n<p>Professional-grade accuracy</p>\n<p><b>Case specifications</b></p>\n<p>Lightweight titanium construction</p>\n<p>Black titanium surface treatment</p>\n<p>Aviation-inspired case design</p>\n<p>Unidirectional timing bezel</p>\n<p>Screw-down crown system</p>\n<p><b>Dial and Hands specifications</b></p>\n<p>Authentic meteorite dial with Widmanstätten patterns</p>\n<p>Applied indexes with Super-LumiNova® (Blue emission)</p>\n<p>Precision hands with luminous filling</p>\n<p>Clear date window integration</p>\n<p>Unique cosmic aesthetic</p>\n<p><b>Crystal</b></p>\n<p>Anti-reflective sapphire crystal</p>\n<p>Scratch-resistant properties</p>\n<p>Optimal meteorite dial visibility</p>\n<p><b>Water Resistance</b></p>\n<p>Professional water resistance</p>\n<p>Aviation and daily wear suitable</p>\n<p><strong>Strap</strong></p>\n<p>Premium strap designed for titanium case</p>\n<p>Quick-release functionality</p>\n<p>Aviation-heritage styling</p>\n<p><b>Special Features</b></p>\n<p>Authentic meteorite dial material</p>\n<p>Limited edition exclusivity</p>\n<p>Unique Widmanstätten patterns</p>\n<p>Titanium lightweight construction</p>\n<p><span style=\"display: none\">Tags : Ref No: ALT1-ZT-METEOR-BK-TI</span></p>\n"
+      },
+      "shortDescription": "Not set",
+      "permalink": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/altitude/altitude-meteor-black-titanium/"
+    },
+    {
+      "index": 13,
+      "id": 28664,
+      "name": "Altitude Chronograph GMT, Silver Dial, Steel Bracelet",
+      "sku": "Not set",
+      "referenceNumber": "ALT42-CHR-G-SS-SI-B",
+      "dateCreated": "2025-06-15T12:28:29",
+      "categories": [
+        "Altitude",
+        "Bremont",
+        "Watch"
+      ],
+      "images": {
+        "count": 1,
+        "featured": {
+          "id": 28784,
+          "name": "Bremont at Palladio Jewellers in Vancouver &#8211; Official Bremont Retailer &#8211; Altitude Chronograph GMT, Silver Dial, Steel Bracelet",
+          "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_Altitude_ChronographSilverBracelet_ALT42-CHR-G-SS-SI-B-1.webp",
+          "alt": "Bremont Altitude Chronograph GMT, Silver Dial, Steel Bracelet at Palladio Jewellers"
+        },
+        "allImages": [
+          {
+            "id": 28784,
+            "name": "Bremont at Palladio Jewellers in Vancouver &#8211; Official Bremont Retailer &#8211; Altitude Chronograph GMT, Silver Dial, Steel Bracelet",
+            "alt": "Bremont Altitude Chronograph GMT, Silver Dial, Steel Bracelet at Palladio Jewellers"
+          }
+        ]
+      },
+      "description": {
+        "length": 3902,
+        "preview": "<p><strong>Bremont Altitude Chronograph GMT- A Masterclass in Aviation Timekeeping</strong></p>\n<p>The Altitude Chronograph GMT marks the next evolution in Bremont’s aviation watchmaking — combining t...",
+        "hasFunctions": true,
+        "hasMovement": true,
+        "hasCaseSpecs": true,
+        "hasDialSpecs": true,
+        "hasRefTag": true,
+        "fullDescription": "<p><strong>Bremont Altitude Chronograph GMT- A Masterclass in Aviation Timekeeping</strong></p>\n<p>The Altitude Chronograph GMT marks the next evolution in Bremont’s aviation watchmaking — combining the exceptional durability of the MB series with the versatile functionality of both a chronograph and GMT complication.</p>\n<p>Encased in a 42mm Trip-Tick® case crafted from ultra-tough 904L stainless steel and finished with a black DLC-coated centre barrel, this timepiece is engineered to perform under the most demanding conditions. At its heart lies the chronometer-certified BC781 automatic movement, offering a 62-hour power reserve, quick-set date, hacking seconds, and an independently adjustable GMT hand for tracking a second time zone.</p>\n<p>For added resilience, the movement is suspended within a flexible rubber mount to absorb shocks and reduce impact. The open case back reveals intricate movement finishing in gunmetal grey with Geneva Stripes—while maintaining anti-magnetic protection through a soft iron inner shield based on Faraday cage technology.</p>\n<p>Inspired by cockpit instrumentation, the dial features applied Super-LumiNova® numerals and markers for optimal visibility, along with recessed chronograph subdials. A red-tipped GMT hand sweeps across a 24-hour day/night scale, and the rotating seconds subdial at 9 o’clock is cleverly styled as a tri-blade propeller—an homage to Bremont’s military design roots.</p>\n<p>Completing the timepiece is a newly developed 904L stainless steel bracelet with a brushed finish. Designed with quick-release functionality and curved bars for improved flexibility, it ensures a seamless fit and exceptional wearing comfort.<br />\nThe <strong>Altitude Chronograph GMT</strong> is more than a pilot’s tool—it’s a symbol of precision, performance, and enduring craftsmanship.</p>\n<p><b>Functions</b></p>\n<p>Central GMT/Hour/Minute</p>\n<p>Chronograph centre sweep seconds hand</p>\n<p>Small seconds counter at 9 O'clock</p>\n<p>Chronograph small counters with 30 minutes counter at 12 O'clock and 12 Hour counter at 6 O'clock</p>\n<p>Date at 6 O'clock</p>\n<p><b>Movement</b></p>\n<p>Calibre: BC781AC movement</p>\n<p>No of Jewels: 25 Jewels</p>\n<p>Glucydur balance wheel</p>\n<p>Anachron balance spring</p>\n<p>Nivaflex mainspring</p>\n<p>Frequency: 28,800bph (4Hz)</p>\n<p>Power reserve: 62-hour</p>\n<p>Decorated Bremont rotor</p>\n<p><b>Case specifications</b></p>\n<p>Satin &amp; polished 904L stainless steel Trip-Tick case construction with Brushed Black DLC barrel</p>\n<p>Inner anti-magnetic movement protection ring</p>\n<p>Protective anti-shock movement mount</p>\n<p>Case Diameter: 42mm</p>\n<p>Case Length: 49.62mm</p>\n<p>Case Depth: 14.7mm</p>\n<p>Lug width: 22mm</p>\n<p>Case back: Decorated 904L stainless steel open case back</p>\n<p><b>Dial and Hands specifications</b></p>\n<p>Brushed Silver Galvanic metal dial including: Numerals and Indexes filled with white Super-LumiNova® (Blue emission)</p>\n<p>Grey and Silver Day and Night 24 hour dial ring</p>\n<p>Brushed sub-dial at 9 O'clock, 12 and 6 O'clock Sub-dials with fine CD Lines</p>\n<p>Gloss Black Hour and Minute hands, filled with white Super-LumiNova® (Blue emission)</p>\n<p>Gloss Black chronograph sweeping seconds hand</p>\n<p>Red tipped GMT hand, filled with white Super-LumiNova® (Blue emission)</p>\n<p>Gloss Black 12 and 6 O'clock sub dial hands</p>\n<p>Gloss Black Propeller design Running Seconds hand at 9 O'clock with white Super-LumiNova® tips</p>\n<p><b>Crystal</b></p>\n<p>Glass Box anti-reflective sapphire crystal</p>\n<p><b>Water Resistance</b></p>\n<p>10 ATM, 100 metres</p>\n<p><strong>Strap</strong></p>\n<p>Quick release 904L stainless steel bracelet</p>\n<p><b>Weight</b></p>\n<p>88.8g (watch head only)</p>\n<p><b>Rating &amp; Certification</b></p>\n<p>Chronometer rated to ISO 3159 standard</p>\n<p><span style=\"display: none\">Tags : Ref No: ALT42-CHR-G-SS-SI-B</span></p>\n"
+      },
+      "shortDescription": "Not set",
+      "permalink": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/altitude/altitude-gmt-silver/"
+    },
+    {
+      "index": 14,
+      "id": 28662,
+      "name": "Altitude GMT, Black",
+      "sku": "Not set",
+      "referenceNumber": "ALT42-CHR-G-SS-BK",
+      "dateCreated": "2025-06-15T12:27:21",
+      "categories": [
+        "Altitude",
+        "Bremont",
+        "Watch"
+      ],
+      "images": {
+        "count": 1,
+        "featured": {
+          "id": 28663,
+          "name": "Bremont-Altitude-Chronograph-GMT_BlackLeather_ALT42-CHR-G-SS-BK-L-S-1",
+          "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont-Altitude-Chronograph-GMT_BlackLeather_ALT42-CHR-G-SS-BK-L-S-1.webp",
+          "alt": "Not set"
+        },
+        "allImages": [
+          {
+            "id": 28663,
+            "name": "Bremont-Altitude-Chronograph-GMT_BlackLeather_ALT42-CHR-G-SS-BK-L-S-1",
+            "alt": "Not set"
+          }
+        ]
+      },
+      "description": {
+        "length": 2500,
+        "preview": "<p>The Bremont Altitude GMT in Black delivers precision timekeeping for aviation professionals and travel enthusiasts. This sophisticated timepiece combines GMT functionality with Bremont's renowned b...",
+        "hasFunctions": true,
+        "hasMovement": true,
+        "hasCaseSpecs": true,
+        "hasDialSpecs": true,
+        "hasRefTag": true,
+        "fullDescription": "<p>The Bremont Altitude GMT in Black delivers precision timekeeping for aviation professionals and travel enthusiasts. This sophisticated timepiece combines GMT functionality with Bremont's renowned build quality, creating a watch that excels in both cockpit environments and everyday wear.</p>\n<p>The robust case construction reflects Bremont's aviation heritage, featuring design elements inspired by aircraft instrumentation and engineering principles. The black dial provides a professional aesthetic while ensuring optimal readability through carefully positioned Super-LumiNova® filled indexes and hands.</p>\n<p>At the heart of the watch lies a precise automatic movement engineered to maintain accuracy across multiple time zones. The GMT hand allows for easy tracking of a second time zone, while the main hands display local time with unwavering precision.</p>\n<p>The unidirectional rotating bezel provides additional timing capabilities essential for navigation and flight operations, while the robust case construction ensures reliable performance in demanding environments.</p>\n<p>Completed with a premium bracelet featuring quick-release functionality, this timepiece offers the perfect combination of professional capability and everyday wearability.</p>\n<p><b>Functions</b></p>\n<p>Central Hour/Minute/Second</p>\n<p>GMT hand for second time zone</p>\n<p>Date display</p>\n<p>Unidirectional rotating bezel</p>\n<p><b>Movement</b></p>\n<p>Precision automatic GMT movement</p>\n<p>Anti-magnetic protection</p>\n<p>Extended power reserve</p>\n<p>Chronometer-grade accuracy</p>\n<p><b>Case specifications</b></p>\n<p>Aviation-inspired case design</p>\n<p>Robust construction materials</p>\n<p>Unidirectional timing bezel</p>\n<p>Screw-down crown system</p>\n<p>Professional water resistance</p>\n<p><b>Dial and Hands specifications</b></p>\n<p>Black dial with applied indexes</p>\n<p>White Super-LumiNova® (Blue emission)</p>\n<p>GMT hand with distinctive design</p>\n<p>Clear date window positioning</p>\n<p>Professional instrument styling</p>\n<p><b>Crystal</b></p>\n<p>Anti-reflective sapphire crystal</p>\n<p>Scratch-resistant properties</p>\n<p>Optimal visibility in all conditions</p>\n<p><b>Water Resistance</b></p>\n<p>Professional rating for aviation use</p>\n<p>Suitable for daily wear</p>\n<p><strong>Strap</strong></p>\n<p>Premium bracelet construction</p>\n<p>Quick-release functionality</p>\n<p>Aviation-inspired design elements</p>\n<p><span style=\"display: none\">Tags : Ref No: ALT1-ZT-GMT-BK-B</span></p>\n"
+      },
+      "shortDescription": "Not set",
+      "permalink": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/altitude/altitude-gmt-black/"
+    },
+    {
+      "index": 15,
+      "id": 28660,
+      "name": "Altitude Chronograph GMT",
+      "sku": "Not set",
+      "referenceNumber": "ALT42-CHR-G-SS-BK-B",
+      "dateCreated": "2025-06-15T12:26:15",
+      "categories": [
+        "Altitude",
+        "Bremont",
+        "Watch"
+      ],
+      "images": {
+        "count": 1,
+        "featured": {
+          "id": 28783,
+          "name": "Bremont at Palladio Jewellers in Vancouver &#8211; Official Bremont Retailer &#8211; Altitude Chronograph GMT",
+          "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_Altitude-Chronograph-GMT_ALT42-CHR-G-SS-BK-B.webp",
+          "alt": "Bremont Altitude Chronograph GMT at Palladio Jewellers"
+        },
+        "allImages": [
+          {
+            "id": 28783,
+            "name": "Bremont at Palladio Jewellers in Vancouver &#8211; Official Bremont Retailer &#8211; Altitude Chronograph GMT",
+            "alt": "Bremont Altitude Chronograph GMT at Palladio Jewellers"
+          }
+        ]
+      },
+      "description": {
+        "length": 3901,
+        "preview": "<p><strong>Bremont Altitude Chronograph GMT - Precision Meets Purpose</strong><br />\nThe Altitude Chronograph GMT represents the pinnacle of Bremont’s aviation heritage—a fusion of the proven durabili...",
+        "hasFunctions": true,
+        "hasMovement": true,
+        "hasCaseSpecs": true,
+        "hasDialSpecs": true,
+        "hasRefTag": true,
+        "fullDescription": "<p><strong>Bremont Altitude Chronograph GMT - Precision Meets Purpose</strong><br />\nThe Altitude Chronograph GMT represents the pinnacle of Bremont’s aviation heritage—a fusion of the proven durability of the MB series with the enhanced functionality of a chronograph and GMT complication. This is a professional-grade timepiece engineered for those who demand precision, resilience, and elegance in one exceptional tool.</p>\n<p>Encased in a 42mm Trip-Tick® case constructed from ultra-durable 904L stainless steel, with a black DLC-coated centre barrel, the Altitude Chronograph GMT is built to perform under extreme conditions. At its core beats the chronometer-rated BC781 automatic movement, delivering an impressive 62-hour power reserve along with a quick-set date, hacking seconds, and an independently adjustable GMT hand.</p>\n<p>Engineered for endurance, the movement is suspended within a flexible rubberised mount that absorbs shocks and minimises impact. An open case back showcases the beautifully finished movement in gunmetal grey with Geneva stripes, while maintaining anti-magnetic protection through an integrated soft iron Faraday cage.</p>\n<p>The cockpit-inspired dial is designed for clarity and function, featuring applied Super-LumiNova® numerals and markers, recessed chronograph subdials, and a red-tipped GMT hand that tracks a second time zone on a 24-hour day/night scale. A rotating propeller-style seconds subdial at 9 o’clock offers a subtle tribute to Bremont’s aeronautical roots.</p>\n<p>Completing the design is Bremont’s newly introduced brushed 904L stainless steel bracelet, engineered for flexibility and comfort. With quick-release curved bars, it offers seamless articulation and an effortless fit.</p>\n<p>The <strong>Altitude Chronograph GMT</strong>—where precision engineering meets elevated style.</p>\n<p><b>Functions</b></p>\n<p>Central GMT/Hour/Minute</p>\n<p>Chronograph centre sweep seconds hand</p>\n<p>Small seconds counter at 9 O'clock</p>\n<p>Chronograph small counters with 30 minutes counter at 12 O'clock and 12 Hour counter at 6 O'clock</p>\n<p>Date at 6 O'clock</p>\n<p><b>Movement</b></p>\n<p>Calibre: BC781AC movement</p>\n<p>No of Jewels: 25 Jewels</p>\n<p>Glucydur balance wheel</p>\n<p>Anachron balance spring</p>\n<p>Nivaflex mainspring</p>\n<p>Frequency: 28,800bph (4Hz)</p>\n<p>Power reserve: 62-hour</p>\n<p>Decorated Bremont rotor</p>\n<p><b>Case specifications</b></p>\n<p>Satin &amp; polished 904L stainless steel Trip-Tick case construction with Brushed Black DLC barrel</p>\n<p>Inner anti-magnetic movement protection ring</p>\n<p>Protective anti-shock movement mount</p>\n<p>Case Diameter: 42mm</p>\n<p>Case Length: 49.62mm</p>\n<p>Case Depth: 14.7mm</p>\n<p>Lug width: 22mm</p>\n<p>Case back: Decorated 904L stainless steel open case back</p>\n<p><b>Dial and Hands specifications</b></p>\n<p>Brushed Black Galvanic metal dial including: Numerals and Indexes filled with white Super-LumiNova® (Blue emission)</p>\n<p>Grey and Black Day and Night 24 hour dial ring</p>\n<p>Brushed sub-dial at 9 O'clock, 12 and 6 O'clock Sub-dials with fine CD Lines</p>\n<p>Gloss Black Hour and Minute hands, filled with white Super-LumiNova® (Blue emission)</p>\n<p>Gloss white chronograph sweeping seconds hand</p>\n<p>Red tipped GMT hand, filled with white Super-LumiNova® (Blue emission)</p>\n<p>Gloss White 12 and 6 O'clock sub dial hands</p>\n<p>Gloss black Propeller design Running Seconds hand at 9 O'clock with white Super-LumiNova® tips</p>\n<p><b>Crystal</b></p>\n<p>Class Box anti-reflective sapphire crystal</p>\n<p><b>Water Resistance</b></p>\n<p>10 ATM, 100 metres</p>\n<p><strong>Strap</strong></p>\n<p>Quick release 904L stainless steel bracelet</p>\n<p><b>Weight</b></p>\n<p>88.8g (watch head only)</p>\n<p><b>Rating &amp; Certification</b></p>\n<p>Chronometer rated to ISO 3159 standard</p>\n<p><span style=\"display: none\">Tags : Ref No: ALT42-CHR-G-SS-BK-B</span></p>\n"
+      },
+      "shortDescription": "Not set",
+      "permalink": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/altitude/altitude-chronograph-gmt/"
+    },
+    {
+      "index": 16,
+      "id": 28658,
+      "name": "Supermarine 300M Date, Blue Bracelet",
+      "sku": "Not set",
+      "referenceNumber": "SM40-ND-SS-BL-S",
+      "dateCreated": "2025-06-15T12:25:09",
+      "categories": [
+        "Bremont",
+        "Supermarine",
+        "Watch"
+      ],
+      "images": {
+        "count": 1,
+        "featured": {
+          "id": 28659,
+          "name": "Bremont_Supermarine-S300Blue-SM40-ND-SS-BL-S-1",
+          "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_Supermarine-S300Blue-SM40-ND-SS-BL-S-1.webp",
+          "alt": "Not set"
+        },
+        "allImages": [
+          {
+            "id": 28659,
+            "name": "Bremont_Supermarine-S300Blue-SM40-ND-SS-BL-S-1",
+            "alt": "Not set"
+          }
+        ]
+      },
+      "description": {
+        "length": 2582,
+        "preview": "<p>The Supermarine 300m Date in Blue with Bracelet brings refined elegance to professional dive watch functionality. Crafted from premium 904L stainless steel for superior corrosion resistance and dur...",
+        "hasFunctions": true,
+        "hasMovement": true,
+        "hasCaseSpecs": true,
+        "hasDialSpecs": true,
+        "hasRefTag": true,
+        "fullDescription": "<p>The Supermarine 300m Date in Blue with Bracelet brings refined elegance to professional dive watch functionality. Crafted from premium 904L stainless steel for superior corrosion resistance and durability, this striking timepiece features a captivating blue dial that evokes the depths of the ocean.</p>\n<p>The robust 40mm case incorporates a unidirectional rotating bezel with precision timing markings, essential for safe underwater navigation. The rich blue dial provides a sophisticated backdrop for the applied Super-LumiNova® indexes and polished hands, ensuring excellent readability in all lighting conditions while adding a touch of maritime elegance.</p>\n<p>At its core, a reliable automatic movement with a 50-hour power reserve drives the watch's functions with unwavering precision. The screw-down case construction delivers 300 meters of water resistance, while the engraved case back featuring a world ocean map celebrates the timepiece's nautical heritage.</p>\n<p>Completed with Bremont's precision-engineered 904L stainless steel bracelet featuring quick-release functionality and micro-adjustment capabilities, this watch offers the perfect blend of performance, comfort, and style for any adventure.</p>\n<p><b>Functions</b></p>\n<p>Central Hour/Minute/Second</p>\n<p>Date at 3 O'clock</p>\n<p>Unidirectional rotating bezel</p>\n<p><b>Movement</b></p>\n<p>Calibre: Modified Calibre 11 1/2''' BE-92AV</p>\n<p>No of Jewels: 25 Jewels</p>\n<p>Glucydur balance wheel</p>\n<p>Anachron balance spring</p>\n<p>Nivaflex mainspring</p>\n<p>Frequency: 28,800bph (4Hz)</p>\n<p>Power reserve: 50-hour</p>\n<p><b>Case specifications</b></p>\n<p>Case construction made from 904L stainless steel</p>\n<p>Knurled edged uni-directional dive bezel with blue aluminium insert</p>\n<p>Screw-in crown</p>\n<p>Case Diameter: 40mm</p>\n<p>Case Length: 49mm</p>\n<p>Case Depth: 12mm</p>\n<p>Lug Width: 20mm</p>\n<p>Case back: Stainless steel screw-in and decorated closed case back</p>\n<p><b>Dial and Hands specifications</b></p>\n<p>Blue dial with applied indexes infilled with white Super-LumiNova® (Blue emission)</p>\n<p>Blue dial ring with printed minutes track</p>\n<p>Polished rhodium-plated hour, minute and second hands infilled with white Super-LumiNova® (Blue emission)</p>\n<p><b>Crystal</b></p>\n<p>Domed anti-reflective, scratch resistant sapphire crystal</p>\n<p><b>Water Resistance</b></p>\n<p>30 ATM, 300 metres</p>\n<p><strong>Strap</strong></p>\n<p>Quick release stainless steel bracelet with micro adjustment feature</p>\n<p><span style=\"display: none\">Tags : Ref No: SM40-DT-SS-BL-B</span></p>\n"
+      },
+      "shortDescription": "Not set",
+      "permalink": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/supermarine/supermarine-300m-date-blue-bracelet/"
+    },
+    {
+      "index": 17,
+      "id": 28656,
+      "name": "Supermarine 300M Date, Black Dial, Rubber Strap",
+      "sku": "Not set",
+      "referenceNumber": "SM40-DT-SS-BK-R",
+      "dateCreated": "2025-06-15T12:24:09",
+      "categories": [
+        "Bremont",
+        "Supermarine",
+        "Watch"
+      ],
+      "images": {
+        "count": 1,
+        "featured": {
+          "id": 28782,
+          "name": "Bremont SM40-DT-SS-BK-R-S",
+          "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_Supermarine-S300Date-SM40-DT-SS-BK-R-S-1.webp",
+          "alt": "Bremont SM40-DT-SS-BK-R-S"
+        },
+        "allImages": [
+          {
+            "id": 28782,
+            "name": "Bremont SM40-DT-SS-BK-R-S",
+            "alt": "Bremont SM40-DT-SS-BK-R-S"
+          }
+        ]
+      },
+      "description": {
+        "length": 3196,
+        "preview": "<p><strong>Bremont Supermarine 300m &amp; 300m Date – A Reimagined Dive Watch Icon</strong><br />\nThe latest generation of the Supermarine 300m and 300m Date has been completely re-engineered, featuri...",
+        "hasFunctions": true,
+        "hasMovement": true,
+        "hasCaseSpecs": true,
+        "hasDialSpecs": true,
+        "hasRefTag": true,
+        "fullDescription": "<p><strong>Bremont Supermarine 300m &amp; 300m Date – A Reimagined Dive Watch Icon</strong><br />\nThe latest generation of the Supermarine 300m and 300m Date has been completely re-engineered, featuring a sleeker, slimmer profile crafted from premium 904L stainless steel—offering the perfect blend of strength, durability, and comfort.</p>\n<p>With a newly designed symmetrical case silhouette, both crown and bezel guards are integrated to enhance practical functionality while safeguarding against accidental impacts or adjustments. This thoughtful redesign delivers improved ergonomics and resilience, ideal for both aquatic performance and everyday wear.</p>\n<p>A bold gradient dial lies beneath an anodised aluminium knurled-edge bezel, with trapezoid indexes that seamlessly extend onto the dial, forming a naval-inspired crosshair motif that draws focus to the centre. Applied indexes and Super-LumiNova® ensure outstanding legibility in low light conditions, further elevating the watch’s utilitarian design.</p>\n<p>Bremont introduces a fully re-engineered 904L stainless steel bracelet for this series, featuring infinity-shaped links with alternating polished and satin finishes. The flowing, ergonomic design offers a luxurious fit for all wrist sizes. Alternatively, the Supermarine 300m can be paired with a military-inspired chevron performance rubber strap or a vintage brown leather strap with refined topstitching for added versatility.</p>\n<p>Finishing the case is an intricately engraved case back depicting a map of the world’s oceans—a tribute to Bremont’s deep-rooted connection to exploration and the sea.</p>\n<p>The <strong>Supermarine 300m</strong> is a robust, stylish, and highly capable companion—engineered for those who demand performance and elegance in equal measure.</p>\n<p><b>Functions</b></p>\n<p>Central Hour/Minute/Second</p>\n<p>Date at 3 O'clock</p>\n<p>Unidirectional rotating bezel</p>\n<p><b>Movement</b></p>\n<p>Calibre: Modified Calibre 11 1/2’’’ BE-92AV</p>\n<p>No of Jewels: 25 Jewels</p>\n<p>Glucydur balance wheel</p>\n<p>Anachron balance spring</p>\n<p>Nivaflex mainspring</p>\n<p>Frequency: 28,800bph (4Hz)</p>\n<p>Power reserve: 50-hour</p>\n<p><b>Case specifications</b></p>\n<p>Case construction made from 904L stainless steel</p>\n<p>Black Aluminium uni-directional dive bezel</p>\n<p>Screw-in crown</p>\n<p>Case Diameter: 40mm</p>\n<p>Case Length: 49mm</p>\n<p>Case Depth: 12mm</p>\n<p>Lug Width: 20mm</p>\n<p>Case back: Stainless steel screw-in and decorated closed case back</p>\n<p><b>Dial and Hands specifications</b></p>\n<p>Black gradient dial with applied indexes infilled with white Super-LumiNova® (Blue emission)</p>\n<p>Black dial ring with printed minutes track</p>\n<p>Polished nickel-plated hour, minute and second hands infilled with white Super-LumiNova® (Blue emission)</p>\n<p><b>Crystal</b></p>\n<p>Domed anti-reflective, scratch resistant sapphire crystal</p>\n<p><b>Water Resistance</b></p>\n<p>30 ATM, 300 metres</p>\n<p><strong>Strap</strong></p>\n<p>Quick release Black rubber strap with chevron detail and pin buckle</p>\n<p><b>Weight</b></p>\n<p>75g (watch head only)</p>\n<p><span style=\"display: none\">Tags : Ref No: SM40-DT-SS-BK-R-S</span></p>\n"
+      },
+      "shortDescription": "Not set",
+      "permalink": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/supermarine/supermarine-300m-date-black-rubber-strap/"
+    },
+    {
+      "index": 18,
+      "id": 28654,
+      "name": "Supermarine 300M Date, Black Dial, Bracelet",
+      "sku": "Not set",
+      "referenceNumber": "SM40-DT-SS-BK-B",
+      "dateCreated": "2025-06-15T12:23:20",
+      "categories": [
+        "Bremont",
+        "Supermarine",
+        "Watch"
+      ],
+      "images": {
+        "count": 1,
+        "featured": {
+          "id": 28781,
+          "name": "Bremont SM40-DT-SS-BK-B",
+          "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_Supermarine-S300Date_SM40-DT-SS-BK-B-1.webp",
+          "alt": "Bremont SM40-DT-SS-BK-B"
+        },
+        "allImages": [
+          {
+            "id": 28781,
+            "name": "Bremont SM40-DT-SS-BK-B",
+            "alt": "Bremont SM40-DT-SS-BK-B"
+          }
+        ]
+      },
+      "description": {
+        "length": 3178,
+        "preview": "<p><strong>Bremont Supermarine 300m &amp; 300m Date – Redefined Elegance Meets Technical Precision</strong><br />\nThe newly reimagined Supermarine 300m and 300m Date models mark a bold evolution in Br...",
+        "hasFunctions": true,
+        "hasMovement": true,
+        "hasCaseSpecs": true,
+        "hasDialSpecs": true,
+        "hasRefTag": true,
+        "fullDescription": "<p><strong>Bremont Supermarine 300m &amp; 300m Date – Redefined Elegance Meets Technical Precision</strong><br />\nThe newly reimagined Supermarine 300m and 300m Date models mark a bold evolution in Bremont’s iconic dive watch series. Now featuring a sleeker, slimmer case profile crafted from high-performance 904L stainless steel, these timepieces offer enhanced comfort without compromising on durability or strength.</p>\n<p>The refined symmetrical case design incorporates integrated crown and bezel guards, ensuring both functional ease and added protection. These features safeguard against accidental impacts and maintain precise timing—ideal for professional or everyday wear.</p>\n<p>At the centre of the design is a striking gradient dial, enhanced by an anodised aluminium knurled bezel with trapezoid indexes that extend seamlessly into a naval-inspired crosshair motif. The dial’s bold layout, paired with applied indexes and Super-LumiNova®, ensures exceptional visibility, even in the most challenging lighting conditions.</p>\n<p>A completely redesigned 904L steel bracelet offers a luxurious wearing experience with fluid, ergonomic movement. Its infinity-shaped links, alternating between polished and satin finishes, conform comfortably to all wrist sizes. For added versatility, the watch is also available with a chevron-style performance rubber strap, inspired by military design, or a vintage brown leather strap with classic topstitching.</p>\n<p>The engraved case back, featuring a map of the world’s oceans, is a subtle reminder of the Supermarine’s expedition-ready spirit—where technical excellence meets timeless aesthetics.</p>\n<p>Built for the modern explorer, the <strong>Supermarine 300m</strong> is a masterclass in form, function, and enduring design.</p>\n<p><b>Functions</b></p>\n<p>Central Hour/Minute/Second</p>\n<p>Date at 3 O'clock</p>\n<p>Unidirectional rotating bezel</p>\n<p><b>Movement</b></p>\n<p>Calibre: Modified Calibre 11 1/2’’’ BE-92AV</p>\n<p>No of Jewels: 25 Jewels</p>\n<p>Glucydur balance wheel</p>\n<p>Anachron balance spring</p>\n<p>Nivaflex mainspring</p>\n<p>Frequency: 28,800bph (4Hz)</p>\n<p>Power reserve: 50-hour</p>\n<p><b>Case specifications</b></p>\n<p>Case construction made from 904L stainless steel</p>\n<p>Black Aluminium uni-directional dive bezel</p>\n<p>Screw-in crown</p>\n<p>Case Diameter: 40mm</p>\n<p>Case Length: 49mm</p>\n<p>Case Depth: 12mm</p>\n<p>Lug Width: 20mm</p>\n<p>Case back: Stainless steel screw-in and decorated closed case back</p>\n<p><b>Dial and Hands specifications</b></p>\n<p>Black gradient dial with applied indexes infilled with white Super-LumiNova® (Blue emission)</p>\n<p>Black dial ring with printed minutes track</p>\n<p>Polished nickel-plated hour, minute and second hands infilled with white Super-LumiNova® (Blue emission)</p>\n<p><b>Crystal</b></p>\n<p>Domed anti-reflective, scratch resistant sapphire crystal</p>\n<p><b>Water Resistance</b></p>\n<p>30 ATM, 300 metres</p>\n<p><strong>Strap</strong></p>\n<p>Quick release stainless steel bracelet with micro adjustment feature</p>\n<p><b>Weight</b></p>\n<p>78g (watch head only)</p>\n<p><span style=\"display: none\">Tags : Ref No: SM40-DT-SS-BK-B</span></p>\n"
+      },
+      "shortDescription": "Not set",
+      "permalink": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/supermarine/supermarine-300m-date-black-bracelet/"
+    },
+    {
+      "index": 19,
+      "id": 28652,
+      "name": "Supermarine 300M Date, Bi-Colour, Leather Strap",
+      "sku": "Not set",
+      "referenceNumber": "SM40-ND-SS-BL-S",
+      "dateCreated": "2025-06-15T12:22:09",
+      "categories": [
+        "Bremont",
+        "Supermarine",
+        "Watch"
+      ],
+      "images": {
+        "count": 1,
+        "featured": {
+          "id": 28653,
+          "name": "Bremont_Supermarine-S300Blue-SM40-ND-SS-BL-S",
+          "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_Supermarine-S300Blue-SM40-ND-SS-BL-S.webp",
+          "alt": "Not set"
+        },
+        "allImages": [
+          {
+            "id": 28653,
+            "name": "Bremont_Supermarine-S300Blue-SM40-ND-SS-BL-S",
+            "alt": "Not set"
+          }
+        ]
+      },
+      "description": {
+        "length": 2564,
+        "preview": "<p>The Supermarine 300m Date Bi-Colour with Leather Strap combines rugged functionality with refined luxury. This striking timepiece pairs 904L stainless steel—known for exceptional corrosion resistan...",
+        "hasFunctions": true,
+        "hasMovement": true,
+        "hasCaseSpecs": true,
+        "hasDialSpecs": true,
+        "hasRefTag": true,
+        "fullDescription": "<p>The Supermarine 300m Date Bi-Colour with Leather Strap combines rugged functionality with refined luxury. This striking timepiece pairs 904L stainless steel—known for exceptional corrosion resistance and lustrous finish—with elegant 18ct rose gold accents, creating a sophisticated dive watch that transitions seamlessly from water to wrist.</p>\n<p>The sleek case profile houses a rose gold-capped, knurled-edge bezel featuring a rich brown aluminum insert with trapezoid indexes. This maritime-inspired design continues on the brown gradient dial, where a subtle crosshair pattern draws focus to the center. Applied indexes and Super-LumiNova®-filled hands ensure exceptional readability in all lighting conditions.</p>\n<p>A rose gold-capped screw-down crown adds the perfect finishing touch, while the engraved case back—adorned with a detailed map of the world's oceans—celebrates the watch's adventurous spirit and deep maritime heritage.</p>\n<p>For versatile styling, this model comes with a premium brown leather strap featuring cream contrast stitching, offering a warm, sophisticated appearance that complements both casual and formal settings.</p>\n<p><b>Functions</b></p>\n<p>Central Hour/Minute/Second</p>\n<p>Date at 3 O'clock</p>\n<p>Unidirectional rotating bezel</p>\n<p><b>Movement</b></p>\n<p>Calibre: Modified Calibre 11 1/2''' BE-92AV</p>\n<p>No of Jewels: 25 Jewels</p>\n<p>Glucydur balance wheel</p>\n<p>Anachron balance spring</p>\n<p>Nivaflex mainspring</p>\n<p>Frequency: 28,800bph (4Hz)</p>\n<p>Power reserve: 50-hour</p>\n<p><b>Case specifications</b></p>\n<p>Case construction made from 904L stainless steel and rose gold</p>\n<p>18ct rose gold capped knurled edged uni-directional dive bezel with brown aluminium insert</p>\n<p>18ct rose gold capped screw-in crown</p>\n<p>Case Diameter: 40mm</p>\n<p>Case Length: 49mm</p>\n<p>Case Depth: 12mm</p>\n<p>Lug Width: 20mm</p>\n<p>Case back: Stainless steel screw-in and decorated closed case back</p>\n<p><b>Dial and Hands specifications</b></p>\n<p>Brown gradient dial with applied indexes infilled with white Super-LumiNova® (Blue emission)</p>\n<p>Brown dial ring with printed minutes track</p>\n<p>Rose gold coloured hour, minute and second hands infilled with light brown Super-LumiNova® (Blue emission)</p>\n<p><b>Crystal</b></p>\n<p>Domed anti-reflective, scratch resistant sapphire crystal</p>\n<p><b>Water Resistance</b></p>\n<p>30 ATM, 300 metres</p>\n<p><strong>Strap</strong></p>\n<p>Brown leather strap with cream side stitching</p>\n<p><span style=\"display: none\">Tags : Ref No: SM40-DT-BI-BR-S</span></p>\n"
+      },
+      "shortDescription": "Not set",
+      "permalink": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/supermarine/supermarine-300m-date-bi-colour-leather-strap/"
+    },
+    {
+      "index": 20,
+      "id": 28650,
+      "name": "Supermarine 500m, Black Rubber Strap",
+      "sku": "Not set",
+      "referenceNumber": "SM43-DT-SS-BK-R",
+      "dateCreated": "2025-06-15T12:09:55",
+      "categories": [
+        "Bremont",
+        "Supermarine",
+        "Watch"
+      ],
+      "images": {
+        "count": 1,
+        "featured": {
+          "id": 28780,
+          "name": "Bremont SM43-DT-SS-BK-R-S",
+          "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_Supermarine_SM43-DT-SS-BK-R-S-1.webp",
+          "alt": "Bremont SM43-DT-SS-BK-R-S"
+        },
+        "allImages": [
+          {
+            "id": 28780,
+            "name": "Bremont SM43-DT-SS-BK-R-S",
+            "alt": "Bremont SM43-DT-SS-BK-R-S"
+          }
+        ]
+      },
+      "description": {
+        "length": 3093,
+        "preview": "<p><strong>Bremont Supermarine 500M – Automatic | 43mm | 904L Stainless Steel</strong><br />\nThe Bremont Supermarine 500M represents the next generation of the brand’s acclaimed dive watch collection....",
+        "hasFunctions": true,
+        "hasMovement": true,
+        "hasCaseSpecs": true,
+        "hasDialSpecs": true,
+        "hasRefTag": true,
+        "fullDescription": "<p><strong>Bremont Supermarine 500M – Automatic | 43mm | 904L Stainless Steel</strong><br />\nThe Bremont Supermarine 500M represents the next generation of the brand’s acclaimed dive watch collection. Now crafted in a 43mm case of premium 904L stainless steel, this high-performance timepiece combines enhanced ergonomics with exceptional strength and corrosion resistance—ideal for professional-grade diving and everyday wear alike.</p>\n<p>Built for the extremes, the Supermarine 500M is equipped with a 500-metre water resistance, a helium escape valve, and a robust black ceramic uni-directional bezel designed with improved grip and durability. Newly reimagined, the case features a slimmer profile and reinforced crown and bezel guards, delivering comfort without compromise.</p>\n<p>A standout wave-pattern dial, inspired by the motion of the ocean, offers striking visual texture and depth. Super-LumiNova® coated indexes and bold sword hands ensure superior legibility in all lighting conditions, protected beneath a domed sapphire crystal for optimal clarity.</p>\n<p>Inside, the watch is powered by Bremont’s reliable automatic BB64 movement, offering a 56-hour power reserve and unwavering accuracy under pressure.</p>\n<p>Available with Bremont’s advanced quick-release Supermarine bracelet—featuring polished-satin infinity links and a precision micro-adjustment system—or paired with a rugged rubber or NATO strap, the <strong>Supermarine 500M</strong> is a versatile, refined tool watch made for life above and below the waves.</p>\n<p><b>Functions</b></p>\n<p>Central Hour/Minute/Second</p>\n<p>Date at 3 O'clock</p>\n<p>Unidirectional rotating bezel</p>\n<p><b>Movement</b></p>\n<p>BB64AH movement</p>\n<p>No of Jewels: 25 Jewels</p>\n<p>Glucydur balance wheel</p>\n<p>Anachron balance spring</p>\n<p>Nivaflex mainspring</p>\n<p>Frequency: 28,800bph (4Hz)</p>\n<p>Power reserve: 56-hour</p>\n<p><b>Case specifications</b></p>\n<p>904L stainless steel case construction, black ceramic bezel insert inside a knurled detail 904L stainless steel bezel, automatic helium escape valve and crown protector. Screw down crown</p>\n<p>Case Diameter: 43mm</p>\n<p>Case Length: 50mm</p>\n<p>Case Depth:13mm</p>\n<p>Lug Width: 22mm</p>\n<p>Case back: Stainless steel screw-in and decorated closed case back</p>\n<p><b>Dial and Hands specifications</b></p>\n<p>Black 3D wave pattern dial with applied indexes infilled with white Super-LumiNova® (Blue emission)</p>\n<p>Black dial ring with printed minutes track</p>\n<p>Polished nickel plated hour, minute and second hands filled with white Super-LumiNova® (Blue emission)</p>\n<p><b>Crystal</b></p>\n<p>Domed anti-reflective, scratch resistant sapphire crystal</p>\n<p><b>Water Resistance</b></p>\n<p>50 ATM, 500 metres</p>\n<p><strong>Strap</strong></p>\n<p>Quick-release black rubber strap</p>\n<p><span style=\"display: none\">Tags : Ref No: SM43-DT-SS-BK-R-S</span></p>\n<p>IGNORE_WHEN_COPYING_START<br />\ncontent_copy download<br />\nUse code with caution. Html<br />\nIGNORE_WHEN_COPYING_END</p>\n<p><span style=\"display: none\">Tags : Ref No: SM43-DT-SS-BK-R-S</span></p>\n"
+      },
+      "shortDescription": "Not set",
+      "permalink": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/supermarine/supermarine-500m-black-rubber-strap/"
+    },
+    {
+      "index": 21,
+      "id": 28648,
+      "name": "Supermarine 500m",
+      "sku": "Not set",
+      "referenceNumber": "SM43-DT-SS-BK-B",
+      "dateCreated": "2025-06-15T12:08:52",
+      "categories": [
+        "Bremont",
+        "Supermarine",
+        "Watch"
+      ],
+      "images": {
+        "count": 1,
+        "featured": {
+          "id": 28779,
+          "name": "Bremont SM43-DT-SS-BK-B",
+          "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_Supermarine_SM43-DT-SS-BK-B-1.webp",
+          "alt": "Bremont SM43-DT-SS-BK-B"
+        },
+        "allImages": [
+          {
+            "id": 28779,
+            "name": "Bremont SM43-DT-SS-BK-B",
+            "alt": "Bremont SM43-DT-SS-BK-B"
+          }
+        ]
+      },
+      "description": {
+        "length": 3027,
+        "preview": "<p><strong>Bremont Supermarine 500M – Automatic, 43mm, 904L Stainless Steel</strong><br />\nThe Bremont Supermarine 500M redefines professional dive watch performance with refined engineering and bold ...",
+        "hasFunctions": true,
+        "hasMovement": true,
+        "hasCaseSpecs": true,
+        "hasDialSpecs": true,
+        "hasRefTag": true,
+        "fullDescription": "<p><strong>Bremont Supermarine 500M – Automatic, 43mm, 904L Stainless Steel</strong><br />\nThe Bremont Supermarine 500M redefines professional dive watch performance with refined engineering and bold design. Crafted from premium 904L stainless steel, the 43mm case offers superior corrosion resistance and durability, now in a sleeker, more ergonomic profile with reinforced crown and bezel guards for enhanced protection in the harshest environments.</p>\n<p>Engineered for the deep, this dive watch boasts an impressive 500-metre water resistance, a helium escape valve, and a rugged black ceramic uni-directional bezel with textured detailing for optimal grip. At the heart of the watch lies the automatic BB64 movement, delivering a robust 56-hour power reserve and reliable precision under pressure.</p>\n<p>The dial features a striking wave-pattern motif, echoing the dynamic energy of the ocean’s surface. Applied Super-LumiNova® indexes and bold sword hands ensure clarity in low-light conditions, while a domed sapphire crystal enhances visibility and lends a refined touch.</p>\n<p>Offered on Bremont’s innovative quick-release Supermarine bracelet, featuring polished-satin infinity links and a micro-adjustment clasp for a perfect fit, or choose a high-performance rubber or NATO strap for versatile styling.</p>\n<p>Rugged yet sophisticated, the <strong>Supermarine 500M</strong> is built for those who venture further—on land, at sea, or beneath the waves.</p>\n<p><b>Functions</b></p>\n<p>Central Hour/Minute/Second</p>\n<p>Date at 3 O'clock</p>\n<p>Unidirectional rotating bezel</p>\n<p><b>Movement</b></p>\n<p>BB64AH movement</p>\n<p>No of Jewels: 25 Jewels</p>\n<p>Glucydur balance wheel</p>\n<p>Anachron balance spring</p>\n<p>Nivaflex mainspring</p>\n<p>Frequency: 28,800bph (4Hz)</p>\n<p>Power reserve: 56-hour</p>\n<p><b>Case specifications</b></p>\n<p>904L stainless steel case construction, black ceramic bezel insert inside a knurled detail 904L stainless steel bezel, automatic helium escape valve and crown protector. Screw down crown</p>\n<p>Case Diameter: 43mm</p>\n<p>Case Length: 50mm</p>\n<p>Case Depth:13mm</p>\n<p>Lug Width: 22mm</p>\n<p>Case back: Stainless steel screw-in and decorated closed case back</p>\n<p><b>Dial and Hands specifications</b></p>\n<p>Black 3D wave pattern dial with applied indexes infilled with white Super-LumiNova® (Blue emission)</p>\n<p>Black dial ring with printed minutes track</p>\n<p>Polished nickel plated hour, minute and second hands filled with white Super-LumiNova® (Blue emission)</p>\n<p><b>Crystal</b></p>\n<p>Domed anti-reflective, scratch resistant sapphire crystal</p>\n<p><b>Water Resistance</b></p>\n<p>50 ATM, 500 metres</p>\n<p><strong>Strap</strong></p>\n<p>Quick-release 904L stainless steel bracelet</p>\n<p><span style=\"display: none\">Tags : Ref No: SM43-DT-SS-BK-B</span></p>\n<p>IGNORE_WHEN_COPYING_START<br />\ncontent_copy download<br />\nUse code with caution. Html<br />\nIGNORE_WHEN_COPYING_END</p>\n<p><span style=\"display: none\">Tags : Ref No: SM43-DT-SS-BK-B</span></p>\n"
+      },
+      "shortDescription": "Not set",
+      "permalink": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/supermarine/supermarine-500m/"
+    },
+    {
+      "index": 22,
+      "id": 28646,
+      "name": "Supermarine Full Ceramic Tactical Black, NATO Strap",
+      "sku": "Not set",
+      "referenceNumber": "SM43-DT-BKCER-BK-N",
+      "dateCreated": "2025-06-15T12:07:21",
+      "categories": [
+        "Bremont",
+        "Supermarine",
+        "Watch"
+      ],
+      "images": {
+        "count": 1,
+        "featured": {
+          "id": 28778,
+          "name": "Bremont SM43-DT-BKCER-BK-N-S",
+          "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_Supermarine_SM43-DT-BKCER-BK-N-S-1.webp",
+          "alt": "Bremont SM43-DT-BKCER-BK-N-S"
+        },
+        "allImages": [
+          {
+            "id": 28778,
+            "name": "Bremont SM43-DT-BKCER-BK-N-S",
+            "alt": "Bremont SM43-DT-BKCER-BK-N-S"
+          }
+        ]
+      },
+      "description": {
+        "length": 3454,
+        "preview": "<p><strong>Bremont Supermarine Full Ceramic Tactical Black – 500M</strong><br />\nIntroducing the next evolution in Bremont’s dive watch legacy: the Supermarine Full Ceramic Tactical Black. Purpose-bui...",
+        "hasFunctions": true,
+        "hasMovement": true,
+        "hasCaseSpecs": true,
+        "hasDialSpecs": true,
+        "hasRefTag": true,
+        "fullDescription": "<p><strong>Bremont Supermarine Full Ceramic Tactical Black – 500M</strong><br />\nIntroducing the next evolution in Bremont’s dive watch legacy: the Supermarine Full Ceramic Tactical Black. Purpose-built for extreme performance and tested by Bremont ambassador and former Royal Marine Aldo Kane, this high-performance timepiece is engineered to thrive in the world’s most demanding environments.</p>\n<p>Encased in a mono-block black ceramic case—a first for Bremont—this striking 500m diver combines technical excellence with cutting-edge materials. The ceramic is meticulously crafted: soft ceramic powder is shaped, then sintered at 1,450°C under high pressure, shrinking the case by 23% to achieve ultimate hardness and a flawless matte sandblasted finish. The result is an incredibly scratch-resistant and robust watch case, ideal for land, sea, or beyond.</p>\n<p>The design features a PVD-treated titanium uni-directional knurled bezel with a black ceramic insert, complemented by a titanium movement container and PVD titanium case back. Inside, a chronometer-rated automatic movement delivers a 50-hour power reserve, protected and precise under pressure. With 500m water resistance and a helium escape valve, this timepiece is built to dive deep while maintaining its impeccable performance.</p>\n<p>For low-light readability, the applied indexes and hands are filled with blue-emission Super-LumiNova®, offering outstanding visibility and a touch of luminescent brilliance.</p>\n<p>Completing the watch is a black and grey woven fabric NATO-style strap, expertly woven on 18th-century Jacquard French looms. Its self-gripping fastening provides a secure and comfortable fit, ready for any adventure.</p>\n<p>The <strong>Bremont Supermarine Full Ceramic Tactical Black</strong> is where elite engineering meets modern style—crafted for those who demand reliability, resilience, and refinement in every moment.</p>\n<p><b>Functions</b></p>\n<p>Central Hour/Minute/Second</p>\n<p>Date at 3 O'clock</p>\n<p>Unidirectional rotating bezel</p>\n<p><b>Movement</b></p>\n<p>Calibre: Modified Calibre 11 1/2’’’ BE-92AV</p>\n<p>No of Jewels: 25 Jewels</p>\n<p>Glucydur balance wheel</p>\n<p>Anachron balance spring</p>\n<p>Nivaflex mainspring</p>\n<p>Frequency: 28,800bph (4Hz)</p>\n<p>Power reserve: 50-hour</p>\n<p><b>Case specifications</b></p>\n<p>Black ceramic and titanium case construction, black ceramic bezel insert inside a knurled detail PVD treated titanium bezel, automatic helium escape valve and crown protector</p>\n<p>Screw down PVD treated titanium crown</p>\n<p>Case Diameter: 43mm</p>\n<p>Case Length: 50mm</p>\n<p>Case Depth:13mm</p>\n<p>Lug Width: 22mm</p>\n<p>Case back: PVD black titanium screw-in and decorated closed case back</p>\n<p><b>Dial and Hands specifications</b></p>\n<p>Black gradient dial with applied indexes infilled with white Super-LumiNova® (Blue emission)</p>\n<p>Black dial ring with printed minutes track</p>\n<p>Polished black gold hour, minute and second hands filled with white Super-LumiNova® (Blue emission)</p>\n<p>Date window at 3-hour position</p>\n<p><b>Crystal</b></p>\n<p>Domed anti-reflective, scratch resistant sapphire crystal</p>\n<p><b>Water Resistance</b></p>\n<p>50 ATM, 500 metres</p>\n<p><strong>Strap</strong></p>\n<p>Black and grey woven fabric NATO strap with self-gripping fastening system</p>\n<p><b>Weight</b></p>\n<p>74g (watch head only)</p>\n<p><span style=\"display: none\">Tags : Ref No: SM43-DT-BKCER-BK-N-S</span></p>\n"
+      },
+      "shortDescription": "Not set",
+      "permalink": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/supermarine/supermarine-full-ceramic-tactical-black-nato-strap/"
+    },
+    {
+      "index": 23,
+      "id": 28644,
+      "name": "Terra Nova 38 'Pink'",
+      "sku": "Not set",
+      "referenceNumber": "TN38-ND-SS-PK-B",
+      "dateCreated": "2025-06-15T12:06:25",
+      "categories": [
+        "Bremont",
+        "Terra Nova",
+        "Watch"
+      ],
+      "images": {
+        "count": 1,
+        "featured": {
+          "id": 28777,
+          "name": "Bremont TN38-ND-SS-PK-B",
+          "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_TerraNova_38_Pink_TN38-ND-SS-PK-B-1.webp",
+          "alt": "Bremont TN38-ND-SS-PK-B"
+        },
+        "allImages": [
+          {
+            "id": 28777,
+            "name": "Bremont TN38-ND-SS-PK-B",
+            "alt": "Bremont TN38-ND-SS-PK-B"
+          }
+        ]
+      },
+      "description": {
+        "length": 2452,
+        "preview": "<p><strong>Bremont Terra Nova 38 ‘Pink’ – Limited Edition of 250 Pieces</strong><br />\nA bold new expression of Bremont’s rugged elegance, the limited edition Terra Nova 38 ‘Pink’ introduces a refresh...",
+        "hasFunctions": true,
+        "hasMovement": true,
+        "hasCaseSpecs": true,
+        "hasDialSpecs": true,
+        "hasRefTag": true,
+        "fullDescription": "<p><strong>Bremont Terra Nova 38 ‘Pink’ – Limited Edition of 250 Pieces</strong><br />\nA bold new expression of Bremont’s rugged elegance, the limited edition Terra Nova 38 ‘Pink’ introduces a refreshing pink dial housed in a compact, meticulously crafted 38mm 904L stainless steel cushion case. Designed for modern versatility, this exclusive model is limited to just 250 pieces worldwide.</p>\n<p>The slim profile and tapered lugs ensure a sleek and comfortable fit on the wrist, while the brushed and polished finish of the 904L steel case delivers exceptional durability and corrosion resistance—built to withstand daily wear and adventurous pursuits alike.</p>\n<p>The eye-catching pink dial is balanced by oversized full-block Super-LumiNova® numerals and polished hands, ensuring exceptional clarity in all lighting conditions. A closed case back, engraved with a charted world map and the signature ‘Terra Nova’ inscription, completes the watch’s heritage-driven design.</p>\n<p>Paired with a 904L stainless steel quick-release bracelet, this model offers effortless strap changes and secure, all-day wear.</p>\n<p>Distinctive, daring, and enduring—the <strong>Terra Nova 38 ‘Pink’</strong> is a rare fusion of vibrant style and practical field-watch functionality.</p>\n<p><b>Functions</b></p>\n<p>Central hour/minute</p>\n<p><b>Movement</b></p>\n<p>Calibre: Modified Calibre 11 1/2’’’ BE-36AE</p>\n<p>No of Jewels: 26 Jewels</p>\n<p>Glucydur balance wheel</p>\n<p>Anachron balance spring</p>\n<p>Nivaflex mainspring</p>\n<p>Frequency: 28,800bph (4Hz)</p>\n<p>Power reserve: 38-hour</p>\n<p><b>Case specifications</b></p>\n<p>Satin and polished two-piece stainless steel case</p>\n<p>Push-in crown</p>\n<p>Case Diameter: 38mm</p>\n<p>Case Length: 44mm</p>\n<p>Case Depth: 10.07mm</p>\n<p>Lug width: 22mm</p>\n<p>Case back: Decorated stainless steel case back</p>\n<p><b>Dial and Hands specifications</b></p>\n<p>Pink metal dial with 3D white Super-LumiNova® (Green emission) blocks</p>\n<p>Polished Rhodium hands with white Super-LumiNova® (Green emission)</p>\n<p><b>Crystal</b></p>\n<p>Domed anti-reflective, scratch resistant sapphire crystal</p>\n<p><b>Water Resistance</b></p>\n<p>10 ATM, 100 metres</p>\n<p><strong>Strap</strong></p>\n<p>904L stainless steel quick release bracelet</p>\n<p><b>Weight</b></p>\n<p>62g (watch head only)</p>\n<p><b>Limited Edition</b></p>\n<p>Limited to 250 pieces</p>\n<p><span style=\"display: none\">Tags : Ref No: TN38-ND-SS-PK-B</span></p>\n"
+      },
+      "shortDescription": "Not set",
+      "permalink": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/terra-nova/terra-nova-38-pink/"
+    },
+    {
+      "index": 24,
+      "id": 28642,
+      "name": "Terra Nova 40.5 Date, Green Dial",
+      "sku": "Not set",
+      "referenceNumber": "TN40-DT-SS-GN-L",
+      "dateCreated": "2025-06-15T12:02:42",
+      "categories": [
+        "Bremont",
+        "Terra Nova",
+        "Watch"
+      ],
+      "images": {
+        "count": 1,
+        "featured": {
+          "id": 28776,
+          "name": "Bremont TN40-DT-SS-GN-L-S",
+          "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_TerraNova_TN40-DT-SS-GN-L-S-2.webp",
+          "alt": "Bremont TN40-DT-SS-GN-L-S"
+        },
+        "allImages": [
+          {
+            "id": 28776,
+            "name": "Bremont TN40-DT-SS-GN-L-S",
+            "alt": "Bremont TN40-DT-SS-GN-L-S"
+          }
+        ]
+      },
+      "description": {
+        "length": 2590,
+        "preview": "<p><strong>Bremont Terra Nova Date – 40.5mm, 904L Stainless Steel on Brown Leather</strong><br />\nThe Bremont Terra Nova Date in 40.5mm is a refined field watch that seamlessly blends vintage military...",
+        "hasFunctions": true,
+        "hasMovement": true,
+        "hasCaseSpecs": true,
+        "hasDialSpecs": true,
+        "hasRefTag": true,
+        "fullDescription": "<p><strong>Bremont Terra Nova Date – 40.5mm, 904L Stainless Steel on Brown Leather</strong><br />\nThe Bremont Terra Nova Date in 40.5mm is a refined field watch that seamlessly blends vintage military inspiration with modern British craftsmanship. Featuring a distinctive geometric cushion case crafted from high-grade 904L stainless steel, this watch is designed with a low profile and shortened lugs to ensure a balanced, comfortable fit on the wrist.</p>\n<p>Inspired by early 20th-century military pocket watches, the Terra Nova captures a timeless spirit of adventure with its clean lines, purposeful design, and practical functionality—reimagined for the modern era.</p>\n<p>The dial is designed for maximum legibility, with oversized numerals crafted in full-block Super-LumiNova®, complemented by a broken railroad minute track and vintage-style hands. A date window adds everyday practicality, while the closed case back is beautifully engraved with a global map and the Terra Nova insignia.</p>\n<p>Paying homage to field watches of the past, the oversized crown is both functional and elegant, engineered for precision even when worn with gloves. It features Bremont’s new ‘Wayfinder’ logo—an emblem of the brand’s dedication to exploration.</p>\n<p>This model is paired with a rich brown leather strap featuring a pin buckle clasp. Designed for versatility, the standard-length strap fits wrists from 16.5cm to 22cm.</p>\n<p><b>Functions</b></p>\n<p>Central Hour/minute/seconds</p>\n<p>Date window at 3 o'clock</p>\n<p><b>Movement</b></p>\n<p>Calibre: Modified Calibre 11 1/2’’’ BE-36AE</p>\n<p>No of Jewels: 26 Jewels</p>\n<p>Glucydur balance wheel</p>\n<p>Anachron balance spring</p>\n<p>Nivaflex mainspring</p>\n<p>Frequency: 28,800bph (4Hz)</p>\n<p>Power reserve: 38-hour</p>\n<p><b>Case specifications</b></p>\n<p>Satin and polished two-piece stainless steel case</p>\n<p>Push-in crown</p>\n<p>Case Diameter: 40.5mm</p>\n<p>Case Length: 47mm</p>\n<p>Case Depth: 11.11mm</p>\n<p>Lug width: 22mm</p>\n<p>Case back: Decorated stainless steel case back</p>\n<p><b>Dial and Hands specifications</b></p>\n<p>Gradient green metal dial with 3D vintage Super-LumiNova® (Green emission) block numerals</p>\n<p>Polished Rhodium hands with vintage Super-LumiNova® (Green emission)</p>\n<p><b>Crystal</b></p>\n<p>Domed anti-reflective, scratch resistant sapphire crystal</p>\n<p><b>Water Resistance</b></p>\n<p>10 ATM, 100 metres</p>\n<p><strong>Strap</strong></p>\n<p>Brown leather strap</p>\n<p><b>Weight</b></p>\n<p>70g (watch head only)</p>\n<p><span style=\"display: none\">Tags : Ref No: TN40-DT-SS-GN-L-S</span></p>\n"
+      },
+      "shortDescription": "Not set",
+      "permalink": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/terra-nova/terra-nova-40-5-date-green-dial/"
+    },
+    {
+      "index": 25,
+      "id": 28640,
+      "name": "Terra Nova 40.5 Date",
+      "sku": "Not set",
+      "referenceNumber": "TN40-DT-SS-BK-B",
+      "dateCreated": "2025-06-15T12:01:20",
+      "categories": [
+        "Bremont",
+        "Terra Nova",
+        "Watch"
+      ],
+      "images": {
+        "count": 1,
+        "featured": {
+          "id": 28641,
+          "name": "Bremont_TerraNova_TN40-DT-SS-BK-B",
+          "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_TerraNova_TN40-DT-SS-BK-B.webp",
+          "alt": "Not set"
+        },
+        "allImages": [
+          {
+            "id": 28641,
+            "name": "Bremont_TerraNova_TN40-DT-SS-BK-B",
+            "alt": "Not set"
+          }
+        ]
+      },
+      "description": {
+        "length": 2507,
+        "preview": "<p>The Bremont Terra Nova Date is a modern reimagining of the classic field watch, infused with heritage and crafted for today's adventurer. At 40.5mm, its contemporary geometric cushion case is engin...",
+        "hasFunctions": true,
+        "hasMovement": true,
+        "hasCaseSpecs": true,
+        "hasDialSpecs": true,
+        "hasRefTag": true,
+        "fullDescription": "<p>The Bremont Terra Nova Date is a modern reimagining of the classic field watch, infused with heritage and crafted for today's adventurer. At 40.5mm, its contemporary geometric cushion case is engineered from premium 904L stainless steel, offering a sleek, low-profile silhouette with shortened lugs for a perfectly balanced fit on the wrist.</p>\n<p>Inspired by early 20th-century military pocket watches, the Terra Nova captures the essence of rugged elegance, functional simplicity, and enduring style. Its dial features oversized full-block Super-LumiNova® numerals, ensuring optimal legibility in all lighting conditions. A broken railroad minute track and vintage-style hands further evoke the timeless character of classic field instruments.</p>\n<p>The closed case back is engraved with a detailed world map and the inscription 'Terra Nova', symbolizing exploration and global reach. Enhancing usability and design, the oversized crown—modeled after traditional field watches for operation with gloved hands—is adorned with Bremont's new 'Wayfinder' logo, celebrating the spirit of discovery.</p>\n<p>Complete with a practical date display, this timepiece embodies both form and function. It's a reliable companion for everyday wear or the next great adventure.</p>\n<p><b>Functions</b></p>\n<p>Central Hour/minute/seconds</p>\n<p>Date window at 3 o'clock</p>\n<p><b>Movement</b></p>\n<p>Calibre: Modified Calibre 11 1/2''' BE-36AE</p>\n<p>No of Jewels: 26 Jewels</p>\n<p>Glucydur balance wheel</p>\n<p>Anachron balance spring</p>\n<p>Nivaflex mainspring</p>\n<p>Frequency: 28,800bph (4Hz)</p>\n<p>Power reserve: 38-hour</p>\n<p>Modified automatic winding bridge</p>\n<p><b>Case specifications</b></p>\n<p>Satin and polished two-piece stainless steel case</p>\n<p>Push-in crown</p>\n<p>Case Diameter: 40.5mm</p>\n<p>Case Length: 47mm</p>\n<p>Case Depth: 11.11mm</p>\n<p>Lug width: 22mm</p>\n<p>Case back: Decorated stainless steel case back</p>\n<p><b>Dial and Hands specifications</b></p>\n<p>Gradient anthracite and black metal with 3D vintage Super-LumiNova® (Green emission) block numerals</p>\n<p>Polished Rhodium hands with vintage Super-LumiNova® (Green emission)</p>\n<p><b>Crystal</b></p>\n<p>Domed anti-reflective, scratch resistant sapphire crystal</p>\n<p><b>Water Resistance</b></p>\n<p>10 ATM, 100 metres</p>\n<p><strong>Strap</strong></p>\n<p>904L stainless steel quick release bracelet</p>\n<p><b>Weight</b></p>\n<p>70g (watch head only)</p>\n<p><span style=\"display: none\">Tags : Ref No: TN40-DT-SS-BK-B</span></p>\n"
+      },
+      "shortDescription": "Not set",
+      "permalink": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/terra-nova/terra-nova-40-5-date/"
+    },
+    {
+      "index": 26,
+      "id": 28638,
+      "name": "Terra Nova 40.5 Jumping Hour",
+      "sku": "Not set",
+      "referenceNumber": "TN40-JH-SS-BK-B",
+      "dateCreated": "2025-06-15T11:41:12",
+      "categories": [
+        "Bremont",
+        "Terra Nova",
+        "Watch"
+      ],
+      "images": {
+        "count": 1,
+        "featured": {
+          "id": 28639,
+          "name": "Bremont_TerraNova_TN40-JH-SS-BK-B",
+          "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_TerraNova_TN40-JH-SS-BK-B.webp",
+          "alt": "Not set"
+        },
+        "allImages": [
+          {
+            "id": 28639,
+            "name": "Bremont_TerraNova_TN40-JH-SS-BK-B",
+            "alt": "Not set"
+          }
+        ]
+      },
+      "description": {
+        "length": 2785,
+        "preview": "<p>A rare complication meets modern field watch design in the Bremont Terra Nova Jumping Hour. Crafted from robust yet refined 904L stainless steel, this 40.5mm timepiece brings a contemporary edge to...",
+        "hasFunctions": true,
+        "hasMovement": true,
+        "hasCaseSpecs": true,
+        "hasDialSpecs": true,
+        "hasRefTag": true,
+        "fullDescription": "<p>A rare complication meets modern field watch design in the Bremont Terra Nova Jumping Hour. Crafted from robust yet refined 904L stainless steel, this 40.5mm timepiece brings a contemporary edge to the Terra Nova collection while paying tribute to the heritage of early military timekeeping.</p>\n<p>The cushion-shaped case features a sophisticated mix of polished and brushed finishes, framing a high-gloss black dial that showcases the unique Jumping Hour complication. A clean, offset aperture layout allows for a natural left-to-right time display, offering enhanced readability and minimalist appeal.</p>\n<p>Powering the watch is Bremont's exclusive BC634 Jumping Hour calibre, a high-torque automatic movement designed to deliver precise and instantaneous jumps of the hour disc. The central seconds hand, treated with next-generation Super-LumiNova®, ensures visibility in low-light conditions, while applied markers and a crisp minute track add further clarity and detail.</p>\n<p>Combining elegance and engineering, this standout model is offered on either a 904L stainless steel Terra Nova bracelet or a black gradient leather strap, adapting effortlessly from formal to everyday wear.</p>\n<p>Whether you're drawn to the technical rarity of the Jumping Hour or the distinctive blend of form and function, the Terra Nova Jumping Hour is a statement of mechanical sophistication and modern versatility.</p>\n<p><b>Functions</b></p>\n<p>Hour window at 9 O'clock</p>\n<p>Minute window at 9 O'clock</p>\n<p>Central running seconds hand</p>\n<p><b>Movement</b></p>\n<p>BC634AH movement</p>\n<p>No of Jewels: 29 Jewels</p>\n<p>Glucydur balance wheel</p>\n<p>Anachron balance spring</p>\n<p>Nivaflex mainspring</p>\n<p>Frequency: 28,800bph (4Hz)</p>\n<p>Power reserve: 56-hour</p>\n<p><b>Case specifications</b></p>\n<p>Satin and polished two-piece 904L stainless steel case</p>\n<p>Push-in crown</p>\n<p>Case Diameter: 40.5mm</p>\n<p>Case Length: 47mm</p>\n<p>Case Depth: 10.15mm</p>\n<p>Lug Width: 22mm</p>\n<p>Case back: Decorated 904L stainless steel case back</p>\n<p><b>Dial and Hands specifications</b></p>\n<p>Black lacquered dial with applied window border</p>\n<p>White Super-LumiNova® (Green emission) printed markers at 12, 3, 6 and 9 O'clock</p>\n<p>Silver printed minute track and hour markers</p>\n<p>Hour window with white Super-LumiNova® (Green emission) numerals</p>\n<p>Minute window with white printed numerals</p>\n<p>Centre seconds hand in full white Super-LumiNova® (Green emission)</p>\n<p><b>Crystal</b></p>\n<p>Flat anti-reflective sapphire crystal</p>\n<p><b>Water Resistance</b></p>\n<p>10 ATM, 100 metres</p>\n<p><strong>Strap</strong></p>\n<p>Quick-release 904L stainless steel bracelet with butterfly clasp</p>\n<p><span style=\"display: none\">Tags : Ref No: TN40-JH-SS-BK-B</span></p>\n"
+      },
+      "shortDescription": "Not set",
+      "permalink": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/terra-nova/terra-nova-40-5-jumping-hour/"
+    },
+    {
+      "index": 27,
+      "id": 28636,
+      "name": "Terra Nova 40.5 Turning Bezel Power Reserve Black",
+      "sku": "Not set",
+      "referenceNumber": "TN40-PWR-SS-BK-L",
+      "dateCreated": "2025-06-15T11:40:22",
+      "categories": [
+        "Bremont",
+        "Terra Nova",
+        "Watch"
+      ],
+      "images": {
+        "count": 1,
+        "featured": {
+          "id": 28637,
+          "name": "Bremont_Terranova_TN40-PWR-SS-BK-L-S",
+          "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_Terranova_TN40-PWR-SS-BK-L-S.webp",
+          "alt": "Not set"
+        },
+        "allImages": [
+          {
+            "id": 28637,
+            "name": "Bremont_Terranova_TN40-PWR-SS-BK-L-S",
+            "alt": "Not set"
+          }
+        ]
+      },
+      "description": {
+        "length": 3334,
+        "preview": "<p>The Bremont Terra Nova collection reimagines the heritage of early 20th-century military pocket watches through the lens of modern craftsmanship. Purpose-built and elegantly styled, each timepiece ...",
+        "hasFunctions": true,
+        "hasMovement": true,
+        "hasCaseSpecs": true,
+        "hasDialSpecs": true,
+        "hasRefTag": true,
+        "fullDescription": "<p>The Bremont Terra Nova collection reimagines the heritage of early 20th-century military pocket watches through the lens of modern craftsmanship. Purpose-built and elegantly styled, each timepiece embodies the essence of rugged functionality, simplicity, and timeless design—refined for today's adventurer.</p>\n<p>Crafted from corrosion-resistant 904L stainless steel, the 40.5mm cushion-shaped case features a striking mix of brushed and polished finishes, offering both durability and distinction. A bi-directional compass bezel with cardinal direction markers enhances the watch's field-ready functionality.</p>\n<p>The black dial showcases oversized, full-block Super-LumiNova® numerals for superior legibility in low light, complemented by luminous indexes and vintage-inspired hands. A small seconds sub-dial at 6 o'clock pays tribute to classic military timepieces, while the engraved case back features a world map and the inscription 'Terra Nova'—a nod to global exploration.</p>\n<p>Completing the look is a black nubuck leather strap with a pin buckle clasp, designed to comfortably fit wrists from 16.5cm to 22cm. The oversized crown, adorned with Bremont's 'Wayfinder' logo, underscores the brand's enduring spirit of adventure.</p>\n<p>A harmonious blend of heritage and innovation, the Terra Nova Power Reserve is a compelling choice for those who seek both performance and character in a field watch.</p>\n<p><b>Functions</b></p>\n<p>Central hour/minute function, utilising faceted pencil hands renowned for their vintage provenance and clear legibility</p>\n<p>Date window at 3 o'clock</p>\n<p>Running second hand at 9 o'clock</p>\n<p>Power reserve at 6 o'clock</p>\n<p>Rotating compass bezel</p>\n<p><b>Movement</b></p>\n<p>Calibre: Modified Calibre 11 1/2''' BE-79AL</p>\n<p>No of Jewels: 31 Jewels</p>\n<p>Glucydur balance wheel</p>\n<p>Anachron balance spring</p>\n<p>Nivaflex mainspring</p>\n<p>Frequency: 28,800bph (4Hz)</p>\n<p>Power reserve: 38-hour</p>\n<p><b>Case specifications</b></p>\n<p>Featuring a contemporary two-piece cushion case with a slim profile and tapered lugs reminiscent of military field watches. Elevated through the use of 904L stainless steel, utilised for its resistance to corrosion, improved lustre and greater durability. Finished with a brushed texturing for a unique and iconic wristwatch</p>\n<p>Bi-directional steel bezel engraved with the compass rose</p>\n<p>The Wayfinder, Bremont's new icon is engraved on the oversized push-in crown and features centrally on the dial</p>\n<p>Case Diameter: 40.5mm</p>\n<p>Case Length: 47 mm</p>\n<p>Case Depth: 11.91mm</p>\n<p>Lug width: 22mm</p>\n<p>Case back: Globe decorated closed case back, highly functional and beautifully inscribed</p>\n<p><b>Dial and Hands specifications</b></p>\n<p>Gradient anthracite and black metal dial with 3D vintage Super-LumiNova® (Green emission) block numerals.</p>\n<p>Polished Rhodium hands with vintage Super-LumiNova® (Green emission)</p>\n<p><b>Crystal</b></p>\n<p>Domed anti-reflective, scratch resistant sapphire crystal</p>\n<p><b>Water Resistance</b></p>\n<p>10 ATM, 100 metres</p>\n<p><strong>Strap</strong></p>\n<p>Black nubuck leather strap enhanced with boxed stitching in a shade of cream.</p>\n<p><b>Weight</b></p>\n<p>75g (watch head only)</p>\n<p><span style=\"display: none\">Tags : Ref No: TN40-PWR-SS-BK-L-S</span></p>\n"
+      },
+      "shortDescription": "Not set",
+      "permalink": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/terra-nova/terra-nova-40-5-turning-bezel-power-reserve-black/"
+    },
+    {
+      "index": 28,
+      "id": 28634,
+      "name": "Terra Nova 40.5 Turning Bezel Power Reserve",
+      "sku": "Not set",
+      "referenceNumber": "TN40-PWR-SS-BL-B",
+      "dateCreated": "2025-06-15T11:37:59",
+      "categories": [
+        "Bremont",
+        "Terra Nova",
+        "Watch"
+      ],
+      "images": {
+        "count": 1,
+        "featured": {
+          "id": 28635,
+          "name": "Bremont_Terranova_TN40-PWR-SS-BL-B",
+          "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_Terranova_TN40-PWR-SS-BL-B.webp",
+          "alt": "Not set"
+        },
+        "allImages": [
+          {
+            "id": 28635,
+            "name": "Bremont_Terranova_TN40-PWR-SS-BL-B",
+            "alt": "Not set"
+          }
+        ]
+      },
+      "description": {
+        "length": 3640,
+        "preview": "<p>Inspired by the robust utility of early 20th-century military pocket watches, Bremont introduces the Terra Nova collection—a modern tribute to classic field timepieces. Each watch in the collection...",
+        "hasFunctions": true,
+        "hasMovement": true,
+        "hasCaseSpecs": true,
+        "hasDialSpecs": true,
+        "hasRefTag": true,
+        "fullDescription": "<p>Inspired by the robust utility of early 20th-century military pocket watches, Bremont introduces the Terra Nova collection—a modern tribute to classic field timepieces. Each watch in the collection is a meticulous blend of historical design cues and contemporary innovation.</p>\n<p>The 40.5mm model features a bold, geometrical cushion-shaped case crafted from high-performance 904L stainless steel. Its brushed and polished surfaces create a refined, durable exterior designed to withstand the rigours of exploration.</p>\n<p>A bi-directional compass bezel with cardinal markers enhances navigational functionality, while the oversized crown—reminiscent of traditional field watches—ensures ease of use, even with gloved hands. Bremont's signature 'Wayfinder' logo embellishes the crown, symbolizing the brand's commitment to adventure and precision.</p>\n<p>The dial is outfitted with oversized Super-LumiNova® numerals for exceptional visibility in low light, complemented by luminous indexes and vintage-inspired hands. A small seconds sub dial and a power reserve indicator pay homage to vintage military instrumentation.</p>\n<p>The engraved case back features a detailed world map and the words 'Terra Nova', underscoring the collection's global spirit. The watch is completed with a 904L stainless steel quick-release bracelet, offering versatility and comfort.</p>\n<p>Rediscover the heritage of field watches—refined for the modern explorer.</p>\n<p><b>Functions</b></p>\n<p>Central hour/minute function, utilising faceted pencil hands renowned for their vintage provenance and clear legibility</p>\n<p>Date window at 3 o'clock</p>\n<p>Running second hand at 9 o'clock</p>\n<p>Power reserve at 6 o'clock</p>\n<p>Rotating compass bezel</p>\n<p><b>Movement</b></p>\n<p>Calibre: Modified Calibre 11 1/2''' BE-79AL</p>\n<p>No of Jewels: 31 Jewels</p>\n<p>Glucydur balance wheel</p>\n<p>Anachron balance spring</p>\n<p>Nivaflex mainspring</p>\n<p>Frequency: 28,800bph (4Hz)</p>\n<p>Power reserve: 38-hour</p>\n<p><b>Case specifications</b></p>\n<p>Featuring a contemporary two-piece cushion case with a slim profile and tapered lugs reminiscent of military field watches. Elevated through the use of 904L stainless steel, utilised for its resistance to corrosion, improved lustre and greater durability. Finished with a brushed texturing for a unique and iconic wristwatch</p>\n<p>Bi-directional steel bezel engraved with the compass rose</p>\n<p>The Wayfinder, Bremont's new icon is engraved on the oversized push-in crown and features centrally on the dial</p>\n<p>Case Diameter: 40.5mm</p>\n<p>Case Length: 47 mm</p>\n<p>Case Depth: 11.91mm</p>\n<p>Lug width: 22mm</p>\n<p>Case back: Globe decorated closed case back, highly functional and beautifully inscribed</p>\n<p><b>Dial and Hands specifications</b></p>\n<p>Gradient blue metal dial with 3D vintage Super-LumiNova® (Green emission) block numerals</p>\n<p>Polished Rhodium hands with vintage Super-LumiNova® (Green emission)</p>\n<p><b>Crystal</b></p>\n<p>Domed anti-reflective, scratch resistant sapphire crystal</p>\n<p><b>Water Resistance</b></p>\n<p>10 ATM, 100 metres</p>\n<p><strong>Strap</strong></p>\n<p>Unique to the Terra Nova collection is a quick release bracelet crafted in 904L steel and finished in a combination of brushed and polished facets, which mirror the outer radius of the Terra Nova cushion case. Curved bars are repeated through the length of the strap creating a high level of articulation which ensures enhanced fluidity and great comfort to the wearer</p>\n<p><b>Weight</b></p>\n<p>75g (watch head only)</p>\n<p><span style=\"display: none\">Tags : Ref No: TN40-PWR-SS-BL-B</span></p>\n"
+      },
+      "shortDescription": "Not set",
+      "permalink": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/terra-nova/terra-nova-40-5-turning-bezel-power-reserve/"
+    },
+    {
+      "index": 29,
+      "id": 28632,
+      "name": "Terra Nova 42.5 Chronograph, Leather Strap",
+      "sku": "Not set",
+      "referenceNumber": "TN42-CHR-SS-BK-L",
+      "dateCreated": "2025-06-15T11:37:15",
+      "categories": [
+        "Bremont",
+        "Terra Nova",
+        "Watch"
+      ],
+      "images": {
+        "count": 1,
+        "featured": {
+          "id": 28775,
+          "name": "Bremont TN42-CHR-SS-BK-L-S",
+          "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_Terranova_TN42-CHR-SS-BK-L-S-1.webp",
+          "alt": "Bremont TN42-CHR-SS-BK-L-S"
+        },
+        "allImages": [
+          {
+            "id": 28775,
+            "name": "Bremont TN42-CHR-SS-BK-L-S",
+            "alt": "Bremont TN42-CHR-SS-BK-L-S"
+          }
+        ]
+      },
+      "description": {
+        "length": 2643,
+        "preview": "<p><strong>Bremont Terra Nova Chronograph – 42.5mm</strong><br />\nBremont’s Terra Nova collection pays homage to early 20th-century military pocket watches, reimagined for the modern adventurer. Metic...",
+        "hasFunctions": true,
+        "hasMovement": true,
+        "hasCaseSpecs": true,
+        "hasDialSpecs": true,
+        "hasRefTag": true,
+        "fullDescription": "<p><strong>Bremont Terra Nova Chronograph – 42.5mm</strong><br />\nBremont’s Terra Nova collection pays homage to early 20th-century military pocket watches, reimagined for the modern adventurer. Meticulously engineered and thoughtfully designed, these timepieces embody rugged elegance, practical utility, and enduring craftsmanship.</p>\n<p>The 42.5mm cushion-shaped case, crafted from premium 904L stainless steel, features a distinctive mix of brushed and polished finishes. A bi-directional polished ceramic compass bezel enhances both style and functionality, making this chronograph a dependable companion in the field.</p>\n<p>The dial delivers bold legibility with oversized Super-LumiNova® numerals, railroad minute tracks, and vintage-style hands, ensuring visibility even in low-light conditions. A custom-engraved case back displays a world map and ‘Terra Nova’ inscription—symbolizing the spirit of exploration.</p>\n<p>An oversized crown, inspired by traditional field watches, allows for easy operation—even with gloves—and proudly bears Bremont’s ‘Wayfinder’ logo.</p>\n<p>Completing the look is a classic brown leather strap with pin buckle, designed to fit wrists from 16.5cm to 22cm in circumference.</p>\n<p><b>Functions</b></p>\n<p>Central Hour/Minute</p>\n<p>Chronograph centre sweep seconds hand</p>\n<p>Small seconds counter at 9 o'clock</p>\n<p>Chronograph 30 minutes counter at 3 o'clock</p>\n<p>Date at 6 o'clock</p>\n<p><b>Movement</b></p>\n<p>Calibre: Modified Calibre 13 1/4’’' BE-50AV</p>\n<p>No of Jewels: 27 Jewels</p>\n<p>Glucydur balance wheel</p>\n<p>Anachron balance spring</p>\n<p>Nivaflex mainspring</p>\n<p>Frequency: 28,800bph (4Hz)</p>\n<p>Power reserve: 56-hour</p>\n<p><b>Case specifications</b></p>\n<p>Satin and polished two-piece stainless steel case</p>\n<p>Bi-directional steel bezel with a ceramic insert</p>\n<p>Push-in crown</p>\n<p>Case Diameter: 42.5mm</p>\n<p>Case Length: 48.8 mm</p>\n<p>Case Depth: 14.8mm</p>\n<p>Lug width: 22mm</p>\n<p>Case back: Decorated stainless steel case back</p>\n<p><b>Dial and Hands specifications</b></p>\n<p>Black anthrecite metal dial with 3D vintage Super-LumiNova® (Green emission) blocks</p>\n<p>Polished Rhodium Hour and minute hands with vintage Super-LumiNova® (Green emission)</p>\n<p>Rose Gold plated Chrono hand</p>\n<p>Gloss white counter hands</p>\n<p><b>Crystal</b></p>\n<p>Domed anti-reflective, scratch resistant sapphire crystal</p>\n<p><b>Water Resistance</b></p>\n<p>10 ATM, 100 metres</p>\n<p><strong>Strap</strong></p>\n<p>Brown leather strap</p>\n<p><b>Weight</b></p>\n<p>106g (watch head only)</p>\n<p><span style=\"display: none\">Tags : Ref No: TN42-CHR-SS-BK-L-S</span></p>\n"
+      },
+      "shortDescription": "Not set",
+      "permalink": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/terra-nova/terra-nova-42-5-chronograph-leather-strap/"
+    },
+    {
+      "index": 30,
+      "id": 28629,
+      "name": "Terra Nova 42.5 Chronograph Bronze",
+      "sku": "Not set",
+      "referenceNumber": "TN42-CHR-BZ-GN-L",
+      "dateCreated": "2025-06-15T10:29:02",
+      "categories": [
+        "Bremont",
+        "Terra Nova",
+        "Watch"
+      ],
+      "images": {
+        "count": 1,
+        "featured": {
+          "id": 28774,
+          "name": "Bremont TN42-CHR-BZ-GN-L-S",
+          "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/BremontBronze_TerraNova_TN42-CHR-BZ-GN-L-S-2.webp",
+          "alt": "Bremont TN42-CHR-BZ-GN-L-S"
+        },
+        "allImages": [
+          {
+            "id": 28774,
+            "name": "Bremont TN42-CHR-BZ-GN-L-S",
+            "alt": "Bremont TN42-CHR-BZ-GN-L-S"
+          }
+        ]
+      },
+      "description": {
+        "length": 2892,
+        "preview": "<p><strong>Bremont Terra Nova Chronograph Bronze – 42.5mm</strong><br />\nEngineered for performance and designed for adventure, the Terra Nova Chronograph Bronze stands as the most technically sophist...",
+        "hasFunctions": true,
+        "hasMovement": true,
+        "hasCaseSpecs": true,
+        "hasDialSpecs": true,
+        "hasRefTag": true,
+        "fullDescription": "<p><strong>Bremont Terra Nova Chronograph Bronze – 42.5mm</strong><br />\nEngineered for performance and designed for adventure, the Terra Nova Chronograph Bronze stands as the most technically sophisticated timepiece in the collection. Crafted from durable 42.5mm Cupro-Aluminium bronze—reinforced with aluminum and silicon—it naturally develops a rich, even patina over time, enhancing its character with every wear.</p>\n<p>The bi-directional bronze compass bezel with a sleek black ceramic insert offers precise functionality for navigation and timing, while 100-metre water resistance ensures reliability in all conditions. A deep green gradient dial creates bold contrast, featuring oversized Super-LumiNova® numerals for outstanding legibility in any light.</p>\n<p>Driven by the Chronometer-rated Calibre BE-50AV automatic movement, this chronograph includes a central sweep seconds hand, a 30-minute counter at 3 o’clock, and a discreet date display at 6 o’clock. With a 56-hour power reserve, it delivers unwavering accuracy and performance.</p>\n<p>Completing the look is a khaki green nubuck leather strap, secured with a PVD bronze-coloured steel pin buckle—a rugged yet refined companion for any journey.</p>\n<p><b>Functions</b></p>\n<p>Central hour/minute</p>\n<p>Chronograph centre sweep second hand</p>\n<p>Chronograph 30 minutes counter at 3 o'clock</p>\n<p>Date at 6 o'clock</p>\n<p>Small seconds counter at 9 o'clock</p>\n<p><b>Movement</b></p>\n<p>Calibre: Modified Calibre 13 1/4’’' BE-50AV</p>\n<p>No of Jewels: 27 Jewels</p>\n<p>Glucydur balance wheel</p>\n<p>Anachron balance spring</p>\n<p>Nivaflex mainspring</p>\n<p>Frequency: 28,800bph (4Hz)</p>\n<p>Power reserve: 56-hour</p>\n<p><b>Case specifications</b></p>\n<p>Satin and polished two-piece Cupro-Aluminium bronze case</p>\n<p>Bi-directional Cupro-Aluminium bronze with a ceramic insert</p>\n<p>Push-in crown</p>\n<p>Case Diameter: 42.5mm</p>\n<p>Case Length: 48.8 mm</p>\n<p>Case Depth: 14.8mm</p>\n<p>Lug width: 22mm</p>\n<p>Case back: PVD bronze-coloured stainless steel case back</p>\n<p><b>Dial and Hands specifications</b></p>\n<p>Gradient green metal dial with 3D vintage Super-LumiNova® (Green emission) blocks</p>\n<p>Polished Rose Gold plated hour and minute hands with vintage Super-LumiNova® (Green emission)</p>\n<p>Rose Gold plated chrono hand and counter hands</p>\n<p><b>Crystal</b></p>\n<p>Domed anti-reflective, scratch resistant sapphire crystal</p>\n<p><b>Water Resistance</b></p>\n<p>10 ATM, 100 metres</p>\n<p><strong>Strap</strong></p>\n<p>Khaki Green Nubuck Leather with Cream Box Stitch with PVD bronze-coloured stainless steel pin buckle</p>\n<p><span style=\"display: none\">Tags : Ref No: TN42-CHR-BZ-GN-L-S</span></p>\n<p>IGNORE_WHEN_COPYING_START<br />\ncontent_copy download<br />\nUse code with caution. Html<br />\nIGNORE_WHEN_COPYING_END</p>\n<p><span style=\"display: none\">Tags : Ref No: TN42-CHR-BZ-GN-L-S</span></p>\n"
+      },
+      "shortDescription": "Not set",
+      "permalink": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/terra-nova/terra-nova-42-5-chronograph-bronze/"
+    },
+    {
+      "index": 31,
+      "id": 28624,
+      "name": "Terra Nova 42.5 Chronograph, Bracelet",
+      "sku": "Not set",
+      "referenceNumber": "TN42-CHR-SS-BK-B",
+      "dateCreated": "2025-06-15T10:04:22",
+      "categories": [
+        "Bremont",
+        "Terra Nova",
+        "Watch"
+      ],
+      "images": {
+        "count": 1,
+        "featured": {
+          "id": 28773,
+          "name": "Bremont TN42-CHR-SS-BK-B",
+          "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_Terranova_TN42-CHR-SS-BK-B-1.webp",
+          "alt": "Bremont TN42-CHR-SS-BK-B"
+        },
+        "allImages": [
+          {
+            "id": 28773,
+            "name": "Bremont TN42-CHR-SS-BK-B",
+            "alt": "Bremont TN42-CHR-SS-BK-B"
+          }
+        ]
+      },
+      "description": {
+        "length": 2821,
+        "preview": "<p>Bremont Terra Nova Chronograph – 42.5mm<br />\nInspired by the rugged elegance of early 20th-century military pocket watches, Bremont’s Terra Nova field watch collection pays homage to classic desig...",
+        "hasFunctions": true,
+        "hasMovement": true,
+        "hasCaseSpecs": true,
+        "hasDialSpecs": true,
+        "hasRefTag": true,
+        "fullDescription": "<p>Bremont Terra Nova Chronograph – 42.5mm<br />\nInspired by the rugged elegance of early 20th-century military pocket watches, Bremont’s Terra Nova field watch collection pays homage to classic design while embracing modern craftsmanship. Every detail reflects the brand’s commitment to functionality, durability, and timeless style.</p>\n<p>The Terra Nova features a distinctive 42.5mm geometric cushion case crafted from premium 904L stainless steel, finished with a refined mix of brushed and polished textures. The bold dial showcases oversized numerals rendered in full-block Super-LumiNova® for exceptional legibility in low-light conditions, complemented by vintage-inspired hands and a broken railroad minute track.</p>\n<p>A standout detail is the engraved closed case back, featuring a world map motif and the inscription ‘Terra Nova’—a tribute to global exploration. The oversized crown, designed for use even with gloved hands, references heritage field watches and is adorned with Bremont’s new ‘Wayfinder’ logo, underscoring the brand’s adventurous spirit.</p>\n<p>This two-counter chronograph includes a polished ceramic bi-directional compass bezel and is presented on a robust 904L stainless steel quick-release bracelet, merging versatility with rugged refinement.</p>\n<p>Explore a watch built for the modern explorer—crafted to perform, styled to endure.</p>\n<p><b>Functions</b></p>\n<p>Central Hour/Minute</p>\n<p>Chronograph centre sweep seconds hand</p>\n<p>Small seconds counter at 9 o'clock</p>\n<p>Chronograph 30 minutes counter at 3 o'clock</p>\n<p>Date at 6 o'clock</p>\n<p><b>Movement</b></p>\n<p>Calibre: Modified Calibre 13 1/4’’' BE-50AV</p>\n<p>No of Jewels: 27 Jewels</p>\n<p>Glucydur balance wheel</p>\n<p>Anachron balance spring</p>\n<p>Nivaflex mainspring</p>\n<p>Frequency: 28,800bph (4Hz)</p>\n<p>Power reserve: 56-hour</p>\n<p><b>Case specifications</b></p>\n<p>Satin and polished two-piece stainless steel case</p>\n<p>Bi-directional steel bezel with a ceramic insert</p>\n<p>Push-in crown</p>\n<p>Case Diameter: 42.5mm</p>\n<p>Case Length: 48.8 mm</p>\n<p>Case Depth: 14.8mm</p>\n<p>Lug width: 22mm</p>\n<p>Case back: Decorated stainless steel case back</p>\n<p><b>Dial and Hands specifications</b></p>\n<p>Black anthrecite metal dial with 3D vintage Super-LumiNova® (Green emission) blocks</p>\n<p>Polished Rhodium Hour and minute hands with vintage Super-LumiNova® (Green emission)</p>\n<p>Rose Gold plated Chrono hand</p>\n<p>Gloss white counter hands</p>\n<p><b>Crystal</b></p>\n<p>Domed anti-reflective, scratch resistant sapphire crystal</p>\n<p><b>Water Resistance</b></p>\n<p>10 ATM, 100 metres</p>\n<p><strong>Strap</strong></p>\n<p>904L stainless steel quick release bracelet</p>\n<p><b>Weight</b></p>\n<p>106g (watch head only)</p>\n<p><span style=\"display: none\">Tags : Ref No: TN42-CHR-SS-BK-B</span></p>\n"
+      },
+      "shortDescription": "Not set",
+      "permalink": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/terra-nova/terra-nova-42-5-chronograph-bracelet/"
+    }
+  ]
+}

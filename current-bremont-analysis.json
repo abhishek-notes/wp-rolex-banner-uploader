@@ -1,0 +1,640 @@
+{
+  "timestamp": "2025-06-19T10:47:17.465Z",
+  "totalProducts": 29,
+  "products": [
+    {
+      "id": 28808,
+      "name": "Supermarine 300M Date Bi-Colour, Bracelet",
+      "slug": "supermarine-300m-date-bi-colour-bracelet",
+      "sku": "SM40-DT-BI-BR-B",
+      "referenceNumber": "SM40-DT-BI-BR-B",
+      "status": "publish",
+      "dateCreated": "2025-06-19T02:12:06",
+      "categories": [
+        "Bremont",
+        "Supermarine",
+        "Watch"
+      ],
+      "featuredImage": null,
+      "shortDescription": "<p>Supermarine 300M Date Bi-Colour, Bracelet available at Palladio Jewellers, Official Bremont Retailer in Vancouver.</p>\n",
+      "descriptionLength": 219,
+      "productUrl": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/supermarine/supermarine-300m-date-bi-colour-bracelet/"
+    },
+    {
+      "id": 28807,
+      "name": "Supermarine 300M, Green Dial, Bracelet",
+      "slug": "supermarine-300m-green-dial-bracelet",
+      "sku": "SM40-ND-SS-GN-B",
+      "referenceNumber": "SM40-ND-SS-GN-B",
+      "status": "publish",
+      "dateCreated": "2025-06-19T02:11:48",
+      "categories": [
+        "Bremont",
+        "Supermarine",
+        "Watch"
+      ],
+      "featuredImage": null,
+      "shortDescription": "<p>Supermarine 300M, Green Dial, Bracelet available at Palladio Jewellers, Official Bremont Retailer in Vancouver.</p>\n",
+      "descriptionLength": 216,
+      "productUrl": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/supermarine/supermarine-300m-green-dial-bracelet/"
+    },
+    {
+      "id": 28806,
+      "name": "Supermarine 300M GMT \"Glacier\" Blue",
+      "slug": "supermarine-300m-gmt-glacier-blue",
+      "sku": "SM40-GMT-SS-BLBK-B",
+      "referenceNumber": "SM40-GMT-SS-BLBK-B",
+      "status": "publish",
+      "dateCreated": "2025-06-19T02:11:33",
+      "categories": [
+        "Bremont",
+        "Supermarine",
+        "Watch"
+      ],
+      "featuredImage": null,
+      "shortDescription": "<p>Supermarine 300M GMT &#8220;Glacier&#8221; Blue available at Palladio Jewellers, Official Bremont Retailer in Vancouver.</p>\n",
+      "descriptionLength": 216,
+      "productUrl": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/supermarine/supermarine-300m-gmt-glacier-blue/"
+    },
+    {
+      "id": 28805,
+      "name": "Supermarine 300M GMT \"Tundra\" Green",
+      "slug": "supermarine-300m-gmt-tundra-green",
+      "sku": "SM40-GMT-SS-GNBK-G",
+      "referenceNumber": "SM40-GMT-SS-GNBK-G",
+      "status": "publish",
+      "dateCreated": "2025-06-19T02:11:11",
+      "categories": [
+        "Bremont",
+        "Supermarine",
+        "Watch"
+      ],
+      "featuredImage": null,
+      "shortDescription": "<p>Supermarine 300M GMT &#8220;Tundra&#8221; Green available at Palladio Jewellers, Official Bremont Retailer in Vancouver.</p>\n",
+      "descriptionLength": 216,
+      "productUrl": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/supermarine/supermarine-300m-gmt-tundra-green/"
+    },
+    {
+      "id": 28804,
+      "name": "Altitude MB Meteor, Silver Dial, Leather Strap",
+      "slug": "altitude-mb-meteor-silver-dial-leather-strap",
+      "sku": "ALT42-MT-TI-SITI-L-S",
+      "referenceNumber": "ALT42-MT-TI-SITI-L-S",
+      "status": "publish",
+      "dateCreated": "2025-06-19T02:10:53",
+      "categories": [
+        "Altitude",
+        "Bremont",
+        "Watch"
+      ],
+      "featuredImage": null,
+      "shortDescription": "<p>Altitude MB Meteor, Silver Dial, Leather Strap available at Palladio Jewellers, Official Bremont Retailer in Vancouver.</p>\n",
+      "descriptionLength": 229,
+      "productUrl": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/altitude/altitude-mb-meteor-silver-dial-leather-strap/"
+    },
+    {
+      "id": 28803,
+      "name": "Altitude MB Meteor, Silver Dial, Ti Bracelet",
+      "slug": "altitude-mb-meteor-silver-dial-ti-bracelet",
+      "sku": "ALT42-MT-TI-SITI-B",
+      "referenceNumber": "ALT42-MT-TI-SITI-B",
+      "status": "publish",
+      "dateCreated": "2025-06-19T02:10:36",
+      "categories": [
+        "Altitude",
+        "Bremont",
+        "Watch"
+      ],
+      "featuredImage": null,
+      "shortDescription": "<p>Altitude MB Meteor, Silver Dial, Ti Bracelet available at Palladio Jewellers, Official Bremont Retailer in Vancouver.</p>\n",
+      "descriptionLength": 225,
+      "productUrl": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/altitude/altitude-mb-meteor-silver-dial-ti-bracelet/"
+    },
+    {
+      "id": 28802,
+      "name": "Altitude MB Meteor, Black Dial, Leather Strap",
+      "slug": "altitude-mb-meteor-black-dial-leather-strap",
+      "sku": "ALT42-MT-TI-BKBK-L-S",
+      "referenceNumber": "ALT42-MT-TI-BKBK-L-S",
+      "status": "publish",
+      "dateCreated": "2025-06-19T02:08:53",
+      "categories": [
+        "Altitude",
+        "Bremont",
+        "Watch"
+      ],
+      "featuredImage": null,
+      "shortDescription": "<p>Altitude MB Meteor, Black Dial, Leather Strap available at Palladio Jewellers, Official Bremont Retailer in Vancouver.</p>\n",
+      "descriptionLength": 228,
+      "productUrl": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/altitude/altitude-mb-meteor-black-dial-leather-strap/"
+    },
+    {
+      "id": 28801,
+      "name": "Altitude MB Meteor, Black Dial, Ti Bracelet",
+      "slug": "altitude-mb-meteor-black-dial-ti-bracelet",
+      "sku": "ALT42-MT-TI-BKBK-B",
+      "referenceNumber": "ALT42-MT-TI-BKBK-B",
+      "status": "publish",
+      "dateCreated": "2025-06-19T02:08:36",
+      "categories": [
+        "Altitude",
+        "Bremont",
+        "Watch"
+      ],
+      "featuredImage": null,
+      "shortDescription": "<p>Altitude MB Meteor, Black Dial, Ti Bracelet available at Palladio Jewellers, Official Bremont Retailer in Vancouver.</p>\n",
+      "descriptionLength": 224,
+      "productUrl": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/altitude/altitude-mb-meteor-black-dial-ti-bracelet/"
+    },
+    {
+      "id": 28689,
+      "name": "Terra Nova 40.5 Date",
+      "slug": "terra-nova-40-5-date-2",
+      "sku": "TN40-DT-SS-BK-B",
+      "referenceNumber": "TN40-DT-SS-BK-B",
+      "status": "publish",
+      "dateCreated": "2025-06-15T13:11:05",
+      "categories": [
+        "Bremont",
+        "Terra Nova",
+        "Watch"
+      ],
+      "featuredImage": {
+        "id": 28690,
+        "name": "Bremont at Palladio Jewellers in Vancouver &#8211; Official Bremont Retailer &#8211; Terra Nova",
+        "alt": "Bremont Terra Nova at Palladio Jewellers",
+        "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_TerraNova_TN40-DT-SS-BK-B-1.webp"
+      },
+      "shortDescription": "",
+      "descriptionLength": 2507,
+      "productUrl": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/terra-nova/terra-nova-40-5-date-2/"
+    },
+    {
+      "id": 28687,
+      "name": "Terra Nova 40.5 Jumping Hour",
+      "slug": "terra-nova-40-5-jumping-hour-2",
+      "sku": "TN40-JH-SS-BK-B",
+      "referenceNumber": "TN40-JH-SS-BK-B",
+      "status": "publish",
+      "dateCreated": "2025-06-15T13:10:09",
+      "categories": [
+        "Bremont",
+        "Terra Nova",
+        "Watch"
+      ],
+      "featuredImage": {
+        "id": 28688,
+        "name": "Bremont at Palladio Jewellers in Vancouver &#8211; Official Bremont Retailer &#8211; Terra Nova",
+        "alt": "Bremont Terra Nova at Palladio Jewellers",
+        "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_TerraNova_TN40-JH-SS-BK-B-1.webp"
+      },
+      "shortDescription": "",
+      "descriptionLength": 2785,
+      "productUrl": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/terra-nova/terra-nova-40-5-jumping-hour-2/"
+    },
+    {
+      "id": 28685,
+      "name": "Terra Nova 40.5 Turning Bezel Power Reserve Black",
+      "slug": "terra-nova-40-5-turning-bezel-power-reserve-black",
+      "sku": "TN40-PWR-SS-BK-L-S",
+      "referenceNumber": "TN40-PWR-SS-BK-L-S",
+      "status": "publish",
+      "dateCreated": "2025-06-15T13:09:14",
+      "categories": [
+        "Bremont",
+        "Terra Nova",
+        "Watch"
+      ],
+      "featuredImage": {
+        "id": 28686,
+        "name": "Bremont at Palladio Jewellers in Vancouver &#8211; Official Bremont Retailer &#8211; Terra Nova",
+        "alt": "Bremont Terra Nova at Palladio Jewellers",
+        "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_Terranova_TN40-PWR-SS-BK-L-S-2.webp"
+      },
+      "shortDescription": "",
+      "descriptionLength": 3334,
+      "productUrl": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/terra-nova/terra-nova-40-5-turning-bezel-power-reserve-black/"
+    },
+    {
+      "id": 28683,
+      "name": "Terra Nova 40.5 Turning Bezel Power Reserve",
+      "slug": "terra-nova-40-5-turning-bezel-power-reserve",
+      "sku": "TN40-PWR-SS-BL-B",
+      "referenceNumber": "TN40-PWR-SS-BL-B",
+      "status": "publish",
+      "dateCreated": "2025-06-15T13:08:14",
+      "categories": [
+        "Bremont",
+        "Terra Nova",
+        "Watch"
+      ],
+      "featuredImage": {
+        "id": 28684,
+        "name": "Bremont at Palladio Jewellers in Vancouver &#8211; Official Bremont Retailer &#8211; Terra Nova",
+        "alt": "Bremont Terra Nova at Palladio Jewellers",
+        "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_Terranova_TN40-PWR-SS-BL-B-2.webp"
+      },
+      "shortDescription": "",
+      "descriptionLength": 3640,
+      "productUrl": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/terra-nova/terra-nova-40-5-turning-bezel-power-reserve/"
+    },
+    {
+      "id": 28674,
+      "name": "Altitude 39 Date, Silver Dial, Leather Strap",
+      "slug": "altitude-39-silver-leather-strap",
+      "sku": "ALT39-DT-SS-SI-L-S",
+      "referenceNumber": "ALT39-DT-SS-SI-L-S",
+      "status": "publish",
+      "dateCreated": "2025-06-15T12:34:05",
+      "categories": [
+        "Altitude",
+        "Bremont",
+        "Watch"
+      ],
+      "featuredImage": {
+        "id": 28787,
+        "name": "Bremont at Palladio Jewellers in Vancouver &#8211; Official Bremont Retailer &#8211; Altitude 39 Date, Silver Dial, Leather Strap",
+        "alt": "Bremont Altitude 39 Date, Silver Dial, Leather Strap at Palladio Jewellers",
+        "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_Altitude_39DateLeather_ALT39-DT-SS-SI-L-S-1.webp"
+      },
+      "shortDescription": "",
+      "descriptionLength": 3079,
+      "productUrl": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/altitude/altitude-39-silver-leather-strap/"
+    },
+    {
+      "id": 28673,
+      "name": "Altitude 39 Date, Black Dial, Steel Bracelet",
+      "slug": "altitude-39-steel-bracelet",
+      "sku": "ALT39-DT-SS-BK-B",
+      "referenceNumber": "ALT39-DT-SS-BK-B",
+      "status": "publish",
+      "dateCreated": "2025-06-15T12:33:12",
+      "categories": [
+        "Altitude",
+        "Bremont",
+        "Watch"
+      ],
+      "featuredImage": {
+        "id": 28786,
+        "name": "Bremont at Palladio Jewellers in Vancouver &#8211; Official Bremont Retailer &#8211; Altitude 39 Date, Black Dial, Steel Bracelet",
+        "alt": "Bremont Altitude 39 Date, Black Dial, Steel Bracelet at Palladio Jewellers",
+        "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_Altitude_39DateBracelet_ALT39-DT-SS-BK-B-1.webp"
+      },
+      "shortDescription": "",
+      "descriptionLength": 3122,
+      "productUrl": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/altitude/altitude-39-steel-bracelet/"
+    },
+    {
+      "id": 28672,
+      "name": "Altitude 39 Date, Black Dial, Leather Strap",
+      "slug": "altitude-39-black-leather-strap",
+      "sku": "Not set",
+      "referenceNumber": "ALT39-DT-SS-BK-L-S",
+      "status": "publish",
+      "dateCreated": "2025-06-15T12:32:20",
+      "categories": [
+        "Altitude",
+        "Bremont",
+        "Watch"
+      ],
+      "featuredImage": {
+        "id": 28785,
+        "name": "Bremont at Palladio Jewellers in Vancouver &#8211; Official Bremont Retailer &#8211; Altitude 39 Date, Black Dial, Leather Strap",
+        "alt": "Bremont Altitude 39 Date, Black Dial, Leather Strap at Palladio Jewellers",
+        "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_Altitude_39DateLeather_ALT39-DT-SS-BK-L-S-1.webp"
+      },
+      "shortDescription": "",
+      "descriptionLength": 2903,
+      "productUrl": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/altitude/altitude-39-black-leather-strap/"
+    },
+    {
+      "id": 28664,
+      "name": "Altitude Chronograph GMT, Silver Dial, Steel Bracelet",
+      "slug": "altitude-gmt-silver",
+      "sku": "Not set",
+      "referenceNumber": "ALT42-CHR-G-SS-SI-B",
+      "status": "publish",
+      "dateCreated": "2025-06-15T12:28:29",
+      "categories": [
+        "Altitude",
+        "Bremont",
+        "Watch"
+      ],
+      "featuredImage": {
+        "id": 28784,
+        "name": "Bremont at Palladio Jewellers in Vancouver &#8211; Official Bremont Retailer &#8211; Altitude Chronograph GMT, Silver Dial, Steel Bracelet",
+        "alt": "Bremont Altitude Chronograph GMT, Silver Dial, Steel Bracelet at Palladio Jewellers",
+        "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_Altitude_ChronographSilverBracelet_ALT42-CHR-G-SS-SI-B-1.webp"
+      },
+      "shortDescription": "",
+      "descriptionLength": 3902,
+      "productUrl": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/altitude/altitude-gmt-silver/"
+    },
+    {
+      "id": 28662,
+      "name": "Altitude Chronograph GMT, Black Dial, Leather Strap",
+      "slug": "altitude-chronograph-gmt-black-leather",
+      "sku": "ALT42-CHR-G-SS-BK-L-S",
+      "referenceNumber": "ALT42-CHR-G-SS-BK-L-S",
+      "status": "publish",
+      "dateCreated": "2025-06-15T12:27:21",
+      "categories": [
+        "Altitude",
+        "Bremont",
+        "Watch"
+      ],
+      "featuredImage": {
+        "id": 28663,
+        "name": "Bremont at Palladio Jewellers in Vancouver &#8211; Official Bremont Retailer &#8211; Altitude Chronograph GMT",
+        "alt": "Bremont Altitude Chronograph GMT at Palladio Jewellers",
+        "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont-Altitude-Chronograph-GMT_BlackLeather_ALT42-CHR-G-SS-BK-L-S-1.webp"
+      },
+      "shortDescription": "",
+      "descriptionLength": 2505,
+      "productUrl": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/altitude/altitude-chronograph-gmt-black-leather/"
+    },
+    {
+      "id": 28660,
+      "name": "Altitude Chronograph GMT",
+      "slug": "altitude-chronograph-gmt",
+      "sku": "Not set",
+      "referenceNumber": "ALT42-CHR-G-SS-BK-B",
+      "status": "publish",
+      "dateCreated": "2025-06-15T12:26:15",
+      "categories": [
+        "Altitude",
+        "Bremont",
+        "Watch"
+      ],
+      "featuredImage": {
+        "id": 28783,
+        "name": "Bremont at Palladio Jewellers in Vancouver &#8211; Official Bremont Retailer &#8211; Altitude Chronograph GMT",
+        "alt": "Bremont Altitude Chronograph GMT at Palladio Jewellers",
+        "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_Altitude-Chronograph-GMT_ALT42-CHR-G-SS-BK-B.webp"
+      },
+      "shortDescription": "",
+      "descriptionLength": 3901,
+      "productUrl": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/altitude/altitude-chronograph-gmt/"
+    },
+    {
+      "id": 28658,
+      "name": "Supermarine 300M, Blue Dial, Bracelet",
+      "slug": "supermarine-300m-blue-bracelet",
+      "sku": "SM40-ND-SS-BL-B",
+      "referenceNumber": "SM40-ND-SS-BL-B",
+      "status": "publish",
+      "dateCreated": "2025-06-15T12:25:09",
+      "categories": [
+        "Bremont",
+        "Supermarine",
+        "Watch"
+      ],
+      "featuredImage": {
+        "id": 28659,
+        "name": "Bremont at Palladio Jewellers in Vancouver &#8211; Official Bremont Retailer &#8211; Supermarine 300M",
+        "alt": "Bremont Supermarine 300M at Palladio Jewellers",
+        "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_Supermarine-S300Blue-SM40-ND-SS-BL-S-1.webp"
+      },
+      "shortDescription": "",
+      "descriptionLength": 2582,
+      "productUrl": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/supermarine/supermarine-300m-blue-bracelet/"
+    },
+    {
+      "id": 28656,
+      "name": "Supermarine 300M Date, Black Dial, Rubber Strap",
+      "slug": "supermarine-300m-date-black-rubber-strap",
+      "sku": "SM40-DT-SS-BK-R-S",
+      "referenceNumber": "SM40-DT-SS-BK-R-S",
+      "status": "publish",
+      "dateCreated": "2025-06-15T12:24:09",
+      "categories": [
+        "Bremont",
+        "Supermarine",
+        "Watch"
+      ],
+      "featuredImage": {
+        "id": 28782,
+        "name": "Bremont at Palladio Jewellers in Vancouver &#8211; Official Bremont Retailer &#8211; Bremont",
+        "alt": "Bremont Bremont at Palladio Jewellers",
+        "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_Supermarine-S300Date-SM40-DT-SS-BK-R-S-1.webp"
+      },
+      "shortDescription": "",
+      "descriptionLength": 3196,
+      "productUrl": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/supermarine/supermarine-300m-date-black-rubber-strap/"
+    },
+    {
+      "id": 28654,
+      "name": "Supermarine 300M Date, Black Dial, Bracelet",
+      "slug": "supermarine-300m-date-black-bracelet",
+      "sku": "Not set",
+      "referenceNumber": "SM40-DT-SS-BK-B",
+      "status": "publish",
+      "dateCreated": "2025-06-15T12:23:20",
+      "categories": [
+        "Bremont",
+        "Supermarine",
+        "Watch"
+      ],
+      "featuredImage": {
+        "id": 28781,
+        "name": "Bremont at Palladio Jewellers in Vancouver &#8211; Official Bremont Retailer &#8211; Bremont",
+        "alt": "Bremont Bremont at Palladio Jewellers",
+        "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_Supermarine-S300Date_SM40-DT-SS-BK-B-1.webp"
+      },
+      "shortDescription": "",
+      "descriptionLength": 3178,
+      "productUrl": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/supermarine/supermarine-300m-date-black-bracelet/"
+    },
+    {
+      "id": 28650,
+      "name": "Supermarine 500m, Black Rubber Strap",
+      "slug": "supermarine-500m-black-rubber-strap",
+      "sku": "SM43-DT-SS-BK-R-S",
+      "referenceNumber": "SM43-DT-SS-BK-R-S",
+      "status": "publish",
+      "dateCreated": "2025-06-15T12:09:55",
+      "categories": [
+        "Bremont",
+        "Supermarine",
+        "Watch"
+      ],
+      "featuredImage": {
+        "id": 28780,
+        "name": "Bremont at Palladio Jewellers in Vancouver &#8211; Official Bremont Retailer &#8211; Bremont",
+        "alt": "Bremont Bremont at Palladio Jewellers",
+        "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_Supermarine_SM43-DT-SS-BK-R-S-1.webp"
+      },
+      "shortDescription": "",
+      "descriptionLength": 3093,
+      "productUrl": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/supermarine/supermarine-500m-black-rubber-strap/"
+    },
+    {
+      "id": 28648,
+      "name": "Supermarine 500m",
+      "slug": "supermarine-500m",
+      "sku": "Not set",
+      "referenceNumber": "SM43-DT-SS-BK-B",
+      "status": "publish",
+      "dateCreated": "2025-06-15T12:08:52",
+      "categories": [
+        "Bremont",
+        "Supermarine",
+        "Watch"
+      ],
+      "featuredImage": {
+        "id": 28779,
+        "name": "Bremont at Palladio Jewellers in Vancouver &#8211; Official Bremont Retailer &#8211; Bremont",
+        "alt": "Bremont Bremont at Palladio Jewellers",
+        "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_Supermarine_SM43-DT-SS-BK-B-1.webp"
+      },
+      "shortDescription": "",
+      "descriptionLength": 3027,
+      "productUrl": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/supermarine/supermarine-500m/"
+    },
+    {
+      "id": 28646,
+      "name": "Supermarine Full Ceramic Tactical Black, NATO Strap",
+      "slug": "supermarine-full-ceramic-tactical-black-nato-strap",
+      "sku": "SM43-DT-BKCER-BK-N-S",
+      "referenceNumber": "SM43-DT-BKCER-BK-N-S",
+      "status": "publish",
+      "dateCreated": "2025-06-15T12:07:21",
+      "categories": [
+        "Bremont",
+        "Supermarine",
+        "Watch"
+      ],
+      "featuredImage": {
+        "id": 28778,
+        "name": "Bremont at Palladio Jewellers in Vancouver &#8211; Official Bremont Retailer &#8211; Bremont",
+        "alt": "Bremont Bremont at Palladio Jewellers",
+        "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_Supermarine_SM43-DT-BKCER-BK-N-S-1.webp"
+      },
+      "shortDescription": "",
+      "descriptionLength": 3454,
+      "productUrl": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/supermarine/supermarine-full-ceramic-tactical-black-nato-strap/"
+    },
+    {
+      "id": 28644,
+      "name": "Terra Nova 38 'Pink'",
+      "slug": "terra-nova-38-pink",
+      "sku": "Not set",
+      "referenceNumber": "TN38-ND-SS-PK-B",
+      "status": "publish",
+      "dateCreated": "2025-06-15T12:06:25",
+      "categories": [
+        "Bremont",
+        "Terra Nova",
+        "Watch"
+      ],
+      "featuredImage": {
+        "id": 28777,
+        "name": "Bremont at Palladio Jewellers in Vancouver &#8211; Official Bremont Retailer &#8211; Bremont",
+        "alt": "Bremont Bremont at Palladio Jewellers",
+        "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_TerraNova_38_Pink_TN38-ND-SS-PK-B-1.webp"
+      },
+      "shortDescription": "",
+      "descriptionLength": 2452,
+      "productUrl": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/terra-nova/terra-nova-38-pink/"
+    },
+    {
+      "id": 28642,
+      "name": "Terra Nova 40.5 Date, Green Dial",
+      "slug": "terra-nova-40-5-date-green-dial",
+      "sku": "TN40-DT-SS-GN-L-S",
+      "referenceNumber": "TN40-DT-SS-GN-L-S",
+      "status": "publish",
+      "dateCreated": "2025-06-15T12:02:42",
+      "categories": [
+        "Bremont",
+        "Terra Nova",
+        "Watch"
+      ],
+      "featuredImage": {
+        "id": 28776,
+        "name": "Bremont at Palladio Jewellers in Vancouver &#8211; Official Bremont Retailer &#8211; Bremont",
+        "alt": "Bremont Bremont at Palladio Jewellers",
+        "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_TerraNova_TN40-DT-SS-GN-L-S-2.webp"
+      },
+      "shortDescription": "",
+      "descriptionLength": 2590,
+      "productUrl": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/terra-nova/terra-nova-40-5-date-green-dial/"
+    },
+    {
+      "id": 28632,
+      "name": "Terra Nova 42.5 Chronograph, Leather Strap",
+      "slug": "terra-nova-42-5-chronograph-leather-strap",
+      "sku": "TN42-CHR-SS-BK-L-S",
+      "referenceNumber": "TN42-CHR-SS-BK-L-S",
+      "status": "publish",
+      "dateCreated": "2025-06-15T11:37:15",
+      "categories": [
+        "Bremont",
+        "Terra Nova",
+        "Watch"
+      ],
+      "featuredImage": {
+        "id": 28775,
+        "name": "Bremont at Palladio Jewellers in Vancouver &#8211; Official Bremont Retailer &#8211; Bremont",
+        "alt": "Bremont Bremont at Palladio Jewellers",
+        "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_Terranova_TN42-CHR-SS-BK-L-S-1.webp"
+      },
+      "shortDescription": "",
+      "descriptionLength": 2643,
+      "productUrl": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/terra-nova/terra-nova-42-5-chronograph-leather-strap/"
+    },
+    {
+      "id": 28629,
+      "name": "Terra Nova 42.5 Chronograph Bronze",
+      "slug": "terra-nova-42-5-chronograph-bronze",
+      "sku": "TN42-CHR-BZ-GN-L-S",
+      "referenceNumber": "TN42-CHR-BZ-GN-L-S",
+      "status": "publish",
+      "dateCreated": "2025-06-15T10:29:02",
+      "categories": [
+        "Bremont",
+        "Terra Nova",
+        "Watch"
+      ],
+      "featuredImage": {
+        "id": 28774,
+        "name": "Bremont at Palladio Jewellers in Vancouver &#8211; Official Bremont Retailer &#8211; Bremont",
+        "alt": "Bremont Bremont at Palladio Jewellers",
+        "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/BremontBronze_TerraNova_TN42-CHR-BZ-GN-L-S-2.webp"
+      },
+      "shortDescription": "",
+      "descriptionLength": 2892,
+      "productUrl": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/terra-nova/terra-nova-42-5-chronograph-bronze/"
+    },
+    {
+      "id": 28624,
+      "name": "Terra Nova 42.5 Chronograph, Bracelet",
+      "slug": "terra-nova-42-5-chronograph-bracelet",
+      "sku": "Not set",
+      "referenceNumber": "TN42-CHR-SS-BK-B",
+      "status": "publish",
+      "dateCreated": "2025-06-15T10:04:22",
+      "categories": [
+        "Bremont",
+        "Terra Nova",
+        "Watch"
+      ],
+      "featuredImage": {
+        "id": 28773,
+        "name": "Bremont at Palladio Jewellers in Vancouver &#8211; Official Bremont Retailer &#8211; Bremont",
+        "alt": "Bremont Bremont at Palladio Jewellers",
+        "src": "https://staging-palladiocanadacom-staging.kinsta.cloud/wp-content/uploads/2025/06/Bremont_Terranova_TN42-CHR-SS-BK-B-1.webp"
+      },
+      "shortDescription": "",
+      "descriptionLength": 2821,
+      "productUrl": "https://staging-palladiocanadacom-staging.kinsta.cloud/product/watch/bremont/terra-nova/terra-nova-42-5-chronograph-bracelet/"
+    }
+  ],
+  "duplicateAnalysis": [],
+  "referenceIssues": [],
+  "summary": {
+    "withValidRef": 29,
+    "withSKU": 22,
+    "withImages": 21
+  }
+}
